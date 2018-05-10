@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Group on Documentation</title>
-    <link>https://mmclssg1.github.io/ssdocs/tags/group/</link>
+    <link>/tags/group/</link>
     <description>Recent content in Group on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 16:45:59 +0200</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/ssdocs/tags/group/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/group/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Working with UI Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/product2/controls/</link>
+      <link>/product2/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product2/controls/</guid>
+      <guid>/product2/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/controls/</link>
+      <link>/product3v1/b3/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/controls/</guid>
+      <guid>/product3v1/b3/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/controls/</link>
+      <link>/product3v2/cloud/mockups3/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/controls/</guid>
+      <guid>/product3v2/cloud/mockups3/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/controls/</link>
+      <link>/product3v3/cloud/mockups3/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/controls/</guid>
+      <guid>/product3v3/cloud/mockups3/controls/</guid>
       <description></description>
     </item>
     
