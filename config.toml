@@ -11,8 +11,8 @@ layoutdir =  "layouts"
 publishdir =  "public"
 [params]
  ssdocs1url = "https://mmclssg1.github.io/ssdocs"
- ssdocs2url = "https://mmclssg1.github.io"
-#   balsamiqcomurl = "https://localhost:1313"
+ # ssdocs2url = "https://mmclssg1.github.io"
+#   ssdocs1url = "https://localhost:1313"
 
 [blackfriday]
   plainIdAnchors = true
