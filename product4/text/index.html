@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html lang="en">
+<head>
+  
+  
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+  
+
+  
+  <link rel="stylesheet" href="/css/docstyles.css?v=2018-05-10-1102" type="text/css" media="all">
+  
+
+  
+  
+  <script type="text/javascript" src="/js/lunr.js"></script>
+  <script src="/js/jquery.min.js?v=2018-05-10-1102"></script>
+  <script>
+    !window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.min.js"%3E%3C/script%3E'))
+  </script>
+  <script type="text/javascript" src="/js/balsamiq-complete.min.js?v=2018-05-10-1102"></script>
+  
+  
+
+  
+  <link rel="stylesheet" href="/css/dbc.css?v=2018-05-10-1102" type="text/css" media="all">
+  <script src="https://mmclssg1.github.io/ssdocs/js/dbc.min.js?v=2018-05-10-1102"></script>
+  
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Documentation">
+<title>
+
+
+  
+    Working With Text [MyBalsamiq] -
+  
+
+Documentation
+</title>
+</head>
+<body class="company-support-portal dbc">
+  
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TMQ8XW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TMQ8XW');</script>
+  
+
+<div id="page-wrapper">
+  
+  <header id="header-wrapper">
+    <nav class="navbar">
+    <div id="header" class="container-fluid">
+      <div class="row">
+        
+        <div class="col-xs-12">
+          <div id="site-nav" class="navbar-header">
+            <button id="rmenu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#gnav">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            
+            <a href="/" id="site-id">Documentation</a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="gnav">
+            <ul class="menubar gnav nav navbar">
+            <li id="gnav-cloud">
+                <a href="/product1/" class="gnava">Product 1</a>
+              </li>
+              <li id="gnav-desktop">
+                <a href="/product2/" class="gnava">Product 2</a>
+              </li>
+              <li id="gnav-plugins" class="hidden-xs">
+                <a href="#" class="gnava dropdown" class="dropdown-toggle" id="dDocs" data-toggle="dropdown" data-target="#">Product 3 <i class="ss-icon" style="font-size:7px">&#xF501;</i></a>
+                <ul class="dropdown-menu nav" aria-labelledby="dDocs">
+                  <li><a href="search/">SEARCH</a></li>
+                  <li><a href="/product3v1/product3v1_1/">Version 1.0</a></li>
+                  <li><a href="/product3v2/">Version 2.0</a></li>
+                  <li><a href="/product3v3/">Version 3.0</a></li>
+                </ul>
+              </li>
+              <li id="gnav-gdrive" class="visible-xs"><a href="/product3v1/product3v1_1/" class="gnava">Version 1.0</a></li>
+              <li id="gnav-confluence" class="visible-xs"><a href="/product3v2/" class="gnava">Version 2.0</a></li>
+              <li id="gnav-jira" class="visible-xs"><a href="/product3v3/" class="gnava">Version 3.0</a></li>
+              <li id="gnav-mybalsamiq">
+                <a href="/product4/" class="gnava">Product 4</a>
+              </li>
+              
+
+              
+              <li id="gnav-search" class="visible-xs visible-sm">
+                <a href="https://mmclssg1.github.io/ssdocs/search/" class="gnava"><span class="visible-sm hidden-xs"><i class="ss-icon ss-search"></i></span><span class="visible-xs hidden-sm">Search</span></a>
+              </li>
+              <li id="gnav-search-form" class="hidden-xs hidden-sm last">
+
+              <div id="search">
+                  <form class="search" action="search/" method="get" id="searchInNav">
+                    <div id="navSearchDiv">
+                    <input id="s" accesskey="s" type="text" value="Search..." name="q" tabindex="1" autocomplete="off"/>
+                    <input id="ss" type="submit" value="Search" tabindex="2"/>
+                    </div>
+                  </form>
+                  <script type="text/javascript">
+                    BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("navSearchDiv");
+                  </script>
+
+                  
+                </div>
+              </li>
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    </nav>
+  </header>
+  
+
+  
+  <div id="body-wrapper">
+
+
+
+
+
+<div id="body-main">
+  <div class="container-fluid">
+
+
+<div class="row">
+
+  <div class="local-nav local-nav-1 hidden-xs hidden-sm col-md-3">
+    <div id="sidebar-box">
+		
+
+
+<h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> myBalsamiq</a></h5>
+<ul id="doc-menu" class="collapse">
+  
+  <li><a href="/product4/"> Table of Contents </a> </li>
+    
+  <li><a href="/product4/tos/"> myBalsamiq Terms of Use and Privacy Policy </a> </li>
+    
+  <li><a href="/product4/intro/"> myBalsamiq Application Overview </a> </li>
+    
+  <li><a href="/product4/home/"> myBalsamiq Home Page (All Projects) </a> </li>
+    
+  <li><a href="/product4/project/"> myBalsamiq Project Page </a> </li>
+    
+  <li><a href="/product4/accesscontrolmatrix/"> myBalsamiq Access Control Matrix </a> </li>
+    
+  <li><a href="/product4/mockup/"> myBalsamiq Single Mockup Page </a> </li>
+    
+  <li><a href="/product4/editor/"> myBalsamiq Mockups Editor </a> </li>
+    
+  <li><a href="/product4/overview/"> Mockups Application Overview </a> </li>
+    
+  <li><a href="/product4/controls/"> Working with UI Controls </a> </li>
+    
+  <li><a href="/product4/inspector/"> The Property Inspector </a> </li>
+    
+  <li class="active"><a href="/product4/text/"> Working with Text </a> </li>
+    
+  <li><a href="/product4/datagrids/"> Working with Data Grids / Tables </a> </li>
+    
+  <li><a href="/product4/icons/"> Working with Icons </a> </li>
+    
+  <li><a href="/product4/images/"> Working with Images </a> </li>
+    
+  <li><a href="/product4/markup/"> Working with Markup </a> </li>
+    
+  <li><a href="/product4/symbols/"> Working with Symbols </a> </li>
+    
+  <li><a href="/product4/sitemaps/"> Working with Site Maps </a> </li>
+    
+  <li><a href="/product4/shortcuts/"> Keyboard Shortcuts </a> </li>
+    
+  <li><a href="/product4/linking/"> Linking Mockups Together </a> </li>
+    
+  <li><a href="/product4/skins/"> Working with Skins (Sketch vs. Wireframe) </a> </li>
+    
+  <li><a href="/product4/fullscreen/"> Presenting Your Work </a> </li>
+    
+  <li><a href="/product4/assets/"> Using Assets in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/exporting/"> Exporting to PDF or PNG in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/history/"> Site, Project and Mockup History in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/communication/"> Team Communication in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/prototypeview/"> myBalsamiq Prototype View </a> </li>
+    
+  <li><a href="/product4/notifications/"> myBalsamiq Email Notifications </a> </li>
+    
+  <li><a href="/product4/sharing/"> Sharing Your Work with outside Clients in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/usertesting/"> User Testing Your myBalsamiq Prototypes </a> </li>
+    
+  <li><a href="/product4/usersettings/"> myBalsamiq User Settings </a> </li>
+    
+  <li><a href="/product4/sitesettings/"> myBalsamiq Site Settings </a> </li>
+    
+</ul>
+
+		
+    <div id="toc">
+	<h5><a href="#" data-toggle="collapse" data-target="#toc-menu" aria-expanded="false" aria-controls="toc-menu" class="menu-toggle"><i class="ss-icon ss-navigatedown"></i> On This Page</a></h5>
+	<div id="toc-menu" class="collapse in"></div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="page-article" class="col-xs-12 col-md-9">
+    <div id="support-main">
+      <div class="support-body">
+        <article>
+          
+          <h5 class="subtitle"><a href='../'>myBalsamiq</a></h5>
+          
+          <h1 class="title mt0">Working with Text</h1>
+          <div class="breadcrumbs visible-xs visible-sm"><div id="breadcrumbs">
+  <span><a href="/">home</a></span>
+
+  &gt; <span><a href='../'>myBalsamiq</a></span>
+
+  &gt; <span>Working With Text</span>
+</div>
+</a></div>
+          <div class="article-content content article">
+            
+              
+              
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                  
+
+<p>Many Mockups UI controls, such as Button, Label or DataGrid, have text in them. To edit the text, double-click on the control and start typing. Or, if you have the control selected, simply hit Enter or F2 to start editing. To commit the text you typed, simply click anywhere other than the text field you typed in or hit Enter or CTRL+Enter. If you want to discard the text changes you just made, hit the ESC key.</p>
+
+<p>Some controls use certain characters as separators. For instance, to create multiple tabs in a tabs bar, you separate them with a comma.</p>
+
+<p><img src="//media.balsamiq.com/img/support/tutorials/firstmockup/FirstMockup-tabs_edit.png" alt="" /></p>
+
+<p>Or, a space character separates tags in a Tag Cloud control. Some other controls, like the Tree, use other characters altogether. In such cases the default text for the Control includes explanations on how to use it.</p>
+
+<p>When editing text in a Label or Paragraph control you will see a small number in the lower-right corner of the editing box. This is the number of characters, which can be useful for copywriting or other purposes.</p>
+
+<hr />
+
+<h2 id="basic-formatting">Basic Formatting</h2>
+
+<h3 id="text-style">Text Style</h3>
+
+<p>You can use the following notation to format only certain parts of your control&rsquo;s text.</p>
+
+<ul>
+<li>for italic, use _this notation_</li>
+<li>for a link, use [this notation]</li>
+<li>for bold, use *this notation*</li>
+<li>for disabled, use -this notation-</li>
+<li>for underlined, use &amp;this notation&amp;</li>
+<li>for strikethrough, use ~this notation~</li>
+<li>for color, use {color:#FF0000}this notation{color}.</li>
+<li>for font size, use {size:16}this notation{size}</li>
+</ul>
+
+<p>All of the above syntax works around words separated by white spaces, and underline will work within words.</p>
+
+<p><span class="alert alert-info show" role="alert">
+<strong>Notes:</strong><br>
+1.  The #FF0000 above is the color in HEX form, just like HTML. The macro will work with or without the pound sign. You can also use certain color names (green, yellow, etc.) which you can find by moving your mouse over the colors in the color palette in the Property Inspector.<br>2.  See the <a href="#making-links-in-text-actually-work">next section</a> for how to turn [linked text] into functioning links to websites or other mockups.</span></p>
+
+<p>Here&rsquo;s a screenshot of what the above text looks like in a Paragraph control, for instance:</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/italiclinksbold.png" alt="" /></p>
+
+<p>The shortcuts will work almost everywhere where it makes sense, and you can combine them, so to make an italic link use [_this_] or _[this]_.</p>
+
+<p>Some controls like Paragraph or Label allow you to &ldquo;unbold&rdquo; the text via the Property Inspector panel. If you do so, the words you *bolded* will stay bold. A few controls use bold text by default, so bolding text within those controls won&rsquo;t make a difference.</p>
+
+<p>If you want to show these special formatting characters as actual text, you can escape the *, _, -, [ and ] characters with \*, \_, \-, \[ and \], so if you want to write &ldquo;this [is] some text&rdquo; and don&rsquo;t want the &ldquo;is&rdquo; to become a link, just type &ldquo;this \[is\] some text&rdquo;.</p>
+
+<h3 id="line-breaks">Line Breaks</h3>
+
+<p>Most controls allow you to insert a line break to wrap text from one line to the next. You can do this by writing \r in front of the text you want to start on a new line. See the example below where a line break is used in the second item in a Radio Button control.</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/linebreak.png" alt="" /></p>
+
+<h3 id="bulleted-lists">Bulleted Lists</h3>
+
+<p>In a paragraph control, you can create a bulleted list by preceding text with either a hyphen or an asterisk followed by a space.</p>
+
+<pre>* item 1
+* item 2
+- item 3
+- item 4</pre>
+
+<hr />
+
+<h2 id="making-links-in-text-actually-work">Making Links in Text Actually Work</h2>
+
+<p>If you are using the link notation above (e.g., [this is a link]), you can turn link-formatted text into actual links using <a href="http://daringfireball.net/projects/markdown/syntax">markdown syntax</a>.</p>
+
+<p>To do this, <strong>add the link destination in parentheses immediately after the link text</strong>. The link destination can be a URL or the name of another mockup in the same folder. All the following formats are valid.</p>
+
+<p>Web addresses:</p>
+
+<pre><code> [Balsamiq Website](balsamiq.com)
+ [Balsamiq Website](www.balsamiq.com)
+ [Balsamiq Website](http://www.balsamiq.com)
+ [Balsamiq Website](https://balsamiq.com)
+</code></pre>
+
+<p>Mockups in the same project:</p>
+
+<pre><code> [Features Page](features)
+ [Features Page](features.bmml)
+</code></pre>
+
+<p>Adding links in this way will cause them to show up in the Property Inspector as well, as shown below.</p>
+
+<p>This text</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/bracket_links-edit.png" alt="bracket_links-edit.png" /></p>
+
+<p>results in</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/bracket_links.png" alt="bracket_links.png" /></p>
+
+<p>You can link specific strings of text as well as the whole control.</p>
+
+<span class="alert alert-info show" role="alert"><strong>Note:</strong> If the whole control is linked, text links will be disabled. If the whole control is subsequently unlinked, the previous text links will return.</span>
+
+<hr />
+
+<h2 id="more-macros">More Macros</h2>
+
+<h3 id="lorem">Lorem</h3>
+
+<p>Type lorem in a Paragraph or Text Area to use our <a href="http://www.lipsum.com/" title="What is Lorem Ipsum">Lorem Ipsum</a> generator.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/m4d/lorem.gif" alt="" /></p>
+
+<h3 id="mockup-path">{Mockup-Path}</h3>
+
+<p>Type {mockup-path} (all lower-case) in a Label or Paragraph control to show the full path of the current mockup.</p>
+
+<h3 id="mockup-name">{Mockup-Name}</h3>
+
+<p>Type {mockup-name} (all lower-case) in a Label or Paragraph control to show the current mockup name.</p>
+
+<hr />
+
+<h2 id="placeholder-text">Placeholder Text</h2>
+
+<p>Another option for creating placeholder text, besides the <a href="#more-macros">Lorem Ipsum text generator</a>, is to use the <strong>Line of Text</strong> and <strong>Block of Text</strong> controls.<br />
+<img src="//media.balsamiq.com/img/support/docs/m4d/b3/placeholder-text.png" alt="placeholder-text.png" /></p>
+
+                  
+                
+								
+                
+                
+              
+
+            
+          </div>
+          
+          <hr>
+          <nav class="section-pager">
+            <ul class="pager m0">
+              <li class="previous">
+              
+              
+                <a href="/product4/inspector/"><span aria-hidden="true">&larr;</span> The Property Inspector</a>
+              
+              
+              </li>
+
+              <li class="next">
+              
+              
+                <a href="/product4/datagrids/">Working with Data Grids / Tables <span aria-hidden="true">&rarr;</span></a>
+              
+              
+              </li>
+            </ul>
+          </nav>
+          <hr>
+          
+         </article>
+      </div>
+    </div>
+  </div>
+
+</div> 
+
+
+  </div>
+</div>
+
+
+
+
+<script>
+			$(document).ready( function(){
+				$("img[alt='gif']").gifplayer({ label: 'Play' });
+			});
+</script>
+
+ </div>
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+</div>
+
+
+
+
+<script>
+anchors.options = {
+  icon: '#',
+  placement: 'left'
+};
+anchors.add('div.article-content.content.article h2, div.article-content.content.article h3');
+</script>
+
+</body>
+</html>
+

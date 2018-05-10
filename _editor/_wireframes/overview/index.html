@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html lang="en">
+<head>
+  
+  
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+  
+
+  
+  <link rel="stylesheet" href="/css/docstyles.css?v=2018-05-10-1102" type="text/css" media="all">
+  
+
+  
+  
+  <script type="text/javascript" src="/js/lunr.js"></script>
+  <script src="/js/jquery.min.js?v=2018-05-10-1102"></script>
+  <script>
+    !window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.min.js"%3E%3C/script%3E'))
+  </script>
+  <script type="text/javascript" src="/js/balsamiq-complete.min.js?v=2018-05-10-1102"></script>
+  
+  
+
+  
+  <link rel="stylesheet" href="/css/dbc.css?v=2018-05-10-1102" type="text/css" media="all">
+  <script src="https://mmclssg1.github.io/ssdocs/js/dbc.min.js?v=2018-05-10-1102"></script>
+  
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Documentation">
+<title>
+
+
+  
+    Editor Overview [] -
+  
+
+Documentation
+</title>
+</head>
+<body class="company-support-portal dbc">
+  
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TMQ8XW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TMQ8XW');</script>
+  
+
+<div id="page-wrapper">
+  
+  <header id="header-wrapper">
+    <nav class="navbar">
+    <div id="header" class="container-fluid">
+      <div class="row">
+        
+        <div class="col-xs-12">
+          <div id="site-nav" class="navbar-header">
+            <button id="rmenu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#gnav">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            
+            <a href="/" id="site-id">Documentation</a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="gnav">
+            <ul class="menubar gnav nav navbar">
+            <li id="gnav-cloud">
+                <a href="/product1/" class="gnava">Product 1</a>
+              </li>
+              <li id="gnav-desktop">
+                <a href="/product2/" class="gnava">Product 2</a>
+              </li>
+              <li id="gnav-plugins" class="hidden-xs">
+                <a href="#" class="gnava dropdown" class="dropdown-toggle" id="dDocs" data-toggle="dropdown" data-target="#">Product 3 <i class="ss-icon" style="font-size:7px">&#xF501;</i></a>
+                <ul class="dropdown-menu nav" aria-labelledby="dDocs">
+                  <li><a href="search/">SEARCH</a></li>
+                  <li><a href="/product3v1/product3v1_1/">Version 1.0</a></li>
+                  <li><a href="/product3v2/">Version 2.0</a></li>
+                  <li><a href="/product3v3/">Version 3.0</a></li>
+                </ul>
+              </li>
+              <li id="gnav-gdrive" class="visible-xs"><a href="/product3v1/product3v1_1/" class="gnava">Version 1.0</a></li>
+              <li id="gnav-confluence" class="visible-xs"><a href="/product3v2/" class="gnava">Version 2.0</a></li>
+              <li id="gnav-jira" class="visible-xs"><a href="/product3v3/" class="gnava">Version 3.0</a></li>
+              <li id="gnav-mybalsamiq">
+                <a href="/product4/" class="gnava">Product 4</a>
+              </li>
+              
+
+              
+              <li id="gnav-search" class="visible-xs visible-sm">
+                <a href="https://mmclssg1.github.io/ssdocs/search/" class="gnava"><span class="visible-sm hidden-xs"><i class="ss-icon ss-search"></i></span><span class="visible-xs hidden-sm">Search</span></a>
+              </li>
+              <li id="gnav-search-form" class="hidden-xs hidden-sm last">
+
+              <div id="search">
+                  <form class="search" action="search/" method="get" id="searchInNav">
+                    <div id="navSearchDiv">
+                    <input id="s" accesskey="s" type="text" value="Search..." name="q" tabindex="1" autocomplete="off"/>
+                    <input id="ss" type="submit" value="Search" tabindex="2"/>
+                    </div>
+                  </form>
+                  <script type="text/javascript">
+                    BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("navSearchDiv");
+                  </script>
+
+                  
+                </div>
+              </li>
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    </nav>
+  </header>
+  
+
+  
+  <div id="body-wrapper">
+
+
+
+
+
+<div id="body-main">
+  <div class="container-fluid">
+
+
+<div class="row">
+
+  <div class="local-nav local-nav-1 hidden-xs hidden-sm col-md-3">
+    <div id="sidebar-box">
+		
+
+
+<h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> </a></h5>
+<ul id="doc-menu" class="collapse">
+  
+  <li><a href="/_editor/_wireframes/adding-controls/"> Adding and Arranging UI Controls </a> </li>
+    
+  <li><a href="/_editor/_wireframes/alternates/"> Alternates </a> </li>
+    
+  <li><a href="/_editor/_wireframes/collaborating/"> Collaborative Editing </a> </li>
+    
+  <li><a href="/_editor/_wireframes/editing-controls/"> Editing Controls </a> </li>
+    
+  <li class="active"><a href="/_editor/_wireframes/overview/"> Editor Overview </a> </li>
+    
+  <li><a href="/_editor/_wireframes/exporting/"> Exporting </a> </li>
+    
+  <li><a href="/_editor/_wireframes/fullscreen/"> Full Screen Presentation Mode </a> </li>
+    
+  <li><a href="/_editor/_wireframes/importing/"> Importing </a> </li>
+    
+  <li><a href="/_editor/_wireframes/shortcuts/"> Keyboard Shortcuts </a> </li>
+    
+  <li><a href="/_editor/_wireframes/linking/"> Linking Wireframes Together </a> </li>
+    
+  <li><a href="/_editor/_wireframes/markup/"> Markup </a> </li>
+    
+  <li><a href="/_editor/_wireframes/sharing/"> Sharing and Reviewing </a> </li>
+    
+  <li><a href="/_editor/_wireframes/symbols/"> Symbols </a> </li>
+    
+  <li><a href="/_editor/_wireframes/images/"> Using Images, Assets, and Icons </a> </li>
+    
+</ul>
+
+		
+    <div id="toc">
+	<h5><a href="#" data-toggle="collapse" data-target="#toc-menu" aria-expanded="false" aria-controls="toc-menu" class="menu-toggle"><i class="ss-icon ss-navigatedown"></i> On This Page</a></h5>
+	<div id="toc-menu" class="collapse in"></div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="page-article" class="col-xs-12 col-md-9">
+    <div id="support-main">
+      <div class="support-body">
+        <article>
+          
+          <h5 class="subtitle">Mockups for Editor</h5>
+          
+          <h1 class="title mt0">Editor Overview</h1>
+          <div class="breadcrumbs visible-xs visible-sm"><div id="breadcrumbs">
+  <span><a href="/">home</a></span>
+
+  &gt; <span><a href='/_editor'>Editor</a></span>
+
+  &gt; <span>Editor Overview</span>
+</div>
+</a></div>
+          <div class="article-content content article">
+            
+              
+
+<p>The Balsamiq Wireframes editor interface is made up of five primary areas: the <a href="#the-toolbar">toolbar</a>, the <a href="#the-ui-library">UI Library</a>, the <a href="#the-canvas">canvas</a>, the <a href="#the-navigator-panel">navigator panel</a> and the <a href="#the-properties-panel">properties panel</a>. Each is described below.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/ui-overview-annotated.png" alt="" /></p>
+
+<h2 id="the-toolbar">The Toolbar</h2>
+
+<p>The toolbar contains a series of icons for performing actions on other areas of the user interface.</p>
+
+<p>The first set of icons is described below.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/toolbar-left.png" alt="" /></p>
+
+<ol>
+<li>Show/Hide the left panel</li>
+<li>View your wireframes as a thumbnail grid</li>
+<li>Create a new wireframe</li>
+<li>Wireframe actions (rename, etc.) and navigate between wireframes (<em>shown when left panel is hidden</em>)</li>
+<li>Go to next or previous wireframe (<em>shown when left panel is hidden</em>)</li>
+</ol>
+
+<p>The group of icons in the center of the toolbar is for commonly-performed <a href="#the-canvas">canvas</a> functions. These are actions that you are probably used to from text editors or other drawing tools, such as copy, paste, <a href="../adding-controls/#grouping-ui-controls">group</a>, align and zoom. The last icon is for toggling markup (<a href="../markup/">read about markup here</a>).</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/toolbar-middle.png" alt="" /></p>
+
+<p>The final section of the toolbar on the far right contains the <a href="#the-quick-add-tool">Quick Add tool</a>, toggle icons for the <a href="#the-ui-library">UI Library</a>, <a href="#comments">Comments Panel</a> <a href="#the-property-inspector">Property Inspector</a> and <a href="#the-project-info-panel">Project Info Panel</a>, and an icon to enter <a href="../fullscreen/">Full Screen Presentation Mode</a>. <img src="//media.balsamiq.com/img/support/docs/bw/toolbar-right.png" alt="" /></p>
+
+<p>The top of the toolbar shows the name of the project, which you can double-click to rename (or go to Project &gt; Rename Project&hellip; in the menu).</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/rename-project.png" alt="" /></p>
+
+<hr />
+
+<h2 id="the-quick-add-tool">The Quick Add Tool</h2>
+
+<p>The Quick Add tool is the fastest way to add UI controls to your wireframes. To use quick add, click inside the quick add input box (or <strong>use the &ldquo;/&rdquo; or &ldquo;+&rdquo; keyboard shortcut to enter it</strong>).</p>
+
+<p>Type a few letters from the name of a UI control or icon and Quick Add will show you a list of suggestions. Use your mouse or arrow keys to scroll down the list and click or press Enter to add the control or icon on the canvas. You can also use Shift + Enter to place the control where your mouse cursor is on the canvas.</p>
+
+<p>For example, typing &ldquo;bu&rdquo; shows a list containing &ldquo;Button&rdquo;, &ldquo;Button Bar&rdquo;, &ldquo;Help Button&rdquo;, &ldquo;Radio Button&rdquo; and &ldquo;Round Button&rdquo;. Typing &ldquo;hel&rdquo;, on the other hand, only returns &ldquo;Help Button&rdquo;. Pressing the ESCape key makes the list disappear.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/quickadd.png" alt="" /></p>
+
+<span class="alert alert-info show" role="alert"><strong>Tip:</strong> As you become familiar with quick add, you can hide the UI Library and only use quick add to add UI elements to your wireframes. This maximizes both your canvas area and your speed.</span>
+
+<hr />
+
+<h2 id="the-ui-library">The UI Library</h2>
+
+<p>The UI Library, or User Interface controls Library, is the long strip of user interface controls just below the toolbar. It lists all of the UI control types that are included as well as <a href="../images/">Assets</a>, <a href="../images/#adding-icons-via-the-ui-library-and-quick-add">Icons</a>, and <a href="../symbols/">Symbols</a>. The main goal of the UI Library is to let you add UI controls to the canvas, but you can also use it to see what&rsquo;s possible and to get inspiration for your wireframes.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/uilibrary.png" alt="" /></p>
+
+<p>To add a new UI control to the canvas, select the control type you wish to add then either drag it to the canvas below or simply double-click and it will be placed on the canvas for you.</p>
+
+<p>The UI Library can be toggled on and off in several ways: clicking the icon to the right of the Quick Add box, using the keyboard shortcut CTRL/CMD+L, or by selecting View &gt; UI Library from the application menu.</p>
+
+<hr />
+
+<h2 id="the-canvas">The Canvas</h2>
+
+<p>This is the main working area of the editor, where your UI wireframe comes to life. Once you add UI controls to it, you can move them, resize them and tweak them until your UI wireframe is ready. See <a href="../adding-controls/">Adding and Arranging UI Controls</a> to learn more.</p>
+
+<p>The canvas grows and shrinks with your application window, so you can make room for bigger wireframes if you need to.</p>
+
+<span class="alert alert-info show" role="alert"><strong>Note:</strong> If you are working on a small screen or have very large wireframes you might want to read <a href="https://support.balsamiq.com/desktop/smallscreen/">this article on hiding the panels to make more room for the canvas</a>.</span>
+
+<hr />
+
+<h2 id="the-navigator-panel">The Navigator Panel</h2>
+
+<p>The navigator panel on the left shows the list of wireframes, assets or Symbols in your project. The currently selected object is highlighted. You can select multiple objects in the navigator panel by holding down the Control or Shift key and clicking on them. Wireframes and assets can be viewed as a text-only list or as thumbnail previews.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/navigatorpanel.png" alt="" /></p>
+
+<p>You can hide the navigator panel by clicking the navigator toggle icon above the panel (keyboard shortcut: CTRL/CMD + J). Hiding it will show additional icons in the toolbar (<a href="#the-toolbar">shown above</a>) for navigating between wireframes or assets (depending on which one is selected). The panel can be resized by placing your mouse cursor over the line separating the navigator panel from the canvas and dragging left or right. You can double-click on the separator line to reset it to the default width.</p>
+
+<p>You can jump between wireframes or assets using your keyboard via CTRL+Tab or by clicking on one in the navigator and using the up and down arrow keys.</p>
+
+<p>Wireframes can be reordered by dragging them up and down in the navigator panel. This can be useful when <a href="../exporting/#exporting-to-pdf">exporting to PDF</a>, for example. The order of your wireframes will be remembered when you close and reopen your project, even if opened on a different computer.</p>
+
+<h3 id="using-a-hierarchy">Using a Hierarchy</h3>
+
+<p>The navigator panel also offers a hierarchical structure to better organize your wireframes.</p>
+
+<p>To use it, select the wireframe you wish to be the child and press the Tab key. The child wireframe will be placed in a tree hierarchy below the wireframe above it.</p>
+
+<p>You can then use the arrows to the left of the parent wireframe to show and hide the wireframes under it.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/hierarchy.png" alt="gif" /></p>
+
+<p>To restore it to the top level, use Shift+Tab. The video below shows nesting wireframes in action.</p>
+
+<div class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/WCbh2CpnWQo?rel=0"></iframe></div>
+
+<h3 id="context-menu-actions">Context Menu Actions</h3>
+
+<p>A context menu is also available for the objects that are open in the navigator panel. You can either right-click on the selected object or click the small arrow that appears when you hover over it to open the menu.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/navigator-context-menu.png" alt="" /></p>
+
+<p>The contents of this menu vary depending on which type of object is selected (wireframe, asset, symbol, or trash) but it generally contains options such as rename, move to trash, and duplicate. In the Wireframes view it also contains actions for working with <a href="../alternates/">alternates</a>.</p>
+
+<h3 id="renaming-wireframes">Renaming Wireframes</h3>
+
+<p>Renaming wireframes can be done via the context menu or by double-clicking on the name of the wireframe in the navigator panel. Wireframes with <a href="../linking/">links</a> will automatically be updated when a linked wireframe name changes.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/rename-wireframe.png" alt="" /></p>
+
+<hr />
+
+<h2 id="the-properties-panel">The Properties Panel</h2>
+
+<p>The panel on the right side of the application (when shown) displays properties for the selected control or object. Depending on which icon is selected it shows either the <a href="#the-property-inspector">Property Inspector</a>, the <a href="#the-project-info-panel">Project Info Panel</a>, or the <a href="#comments">Comments Panel</a>. It can be hidden by de-selecting the panel icons in the toolbar or in the View menu.</p>
+
+<h3 id="the-property-inspector">The Property Inspector</h3>
+
+<p>The Property Inspector allows you to set some common properties for controls, such as alignment, position and size as well as specific settings for certain controls (selection state, text properties, color, etc.). It is available when viewing wireframes, assets, and Symbols.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/property-inspector.png" alt="" /></p>
+
+<p>You can show and hide the Property Inspector by clicking the toggle icon above it (keyboard shortcut CTRL/CMD + ; or ALT/Option + Enter). When hidden you can also show it by right-clicking a control and selecting &ldquo;Properties&hellip;&rdquo;.</p>
+
+<p>If you have multiple controls selected it will show properties that are common to all selected controls as well as options for aligning and distributing.</p>
+
+<p>When no controls are selected the Property Inspector shows notes for the selected wireframes, asset, or Symbol. In the wireframes view the panel also shows <a href="../alternates/">wireframe alternates</a>.</p>
+
+<span class="alert alert-info show" role="alert"><strong>Note:</strong> You can format notes text using the <a href="../editing-controls/#basic-formatting">syntax described here</a> to make text bold, underlined, etc.</span>
+
+<p>For assets and Symbols it also shows the count and name of wireframes where the selected object is used.</p>
+
+<h3 id="the-project-info-panel">The Project Info Panel</h3>
+
+<p>The Project Info Panel allows you to define project-wide settings for skin, font, and link and selection color. It also contains an area to add notes about the project. Click the icon to the right of the Property Inspector icon to toggle the Project Info panel (keyboard shortcut: CTRL/CMD + ,).</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/project-info-panel.png" alt=" " /></p>
+
+<p>These settings will be applied to <em>all wireframes in the project</em> and will be saved with the project (i.e., they persist when the project is closed and reopened or shared with others).</p>
+
+<p>The default font is <a href="https://balsamiq.com/products/mockups/font/">Balsamiq Sans</a>, just as in previous versions (<em>not</em> Comic Sans as you might think; although you can set it to that, all you Comic Sans lovers out there!).</p>
+
+<span class="alert alert-info show" role="alert"><strong>Note:</strong> If you want to use a specific project font we recommend that you set it before you start creating your wireframes. Changing the project font may adversely affect existing wireframes in your project. Each font has different dimensions and proportions so switching fonts may cause controls to overlap or line up unevenly. Also, setting your project font to a variant such as &ldquo;thin&rdquo;, &ldquo;light&rdquo;, or &ldquo;extrabold&rdquo; may override font style settings on individual controls.</span>
+
+<h4 id="sketch-vs-wireframe-skin">Sketch vs Wireframe Skin</h4>
+
+<p>The two skins provided are intended to allow you to work on early ideas using a rough, sketchy look (Sketch Skin), and then later update it to a crisper, more polished look when it is ready for presentation (Wireframe Skin).</p>
+
+<p>The screenshots below show a comparison of a sample design in the default &ldquo;sketch&rdquo; and &ldquo;wireframe&rdquo; skins, respectively. Click to view larger images.</p>
+
+<p class="clearfix center"><a class="fb fleft" href="//media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" rel="popup"><img alt="Sketch Skin" src="//media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" style="width: 390px; margin-right: 3px;" /></a> <a class="fb fleft" href="//media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" rel="popup"><img alt="Wireframe Skin" src="//media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" style="width: 390px;" /></a></p>
+
+<h3 id="comments">Comments</h3>
+
+<p>The Comments Panel allows you to collaborate on your designs by sharing feedback asynchronously or, if you prefer, making notes for yourself as you work.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/comments-panel.png" alt=" " /></p>
+
+<p>Comments can be marked as resolved after they are reviewed and addressed. You can add Callout markers to indicate specific places in the wireframe where the comments applies or add a link to an <a href="../alternates/">alternate</a> version.</p>
+
+<p>You can learn more about comments in <a href="../sharing/#reviewing-and-commenting">Sharing and Reviewing</a>.</p>
+
+<hr />
+
+<h2 id="thumbnail-grid-view">Thumbnail Grid View</h2>
+
+<p>Clicking the icon to the right of the <a href="#the-navigator-panel">navigator panel</a> toggle will switch to thumbnail grid view, shown here.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/thumbnail-grid.png" alt="" /></p>
+
+<p>This view shows thumbnails of all of your wireframes and is useful for getting an overview of your project. It allows you to see more of your wireframes at once and is a good view to use for reordering and tidying up (e.g., renaming and moving to the trash). You can trash multiple wireframes at once by selecting them (using CTRL/Shift + click) and bringing up the <a href="#context-menu-actions">context menu</a>.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/thumbnail-multi-select.png" alt="" /></p>
+
+<p>Thumbnail grid view is available when viewing wireframes and assets, and is the only view available for trash.</p>
+
+<hr />
+
+<h2 id="trash">Trash</h2>
+
+<p>Trash is available for wireframes, assets, and Symbols you have deleted. This makes it easy to keep your project tidy as you make progress, but still allows you to browse or recover earlier concepts.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/trash-menu.png" alt="" /></p>
+
+<p>To recover a trashed object from the Trash panel click the context menu arrow and select &ldquo;Restore.&rdquo; You also have the option to delete permanently.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/bw/trash-view.png" alt="" /></p>
+
+            
+          </div>
+          
+          <hr>
+          <nav class="section-pager">
+            <ul class="pager m0">
+              <li class="previous">
+              
+              
+                <a href="/_editor/_wireframes/editing-controls/"><span aria-hidden="true">&larr;</span> Editing Controls</a>
+              
+              
+              </li>
+
+              <li class="next">
+              
+              
+                <a href="/_editor/_wireframes/exporting/">Exporting <span aria-hidden="true">&rarr;</span></a>
+              
+              
+              </li>
+            </ul>
+          </nav>
+          <hr>
+          
+         </article>
+      </div>
+    </div>
+  </div>
+
+</div> 
+
+
+  </div>
+</div>
+
+
+
+
+<script>
+			$(document).ready( function(){
+				$("img[alt='gif']").gifplayer({ label: 'Play' });
+			});
+</script>
+
+ </div>
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+</div>
+
+
+
+
+<script>
+anchors.options = {
+  icon: '#',
+  placement: 'left'
+};
+anchors.add('div.article-content.content.article h2, div.article-content.content.article h3');
+</script>
+
+</body>
+</html>
+

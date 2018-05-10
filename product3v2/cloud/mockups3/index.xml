@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Table of Contents on Documentation</title>
+    <link>/product3v2/cloud/mockups3/</link>
+    <description>Recent content in Table of Contents on Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
+    
+	<atom:link href="/product3v2/cloud/mockups3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Mockups 3 for Jira Cloud</title>
+      <link>/product3v2/cloud/mockups3/intro/</link>
+      <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/intro/</guid>
+      <description>This page contains usage instructions for Mockups 3 for Jira Cloud.
+Using Jira Server? If you are hosting Jira behind the firewall, please see this article instead. Jira Cloud Administrators: the Mockups 3 for Jira Cloud Admin Guide is for you.
+Note: Mockups 3 for Jira Cloud was released January 18, 2016. See our transition guide if you have the older pre-installed version of Mockups for Jira. Balsamiq Mockups 3 for Jira Cloud provides very similar functionality to Balsamiq Mockups 3 for Desktop.</description>
+    </item>
+    
+    <item>
+      <title>Mockups 3 for Jira Cloud Admin Guide</title>
+      <link>/product3v2/cloud/mockups3/admin-guide-cloud/</link>
+      <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/admin-guide-cloud/</guid>
+      <description>This page contains links to installation, pricing, and licensing information for Mockups 3 for Jira Cloud.
+Using Jira Server? If you are hosting Jira behind the firewall, please see this article instead. Usage instructions for the plugin are in the Balsamiq Mockups 3 for Jira Introduction.
+Note: Mockups 3 for Jira Cloud was released January 18, 2016. See our transition guide if you have the older pre-installed version of Mockups for Jira.</description>
+    </item>
+    
+    <item>
+      <title>Mockups 3 for Jira Cloud Transition Guide</title>
+      <link>/product3v2/cloud/mockups3/transition-guide/</link>
+      <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/transition-guide/</guid>
+      <description>Mockups 3 for Jira Cloud was released January 18, 2016. The new version has projects, symbols, real time collaboration and lots of other improvements.
+ We retired the old version of the plugin in June 2016. If you wish to use our add-on, you&amp;rsquo;ll need to start a 30 day trial and subscribe to Mockups 3 for Jira Cloud.
+If you haven&amp;rsquo;t yet purchased Mockups for Jira, but have a Cloud instance older than January 18, 2016, you will have the older plugin pre-installed.</description>
+    </item>
+    
+    <item>
+      <title>Balsamiq Mockups 3 Application Overview</title>
+      <link>/product3v2/cloud/mockups3/overview/</link>
+      <pubDate>Sat, 09 May 2015 16:44:43 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/overview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with UI Controls</title>
+      <link>/product3v2/cloud/mockups3/controls/</link>
+      <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/controls/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Property Inspector</title>
+      <link>/product3v2/cloud/mockups3/inspector/</link>
+      <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/inspector/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Alternates</title>
+      <link>/product3v2/cloud/mockups3/alternates/</link>
+      <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/alternates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Project Info Panel</title>
+      <link>/product3v2/cloud/mockups3/projectinfo/</link>
+      <pubDate>Sat, 09 May 2015 16:46:50 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/projectinfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Skins (Sketch vs. Wireframe)</title>
+      <link>/product3v2/cloud/mockups3/skins/</link>
+      <pubDate>Sat, 09 May 2015 17:03:44 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/skins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Text</title>
+      <link>/product3v2/cloud/mockups3/text/</link>
+      <pubDate>Sat, 09 May 2015 16:47:53 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Data Grids / Tables</title>
+      <link>/product3v2/cloud/mockups3/datagrids/</link>
+      <pubDate>Sat, 09 May 2015 16:48:09 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/datagrids/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Icons</title>
+      <link>/product3v2/cloud/mockups3/icons/</link>
+      <pubDate>Sat, 09 May 2015 16:48:21 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/icons/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Images and Assets</title>
+      <link>/product3v2/cloud/mockups3/images/</link>
+      <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Markup</title>
+      <link>/product3v2/cloud/mockups3/markup/</link>
+      <pubDate>Sat, 09 May 2015 16:58:17 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/markup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Symbols</title>
+      <link>/product3v2/cloud/mockups3/symbols/</link>
+      <pubDate>Sat, 09 May 2015 16:58:34 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/symbols/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Working with Site Maps</title>
+      <link>/product3v2/cloud/mockups3/sitemaps/</link>
+      <pubDate>Sat, 09 May 2015 16:59:07 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/sitemaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exporting Your Mockups</title>
+      <link>/product3v2/cloud/mockups3/exporting/</link>
+      <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/exporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importing Mockups and Symbols</title>
+      <link>/product3v2/cloud/mockups3/importing/</link>
+      <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/importing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Mockups Together</title>
+      <link>/product3v2/cloud/mockups3/linking/</link>
+      <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/linking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Full Screen Presentation Mode</title>
+      <link>/product3v2/cloud/mockups3/fullscreen/</link>
+      <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/fullscreen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keyboard Shortcuts</title>
+      <link>/product3v2/cloud/mockups3/shortcuts/</link>
+      <pubDate>Sun, 10 May 2015 10:34:01 +0200</pubDate>
+      
+      <guid>/product3v2/cloud/mockups3/shortcuts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

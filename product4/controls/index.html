@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html lang="en">
+<head>
+  
+  
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+  
+
+  
+  <link rel="stylesheet" href="/css/docstyles.css?v=2018-05-10-1102" type="text/css" media="all">
+  
+
+  
+  
+  <script type="text/javascript" src="/js/lunr.js"></script>
+  <script src="/js/jquery.min.js?v=2018-05-10-1102"></script>
+  <script>
+    !window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.min.js"%3E%3C/script%3E'))
+  </script>
+  <script type="text/javascript" src="/js/balsamiq-complete.min.js?v=2018-05-10-1102"></script>
+  
+  
+
+  
+  <link rel="stylesheet" href="/css/dbc.css?v=2018-05-10-1102" type="text/css" media="all">
+  <script src="https://mmclssg1.github.io/ssdocs/js/dbc.min.js?v=2018-05-10-1102"></script>
+  
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Documentation">
+<title>
+
+
+  
+    Working With UI Controls [MyBalsamiq] -
+  
+
+Documentation
+</title>
+</head>
+<body class="company-support-portal dbc">
+  
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TMQ8XW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TMQ8XW');</script>
+  
+
+<div id="page-wrapper">
+  
+  <header id="header-wrapper">
+    <nav class="navbar">
+    <div id="header" class="container-fluid">
+      <div class="row">
+        
+        <div class="col-xs-12">
+          <div id="site-nav" class="navbar-header">
+            <button id="rmenu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#gnav">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            
+            <a href="/" id="site-id">Documentation</a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="gnav">
+            <ul class="menubar gnav nav navbar">
+            <li id="gnav-cloud">
+                <a href="/product1/" class="gnava">Product 1</a>
+              </li>
+              <li id="gnav-desktop">
+                <a href="/product2/" class="gnava">Product 2</a>
+              </li>
+              <li id="gnav-plugins" class="hidden-xs">
+                <a href="#" class="gnava dropdown" class="dropdown-toggle" id="dDocs" data-toggle="dropdown" data-target="#">Product 3 <i class="ss-icon" style="font-size:7px">&#xF501;</i></a>
+                <ul class="dropdown-menu nav" aria-labelledby="dDocs">
+                  <li><a href="search/">SEARCH</a></li>
+                  <li><a href="/product3v1/product3v1_1/">Version 1.0</a></li>
+                  <li><a href="/product3v2/">Version 2.0</a></li>
+                  <li><a href="/product3v3/">Version 3.0</a></li>
+                </ul>
+              </li>
+              <li id="gnav-gdrive" class="visible-xs"><a href="/product3v1/product3v1_1/" class="gnava">Version 1.0</a></li>
+              <li id="gnav-confluence" class="visible-xs"><a href="/product3v2/" class="gnava">Version 2.0</a></li>
+              <li id="gnav-jira" class="visible-xs"><a href="/product3v3/" class="gnava">Version 3.0</a></li>
+              <li id="gnav-mybalsamiq">
+                <a href="/product4/" class="gnava">Product 4</a>
+              </li>
+              
+
+              
+              <li id="gnav-search" class="visible-xs visible-sm">
+                <a href="https://mmclssg1.github.io/ssdocs/search/" class="gnava"><span class="visible-sm hidden-xs"><i class="ss-icon ss-search"></i></span><span class="visible-xs hidden-sm">Search</span></a>
+              </li>
+              <li id="gnav-search-form" class="hidden-xs hidden-sm last">
+
+              <div id="search">
+                  <form class="search" action="search/" method="get" id="searchInNav">
+                    <div id="navSearchDiv">
+                    <input id="s" accesskey="s" type="text" value="Search..." name="q" tabindex="1" autocomplete="off"/>
+                    <input id="ss" type="submit" value="Search" tabindex="2"/>
+                    </div>
+                  </form>
+                  <script type="text/javascript">
+                    BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("navSearchDiv");
+                  </script>
+
+                  
+                </div>
+              </li>
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    </nav>
+  </header>
+  
+
+  
+  <div id="body-wrapper">
+
+
+
+
+
+<div id="body-main">
+  <div class="container-fluid">
+
+
+<div class="row">
+
+  <div class="local-nav local-nav-1 hidden-xs hidden-sm col-md-3">
+    <div id="sidebar-box">
+		
+
+
+<h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> myBalsamiq</a></h5>
+<ul id="doc-menu" class="collapse">
+  
+  <li><a href="/product4/"> Table of Contents </a> </li>
+    
+  <li><a href="/product4/tos/"> myBalsamiq Terms of Use and Privacy Policy </a> </li>
+    
+  <li><a href="/product4/intro/"> myBalsamiq Application Overview </a> </li>
+    
+  <li><a href="/product4/home/"> myBalsamiq Home Page (All Projects) </a> </li>
+    
+  <li><a href="/product4/project/"> myBalsamiq Project Page </a> </li>
+    
+  <li><a href="/product4/accesscontrolmatrix/"> myBalsamiq Access Control Matrix </a> </li>
+    
+  <li><a href="/product4/mockup/"> myBalsamiq Single Mockup Page </a> </li>
+    
+  <li><a href="/product4/editor/"> myBalsamiq Mockups Editor </a> </li>
+    
+  <li><a href="/product4/overview/"> Mockups Application Overview </a> </li>
+    
+  <li class="active"><a href="/product4/controls/"> Working with UI Controls </a> </li>
+    
+  <li><a href="/product4/inspector/"> The Property Inspector </a> </li>
+    
+  <li><a href="/product4/text/"> Working with Text </a> </li>
+    
+  <li><a href="/product4/datagrids/"> Working with Data Grids / Tables </a> </li>
+    
+  <li><a href="/product4/icons/"> Working with Icons </a> </li>
+    
+  <li><a href="/product4/images/"> Working with Images </a> </li>
+    
+  <li><a href="/product4/markup/"> Working with Markup </a> </li>
+    
+  <li><a href="/product4/symbols/"> Working with Symbols </a> </li>
+    
+  <li><a href="/product4/sitemaps/"> Working with Site Maps </a> </li>
+    
+  <li><a href="/product4/shortcuts/"> Keyboard Shortcuts </a> </li>
+    
+  <li><a href="/product4/linking/"> Linking Mockups Together </a> </li>
+    
+  <li><a href="/product4/skins/"> Working with Skins (Sketch vs. Wireframe) </a> </li>
+    
+  <li><a href="/product4/fullscreen/"> Presenting Your Work </a> </li>
+    
+  <li><a href="/product4/assets/"> Using Assets in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/exporting/"> Exporting to PDF or PNG in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/history/"> Site, Project and Mockup History in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/communication/"> Team Communication in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/prototypeview/"> myBalsamiq Prototype View </a> </li>
+    
+  <li><a href="/product4/notifications/"> myBalsamiq Email Notifications </a> </li>
+    
+  <li><a href="/product4/sharing/"> Sharing Your Work with outside Clients in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/usertesting/"> User Testing Your myBalsamiq Prototypes </a> </li>
+    
+  <li><a href="/product4/usersettings/"> myBalsamiq User Settings </a> </li>
+    
+  <li><a href="/product4/sitesettings/"> myBalsamiq Site Settings </a> </li>
+    
+</ul>
+
+		
+    <div id="toc">
+	<h5><a href="#" data-toggle="collapse" data-target="#toc-menu" aria-expanded="false" aria-controls="toc-menu" class="menu-toggle"><i class="ss-icon ss-navigatedown"></i> On This Page</a></h5>
+	<div id="toc-menu" class="collapse in"></div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="page-article" class="col-xs-12 col-md-9">
+    <div id="support-main">
+      <div class="support-body">
+        <article>
+          
+          <h5 class="subtitle"><a href='../'>myBalsamiq</a></h5>
+          
+          <h1 class="title mt0">Working with UI Controls</h1>
+          <div class="breadcrumbs visible-xs visible-sm"><div id="breadcrumbs">
+  <span><a href="/">home</a></span>
+
+  &gt; <span><a href='../'>myBalsamiq</a></span>
+
+  &gt; <span>Working With UI Controls</span>
+</div>
+</a></div>
+          <div class="article-content content article">
+            
+              
+              
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                  
+
+<h2 id="adding-ui-controls">Adding UI Controls</h2>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/help_uilibrary.png" alt="" /></p>
+
+<p>To add new UI controls to your mockup, you can use <a href="../overview/#the-ui-library">the UI Library</a> or type a keyword into <a href="../overview/#the-quick-add-tool">the Quick Add tool</a>.</p>
+
+<p>You can also duplicate controls already on the canvas using copy and paste or the duplicate command (CTRL/CMD + D).</p>
+
+<span class="alert alert-info show" role="alert"><strong>Note:</strong> Full list of <a href="../shortcuts/">keyboard shortcuts here</a>.</span>
+
+<hr />
+
+<h2 id="selecting-ui-controls">Selecting UI Controls</h2>
+
+<p>There are a few different ways to select UI controls. If you are familiar with graphics software, these should be of no surprise.</p>
+
+<ul>
+<li>Clicking on a UI control selects it</li>
+<li>Dragging a rectangle which encloses many UI controls selects them</li>
+<li>SHIFT+CLICK on a control adds it to the selection</li>
+<li>SHIFT+CLICK on a selected control removes it from the selection</li>
+</ul>
+
+<p>To select a control that is behind another control, right-click on the top control to bring up a menu that allows you to select controls behind it.</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/select_from_layers.png" alt="" /></p>
+
+<hr />
+
+<h2 id="moving-ui-controls">Moving UI Controls</h2>
+
+<p>Once you have selected one or more UI controls, there are a few different ways to move it on the canvas.</p>
+
+<ul>
+<li>You can drag it with your mouse (hold down the SHIFT key to maintain the original horizontal or vertical position)</li>
+<li>You can &ldquo;nudge it&rdquo; one pixel at a time with your keyboard&rsquo;s UP/DOWN/LEFT/RIGHT keys</li>
+<li>You can move it with bigger steps by holding down SHIFT and using your keyboard&rsquo;s UP/DOWN/LEFT/RIGHT keys</li>
+<li>You can move your controls to be aligned in one direction by using the align tools found in the <a href="../inspector/">Property Inspector</a></li>
+</ul>
+
+<hr />
+
+<h2 id="snapping-and-smart-guides">Snapping and Smart Guides</h2>
+
+<p>When you move objects on the canvas, Mockups tries to suggest alignment relative to other objects on the canvas using smart guides. This makes alignment a little easier and makes your Mockups generally look neater.</p>
+
+<p>If you ever want to temporarily disable this feature, you can hold down the CTRL key while moving or resizing, and snapping will be turned off.</p>
+
+<hr />
+
+<h2 id="resizing-ui-controls">Resizing UI Controls</h2>
+
+<p>Resizing the selected controls is easy. You can just grab any edge or corner of the selection rectangle and drag it.</p>
+
+<p>If you want to constrain proportions while dragging from a corner, hold the SHIFT key while dragging.</p>
+
+<p>Another way to resize some controls to their &ldquo;natural size&rdquo; is to use the Auto-Size function found in the <a href="../inspector/">Property Inspector</a>.</p>
+
+<hr />
+
+<h2 id="aligning-ui-controls">Aligning UI Controls</h2>
+
+<p>You can align and distribute (space out) controls by selecting multiple controls and selecting the desired option from the Property Inspector, as shown below.</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/help_aligning.png" alt="" /></p>
+
+<hr />
+
+<h2 id="layering-ui-controls">Layering UI Controls</h2>
+
+<p>You can layer controls as if they were pieces of paper on the mockup canvas. To do so, you select the controls you want to layer and select one of four layering commands available via the <a href="../inspector/">Property Inspector</a>: bring to front, send to back, bring forward and send backward.</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/help_layering.png" alt="" /></p>
+
+<hr />
+
+<h2 id="locking-ui-controls">Locking UI Controls</h2>
+
+<p>Locking a control will prevent it from being selectable. This can be useful for background controls that you want to stay in place or don&rsquo;t want to accidentally select (a browser or iPhone control, for example). You can lock a control by clicking the lock icon in the Property Inspector.</p>
+
+<p><img src="http://media.balsamiq.com/img/support/docs/m4d/help_locking.png" alt="" /></p>
+
+<p>To unlock a control, right-click on it when your mouse cursor is over it.</p>
+
+<h2 id="deleting-ui-controls">Deleting UI Controls</h2>
+
+<p>To remove some UI controls from the mockup canvas, select them and hit the DELETE key. Alternatively you can click on the trashcan button in the Property Inspector or select &ldquo;delete&rdquo; from the Edit menu.</p>
+
+<hr />
+
+<h2 id="rotating-ui-controls">Rotating UI Controls</h2>
+
+<p><em>Some</em> of our UI controls can be rotated via the <a href="../inspector/">Property Inspector</a> (the label, <a href="../images/">image</a>, and <a href="../icons/">icon</a> controls, for example), but most can&rsquo;t. If you are used to generic drawing tools this might be surprising. This limitation is intentional, and not due to programming complexity (it&rsquo;s not hard to add technically).</p>
+
+<p>The reason we don&rsquo;t support rotating all controls because we believe that in 90% of cases, it is not needed in wireframes. In fact, adding the ability to rotate any control will likely result in wireframes that are very hard if not impossible to implement by the development team.</p>
+
+<p>If you feel that you need to rotate any other control, let us know on <a href="https://forums.balsamiq.com/t/feature-request-rotate-any-shape-by-any-degree/1132">this forum thread</a> and we&rsquo;ll discuss whether to add it together. A workaround would be to rotate a control in a drawing application and then <a href="../images/">import it as an image</a>.</p>
+
+<hr />
+
+<h2 id="grouping-ui-controls">Grouping UI Controls</h2>
+
+<p>Sometimes you might wish to group some controls to better align them or to move them all at once. To group a set of controls, select them and hit CTRL+G on your keyboard or use the Group command in the menu or Property Inspector. The controls will change color to purple to indicate that they are grouped. Once grouped, the controls will behave as one when moving or aligning. To ungroup controls, press CTRL+SHIFT+G on your keyboard or use the Ungroup command in the menu or Property Inspector.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/m4d/b3/group-select.png" alt="" /></p>
+
+<p>You can double-click on a group to “enter it” and edit its contents. A small breadcrumb bar (at the bottom of the editor) will indicate that you are editing a group and allow you to navigate back out of the group (you can also use the Escape key). Groups can be nested, as shown below.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/m4d/help_groupbar.png" alt="" /></p>
+
+<p>You can optionally give a group a name via the group&rsquo;s property inspector. This can be helpful when you have a lot of groups and need to &ldquo;know where you are&rdquo; when you edit their contents. Naming and grouping controls is also the first step to creating <a href="/mybalsamiq/symbols/">Symbols</a>.</p>
+
+<hr />
+
+<h2 id="cropping-groups">Cropping Groups</h2>
+
+<p>It is possible to crop (mask) a group of controls to only show a selected portion of it. When a <a href="#grouping-ui-controls">group</a> is selected, a crop icon will show in the <a href="../inspector/">Property Inspector</a>. Click on it to edit the visible area of the group.</p>
+
+<p>The video below illustrates how to use this feature.</p>
+
+<div class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen="" frameborder="0" src="//www.youtube.com/embed/GOnCNNHhfGc?rel=0"></iframe></div>
+
+                  
+                
+              
+
+            
+          </div>
+          
+          <hr>
+          <nav class="section-pager">
+            <ul class="pager m0">
+              <li class="previous">
+              
+              
+                <a href="/product4/overview/"><span aria-hidden="true">&larr;</span> Mockups Application Overview</a>
+              
+              
+              </li>
+
+              <li class="next">
+              
+              
+                <a href="/product4/inspector/">The Property Inspector <span aria-hidden="true">&rarr;</span></a>
+              
+              
+              </li>
+            </ul>
+          </nav>
+          <hr>
+          
+         </article>
+      </div>
+    </div>
+  </div>
+
+</div> 
+
+
+  </div>
+</div>
+
+
+
+
+<script>
+			$(document).ready( function(){
+				$("img[alt='gif']").gifplayer({ label: 'Play' });
+			});
+</script>
+
+ </div>
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+</div>
+
+
+
+
+<script>
+anchors.options = {
+  icon: '#',
+  placement: 'left'
+};
+anchors.add('div.article-content.content.article h2, div.article-content.content.article h3');
+</script>
+
+</body>
+</html>
+

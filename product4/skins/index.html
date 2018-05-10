@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+<html lang="en">
+<head>
+  
+  
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+  
+
+  
+  <link rel="stylesheet" href="/css/docstyles.css?v=2018-05-10-1102" type="text/css" media="all">
+  
+
+  
+  
+  <script type="text/javascript" src="/js/lunr.js"></script>
+  <script src="/js/jquery.min.js?v=2018-05-10-1102"></script>
+  <script>
+    !window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.min.js"%3E%3C/script%3E'))
+  </script>
+  <script type="text/javascript" src="/js/balsamiq-complete.min.js?v=2018-05-10-1102"></script>
+  
+  
+
+  
+  <link rel="stylesheet" href="/css/dbc.css?v=2018-05-10-1102" type="text/css" media="all">
+  <script src="https://mmclssg1.github.io/ssdocs/js/dbc.min.js?v=2018-05-10-1102"></script>
+  
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="Documentation">
+<title>
+
+
+  
+    Working With Skins (Sketch vs. Wireframe) [MyBalsamiq] -
+  
+
+Documentation
+</title>
+</head>
+<body class="company-support-portal dbc">
+  
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TMQ8XW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TMQ8XW');</script>
+  
+
+<div id="page-wrapper">
+  
+  <header id="header-wrapper">
+    <nav class="navbar">
+    <div id="header" class="container-fluid">
+      <div class="row">
+        
+        <div class="col-xs-12">
+          <div id="site-nav" class="navbar-header">
+            <button id="rmenu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#gnav">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            
+            <a href="/" id="site-id">Documentation</a>
+          </div>
+          
+          <div class="collapse navbar-collapse" id="gnav">
+            <ul class="menubar gnav nav navbar">
+            <li id="gnav-cloud">
+                <a href="/product1/" class="gnava">Product 1</a>
+              </li>
+              <li id="gnav-desktop">
+                <a href="/product2/" class="gnava">Product 2</a>
+              </li>
+              <li id="gnav-plugins" class="hidden-xs">
+                <a href="#" class="gnava dropdown" class="dropdown-toggle" id="dDocs" data-toggle="dropdown" data-target="#">Product 3 <i class="ss-icon" style="font-size:7px">&#xF501;</i></a>
+                <ul class="dropdown-menu nav" aria-labelledby="dDocs">
+                  <li><a href="search/">SEARCH</a></li>
+                  <li><a href="/product3v1/product3v1_1/">Version 1.0</a></li>
+                  <li><a href="/product3v2/">Version 2.0</a></li>
+                  <li><a href="/product3v3/">Version 3.0</a></li>
+                </ul>
+              </li>
+              <li id="gnav-gdrive" class="visible-xs"><a href="/product3v1/product3v1_1/" class="gnava">Version 1.0</a></li>
+              <li id="gnav-confluence" class="visible-xs"><a href="/product3v2/" class="gnava">Version 2.0</a></li>
+              <li id="gnav-jira" class="visible-xs"><a href="/product3v3/" class="gnava">Version 3.0</a></li>
+              <li id="gnav-mybalsamiq">
+                <a href="/product4/" class="gnava">Product 4</a>
+              </li>
+              
+
+              
+              <li id="gnav-search" class="visible-xs visible-sm">
+                <a href="https://mmclssg1.github.io/ssdocs/search/" class="gnava"><span class="visible-sm hidden-xs"><i class="ss-icon ss-search"></i></span><span class="visible-xs hidden-sm">Search</span></a>
+              </li>
+              <li id="gnav-search-form" class="hidden-xs hidden-sm last">
+
+              <div id="search">
+                  <form class="search" action="search/" method="get" id="searchInNav">
+                    <div id="navSearchDiv">
+                    <input id="s" accesskey="s" type="text" value="Search..." name="q" tabindex="1" autocomplete="off"/>
+                    <input id="ss" type="submit" value="Search" tabindex="2"/>
+                    </div>
+                  </form>
+                  <script type="text/javascript">
+                    BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("navSearchDiv");
+                  </script>
+
+                  
+                </div>
+              </li>
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+    </nav>
+  </header>
+  
+
+  
+  <div id="body-wrapper">
+
+
+
+
+
+<div id="body-main">
+  <div class="container-fluid">
+
+
+<div class="row">
+
+  <div class="local-nav local-nav-1 hidden-xs hidden-sm col-md-3">
+    <div id="sidebar-box">
+		
+
+
+<h5><a href="#" data-toggle="collapse" data-target="#doc-menu" aria-expanded="false" aria-controls="doc-menu" class="menu-toggle"><i class="ss-icon ss-navigateright"></i> myBalsamiq</a></h5>
+<ul id="doc-menu" class="collapse">
+  
+  <li><a href="/product4/"> Table of Contents </a> </li>
+    
+  <li><a href="/product4/tos/"> myBalsamiq Terms of Use and Privacy Policy </a> </li>
+    
+  <li><a href="/product4/intro/"> myBalsamiq Application Overview </a> </li>
+    
+  <li><a href="/product4/home/"> myBalsamiq Home Page (All Projects) </a> </li>
+    
+  <li><a href="/product4/project/"> myBalsamiq Project Page </a> </li>
+    
+  <li><a href="/product4/accesscontrolmatrix/"> myBalsamiq Access Control Matrix </a> </li>
+    
+  <li><a href="/product4/mockup/"> myBalsamiq Single Mockup Page </a> </li>
+    
+  <li><a href="/product4/editor/"> myBalsamiq Mockups Editor </a> </li>
+    
+  <li><a href="/product4/overview/"> Mockups Application Overview </a> </li>
+    
+  <li><a href="/product4/controls/"> Working with UI Controls </a> </li>
+    
+  <li><a href="/product4/inspector/"> The Property Inspector </a> </li>
+    
+  <li><a href="/product4/text/"> Working with Text </a> </li>
+    
+  <li><a href="/product4/datagrids/"> Working with Data Grids / Tables </a> </li>
+    
+  <li><a href="/product4/icons/"> Working with Icons </a> </li>
+    
+  <li><a href="/product4/images/"> Working with Images </a> </li>
+    
+  <li><a href="/product4/markup/"> Working with Markup </a> </li>
+    
+  <li><a href="/product4/symbols/"> Working with Symbols </a> </li>
+    
+  <li><a href="/product4/sitemaps/"> Working with Site Maps </a> </li>
+    
+  <li><a href="/product4/shortcuts/"> Keyboard Shortcuts </a> </li>
+    
+  <li><a href="/product4/linking/"> Linking Mockups Together </a> </li>
+    
+  <li class="active"><a href="/product4/skins/"> Working with Skins (Sketch vs. Wireframe) </a> </li>
+    
+  <li><a href="/product4/fullscreen/"> Presenting Your Work </a> </li>
+    
+  <li><a href="/product4/assets/"> Using Assets in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/exporting/"> Exporting to PDF or PNG in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/history/"> Site, Project and Mockup History in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/communication/"> Team Communication in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/prototypeview/"> myBalsamiq Prototype View </a> </li>
+    
+  <li><a href="/product4/notifications/"> myBalsamiq Email Notifications </a> </li>
+    
+  <li><a href="/product4/sharing/"> Sharing Your Work with outside Clients in myBalsamiq </a> </li>
+    
+  <li><a href="/product4/usertesting/"> User Testing Your myBalsamiq Prototypes </a> </li>
+    
+  <li><a href="/product4/usersettings/"> myBalsamiq User Settings </a> </li>
+    
+  <li><a href="/product4/sitesettings/"> myBalsamiq Site Settings </a> </li>
+    
+</ul>
+
+		
+    <div id="toc">
+	<h5><a href="#" data-toggle="collapse" data-target="#toc-menu" aria-expanded="false" aria-controls="toc-menu" class="menu-toggle"><i class="ss-icon ss-navigatedown"></i> On This Page</a></h5>
+	<div id="toc-menu" class="collapse in"></div>
+</div>
+
+    </div>
+  </div>
+
+  <div id="page-article" class="col-xs-12 col-md-9">
+    <div id="support-main">
+      <div class="support-body">
+        <article>
+          
+          <h5 class="subtitle"><a href='../'>myBalsamiq</a></h5>
+          
+          <h1 class="title mt0">Working with Skins (Sketch vs. Wireframe)</h1>
+          <div class="breadcrumbs visible-xs visible-sm"><div id="breadcrumbs">
+  <span><a href="/">home</a></span>
+
+  &gt; <span><a href='../'>myBalsamiq</a></span>
+
+  &gt; <span>Working With Skins (Sketch vs. Wireframe)</span>
+</div>
+</a></div>
+          <div class="article-content content article">
+            
+              
+              
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                
+								
+                
+                  
+
+<p>We know that some people need to shift from idea generation with internal teams to presentation with clients or stakeholders, and in those situations the default &ldquo;sketch&rdquo; skin may present challenges with certain audiences. To address this need, we created a &ldquo;wireframe&rdquo; skin that allows you to switch from a sketchy, hand-drawn style to a crisper, cleaner wireframe elements.</p>
+
+<h2 id="switching-from-sketch-to-wireframe-skin">Switching from Sketch to Wireframe Skin</h2>
+
+<p>To switch skins go to the <strong>View</strong> menu, select the <strong>Skin</strong> from the dropdown, and set the Skin setting to &ldquo;Wireframe&rdquo;.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/m4d/help_skin.png" alt=" " /></p>
+
+<p>The feature allows you to work on early ideas in the sketchy skin, and then later select a menu to swap out all of your controls in the clean skin. All of your elements, including icons will be switched.</p>
+
+<p>The screenshots below show a comparison of a sample design in the default &ldquo;sketch&rdquo; and &ldquo;wireframe&rdquo; skins, respectively. Click to view larger images.</p>
+
+<p class="clearfix"><a class="fb fleft" href="//media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" rel="popup"><img alt="Sketch Skin" src="//media.balsamiq.com/img/support/prodfaqs/search-sketchy.png" style="width: 390px; margin-right: 3px;" /></a> <a class="fb fleft" href="//media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" rel="popup"><img alt="Wireframe Skin" src="//media.balsamiq.com/img/support/prodfaqs/search-wireframe.png" style="width: 390px;" /></a></p>
+
+<hr />
+
+<h2 id="which-skin-should-i-use">Which Skin Should I Use?</h2>
+
+<p>We&rsquo;re glad you asked ;-) The short answer is that we still feel that the sketch skin is more appropriate most of the time while using Mockups.</p>
+
+<p>Our intention with adding the wireframe skin was to help add legitimacy to your Mockups when presenting them to clients or stakeholders, people who may consciously or unconsciously discount the thought and effort of your design work simply because it looks like it was sketched on the back of a napkin. We&rsquo;d hate for all your hard work to go unappreciated just because it doesn&rsquo;t look &ldquo;professional&rdquo; enough!</p>
+
+<p>However, while designing, the original sketch skin still offers all the advantages it always has. It deliberately looks rough and tentative, which encourages you, the designer, to try out lots of different ideas, to experiment and revise in order to come up with the best design. Designing in the wireframe skin could cause you to get attached to a specific design idea too soon because it looks &ldquo;done&rdquo;, or it may prompt you to fine-tune the alignment, colors, or fonts when you should be thinking about the workflow.</p>
+
+<p>Just as the wireframe skin makes the design feel finished, the sketch skin makes the design feel <em>un</em>-finished, which guides you to continue to ask questions and explore. The following description of the differences between sketches and prototypes can also be applied to the sketch and wireframe skins, respectively.</p>
+
+<p><img src="//media.balsamiq.com/img/support/docs/m4d/buxton_small.jpg" alt="Sketch vs. Prototype" />
+<small>Credit: Bill Buxton, <a href="http://www.amazon.com/Sketching-User-Experiences-Getting-Design/dp/0123740371/"><em>Sketching User Experiences</em></a></small></p>
+
+<p>So, while you <em>can</em> use the wireframe skin at any phase of the design process, we don&rsquo;t really recommend it as an alternative to the sketch skin. But, rather, more as a follow-up to it. It <em>extends</em> the functionality of Mockups by making it more amenable to the presentation or pitching phase of product development, beyond just the ideation and design phase.</p>
+
+<p>Since the beginning, Balsamiq Mockups has been optimized for that <a href="https://balsamiq.com/products/mockups/#sweet">sweet spot</a> of the ideation phase of a project and will continue to be for the foreseeable future. We <a href="https://blog.balsamiq.com/why-we-arent-doing-interaction/">still</a> don&rsquo;t have any plans to add fancy interaction behavior to our family of products, for example, and we&rsquo;re just fine with that.</p>
+
+                  
+                
+								
+                
+                
+								
+                
+                
+              
+
+            
+          </div>
+          
+          <hr>
+          <nav class="section-pager">
+            <ul class="pager m0">
+              <li class="previous">
+              
+              
+                <a href="/product4/linking/"><span aria-hidden="true">&larr;</span> Linking Mockups Together</a>
+              
+              
+              </li>
+
+              <li class="next">
+              
+              
+                <a href="/product4/fullscreen/">Presenting Your Work <span aria-hidden="true">&rarr;</span></a>
+              
+              
+              </li>
+            </ul>
+          </nav>
+          <hr>
+          
+         </article>
+      </div>
+    </div>
+  </div>
+
+</div> 
+
+
+  </div>
+</div>
+
+
+
+
+<script>
+			$(document).ready( function(){
+				$("img[alt='gif']").gifplayer({ label: 'Play' });
+			});
+</script>
+
+ </div>
+
+
+
+
+
+
+    
+
+  
+
+
+
+
+
+</div>
+
+
+
+
+<script>
+anchors.options = {
+  icon: '#',
+  placement: 'left'
+};
+anchors.add('div.article-content.content.article h2, div.article-content.content.article h3');
+</script>
+
+</body>
+</html>
+
