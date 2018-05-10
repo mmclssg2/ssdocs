@@ -1,5 +1,5 @@
 theme = "docs-balsamiq-com"
- baseUrl =  "/"
+ baseurl =  "https://mmclssg1.github.io/ssdocs/"
  relativeUrls = true
 # baseurl =  "http://localhost:1313/"
 languageCode =  "en-us"
