@@ -37,7 +37,7 @@
   <meta class="swiftype" name="product-priority" data-type="integer" content="{{ $.Scratch.Get "priority" }}"-->
 
   <!-- B.COM CSS -->
-  <link rel="stylesheet" href="{{ .Site.Params.ssdocs2url }}/css/docstyles.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
+  <link rel="stylesheet" href="{{ .Site.Params.ssdocs1url }}/css/docstyles.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
   <!--[if lte IE 9]>
   <link rel="stylesheet" href="/assets/css/ie.css" type="text/css" media="all"/>
   <![endif]-->
@@ -47,7 +47,7 @@
   <script type="text/javascript" src="/js/auto-complete.js"></script>
   <script type="text/javascript" src="/js/search.js"></script-->
   <script type="text/javascript" src="/js/lunr.js"></script>
-  <script src="{{ .Site.Params.ssdocs2url }}/js/jquery.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
+  <script src="{{ .Site.Params.ssdocs1url }}/js/jquery.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
   <script>
     !window.jQuery && document.write(unescape('%3Cscript src="{{ .Site.Params.ssdocs1url }}/js/jquery.min.js"%3E%3C/script%3E'))
   </script>
@@ -57,8 +57,8 @@
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script-->
 
   <!-- DBC -->
-  <link rel="stylesheet" href="{{ .Site.Params.ssdocs2url }}/css/dbc.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
-  <script src="{{ .Site.Params.ssdocs2url }}/js/dbc.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
+  <link rel="stylesheet" href="/css/dbc.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
+  <script src="/js/dbc.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
   <!--script src="/js/balsamiq_search_autocomplete.js"></script-->
 <link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ .Site.Title }}">
 <title>
