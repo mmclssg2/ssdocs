@@ -1,5 +1,5 @@
 theme = "docs-balsamiq-com"
-baseurl =  "/ssdocs/"
+baseurl =  "/"
 languageCode =  "en-us"
 title =  "Documentation"
 MetaDataFormat =  "yaml"
