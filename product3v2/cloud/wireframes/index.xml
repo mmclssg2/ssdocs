@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>/product3v2/cloud/wireframes/</link>
+    <link>/ssdocs/product3v2/cloud/wireframes/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="/product3v2/cloud/wireframes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ssdocs/product3v2/cloud/wireframes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Balsamiq Wireframes for Jira Cloud</title>
-      <link>/product3v2/cloud/wireframes/intro/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/intro/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/intro/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/intro/</guid>
       <description>This page contains usage instructions for Balsamiq Wireframes for Jira Cloud.
 Using Jira Server? Please see this article instead. Jira Cloud Administrators: the Balsamiq Wireframes for Jira Cloud Admin Guide is for you.
 Balsamiq Wireframes for Jira Cloud provides very similar functionality to Balsamiq Mockups 3 for Desktop. The main difference is that the Balsamiq project files are stored and managed as Jira Cloud attachments.
@@ -25,10 +25,10 @@ Balsamiq Wireframes for Jira Cloud provides very similar functionality to Balsam
     
     <item>
       <title>Balsamiq Wireframes for Jira Cloud Admin Guide</title>
-      <link>/product3v2/cloud/wireframes/admin-guide/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/admin-guide/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/admin-guide/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/admin-guide/</guid>
       <description>This page contains links to installation, pricing, and licensing information for Balsamiq Wireframes for Jira Cloud.
 Using Jira Server? If you are hosting Jira behind the firewall, please see this article instead. Usage instructions for the plugin are in the Balsamiq Wireframes for Jira Cloud Introduction.
 Balsamiq Wireframes for Jira Cloud is an Atlassian-Connect powered add-on, sold exclusively via Atlassian Marketplace.
@@ -37,138 +37,138 @@ Useful Links  Product Page on Atlassian Marketplace Installation instructions Pr
     
     <item>
       <title>Balsamiq Wireframes for Jira Cloud Transition Guide</title>
-      <link>/product3v2/cloud/wireframes/transition-guide/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/transition-guide/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/transition-guide/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/transition-guide/</guid>
       <description>Note: This transition guide describes the steps to convert BMML files (old format) to BMPR files. Existing BMPR files will work fine in the new version of the add-on. A new major version of the Balsamiq add-on for Jira Cloud was released on January 2018. The new version has projects, symbols, comments, chat, real time collaboration and lots of other improvements.
 Here’s a quick, 5-minute video walkthrough for some of the highlights of Balsamiq Wireframes for Jira Cloud.</description>
     </item>
     
     <item>
       <title>Editor Overview</title>
-      <link>/product3v2/cloud/wireframes/overview/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/overview/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/overview/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adding and Arranging UI Controls</title>
-      <link>/product3v2/cloud/wireframes/adding-controls/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/adding-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/adding-controls/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/adding-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editing UI Controls</title>
-      <link>/product3v2/cloud/wireframes/editing-controls/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/editing-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/editing-controls/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/editing-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing and Reviewing</title>
-      <link>/product3v2/cloud/wireframes/sharing/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/sharing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/sharing/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Editing</title>
-      <link>/product3v2/cloud/wireframes/collaborating/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/collaborating/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/collaborating/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/collaborating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Images, Assets, and Icons</title>
-      <link>/product3v2/cloud/wireframes/images/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/images/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/images/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbols</title>
-      <link>/product3v2/cloud/wireframes/symbols/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/symbols/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/symbols/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markup</title>
-      <link>/product3v2/cloud/wireframes/markup/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/markup/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/markup/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Wireframes Together</title>
-      <link>/product3v2/cloud/wireframes/linking/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/linking/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/linking/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>/product3v2/cloud/wireframes/fullscreen/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/fullscreen/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/fullscreen/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternates</title>
-      <link>/product3v2/cloud/wireframes/alternates/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/alternates/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/alternates/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting</title>
-      <link>/product3v2/cloud/wireframes/exporting/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/exporting/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/exporting/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing</title>
-      <link>/product3v2/cloud/wireframes/importing/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/importing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/importing/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/importing/</guid>
       <description>Importing Wireframes from Another Project Sometimes you might want to copy or move a wireframe from one project to another. Here is a simple way to do it:
  Open the two projects (each in its own browser tab or window) In the source project, select the wireframe you want to copy or move. Select all the controls from this wireframe (CTRL/CMD+A) and copy the controls (CTRL/CMD+C) In the target project, paste your controls (CTRL/CMD+V) in a newly created wireframe  That’s it!</description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>/product3v2/cloud/wireframes/shortcuts/</link>
+      <link>/ssdocs/product3v2/cloud/wireframes/shortcuts/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v2/cloud/wireframes/shortcuts/</guid>
+      <guid>/ssdocs/product3v2/cloud/wireframes/shortcuts/</guid>
       <description></description>
     </item>
     

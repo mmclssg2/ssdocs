@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Notes on Documentation</title>
-    <link>/tags/notes/</link>
+    <link>/ssdocs/tags/notes/</link>
     <description>Recent content in Notes on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 16:46:21 +0200</lastBuildDate>
     
-	<atom:link href="/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ssdocs/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Property Inspector</title>
-      <link>/product2/inspector/</link>
+      <link>/ssdocs/product2/inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>/product2/inspector/</guid>
+      <guid>/ssdocs/product2/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>/product3v1/b3/inspector/</link>
+      <link>/ssdocs/product3v1/b3/inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>/product3v1/b3/inspector/</guid>
+      <guid>/ssdocs/product3v1/b3/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>/product3v2/cloud/mockups3/inspector/</link>
+      <link>/ssdocs/product3v2/cloud/mockups3/inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>/product3v2/cloud/mockups3/inspector/</guid>
+      <guid>/ssdocs/product3v2/cloud/mockups3/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>/product3v3/cloud/mockups3/inspector/</link>
+      <link>/ssdocs/product3v3/cloud/mockups3/inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>/product3v3/cloud/mockups3/inspector/</guid>
+      <guid>/ssdocs/product3v3/cloud/mockups3/inspector/</guid>
       <description></description>
     </item>
     

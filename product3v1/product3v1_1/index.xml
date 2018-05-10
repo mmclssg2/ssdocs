@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>/product3v1/product3v1_1/</link>
+    <link>/ssdocs/product3v1/product3v1_1/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="/product3v1/product3v1_1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ssdocs/product3v1/product3v1_1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Balsamiq Wireframes for Google Drive Overview</title>
-      <link>/product3v1/product3v1_1/intro/</link>
+      <link>/ssdocs/product3v1/product3v1_1/intro/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/intro/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/intro/</guid>
       <description>Overview Balsamiq Wireframes for Google Drive allows you to add and edit wireframes directly from Google Drive, where the files are stored and managed. If you use other Google Drive apps (Google Docs, for example), the file management features should be very familiar to you.
 With easy sharing, version control and even real-time collaboration, Balsamiq Wireframes for Google Drive makes iterating on wireframes easy and fun. To learn how to sign up for or manage a subscription, check out the Balsamiq Wireframes for Google Drive subscription FAQ.</description>
     </item>
     
     <item>
       <title>Installing Balsamiq Wireframes for Google Drive</title>
-      <link>/product3v1/product3v1_1/installing/</link>
+      <link>/ssdocs/product3v1/product3v1_1/installing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/installing/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/installing/</guid>
       <description>Installation Installing Balsamiq Wireframes for Google Drive is the same as installing other Google Drive apps. It can be installed from the Chrome Web Store here.
 Permissions During the installation process, the app will ask for the following permissions:
  View metadata for files in your Google Drive is needed to access a project&amp;rsquo;s containing folder (for our breadcrumb link).
@@ -35,10 +35,10 @@ Permissions During the installation process, the app will ask for the following 
     
     <item>
       <title>Balsamiq Wireframes for Google Drive Transition Guide</title>
-      <link>/product3v1/product3v1_1/transition/</link>
+      <link>/ssdocs/product3v1/product3v1_1/transition/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/transition/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/transition/</guid>
       <description>Balsamiq Wireframes for Google Drive was released in September, 2017. The new version has a brand new editor (no more Flash needed!), comments, chat and lots of other improvements.
 Here’s a quick, 5-minute video walkthrough for some of the highlights of Balsamiq Wireframes for Google Drive.
  The transition to our new app for Google Drive should be smooth, but please don’t hesitate to contact us if you have any trouble, we&amp;rsquo;re here to help!</description>
@@ -46,10 +46,10 @@ Here’s a quick, 5-minute video walkthrough for some of the highlights of Balsa
     
     <item>
       <title>Balsamiq Wireframes Integration With G Suite</title>
-      <link>/product3v1/product3v1_1/gsuite/</link>
+      <link>/ssdocs/product3v1/product3v1_1/gsuite/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/gsuite/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/gsuite/</guid>
       <description>Balsamiq Wireframes for Google Drive is fully integrated with G Suite apps (Docs, Sheets, Slides).
 The free Balsamiq Wireframes add-ons allow you to quickly browse and insert your wireframes in your G Suite documents. Take a look at how quick it is!
 Once Balsamiq Wireframes for Google Drive is installed, you can download these add-ons for free here:
@@ -58,138 +58,138 @@ Once Balsamiq Wireframes for Google Drive is installed, you can download these a
     
     <item>
       <title>Working with Files in Google Drive</title>
-      <link>/product3v1/product3v1_1/drive-files/</link>
+      <link>/ssdocs/product3v1/product3v1_1/drive-files/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/drive-files/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/drive-files/</guid>
       <description>A variety of actions are available from the Google Drive file viewer, by selecting a file and clicking one of the icons in the Google Drive toolbar or by right-clicking on the file.
 Note: These actions are common to all types of files in Google Drive, so not all of them are described here. For general help on getting around in Google Drive, check out the Google Drive Help Center.</description>
     </item>
     
     <item>
       <title>Editor Overview</title>
-      <link>/product3v1/product3v1_1/overview/</link>
+      <link>/ssdocs/product3v1/product3v1_1/overview/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/overview/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adding and Arranging UI Controls</title>
-      <link>/product3v1/product3v1_1/adding-controls/</link>
+      <link>/ssdocs/product3v1/product3v1_1/adding-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/adding-controls/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/adding-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editing UI Controls</title>
-      <link>/product3v1/product3v1_1/editing-controls/</link>
+      <link>/ssdocs/product3v1/product3v1_1/editing-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/editing-controls/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/editing-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing and Reviewing</title>
-      <link>/product3v1/product3v1_1/sharing/</link>
+      <link>/ssdocs/product3v1/product3v1_1/sharing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/sharing/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Editing</title>
-      <link>/product3v1/product3v1_1/collaborating/</link>
+      <link>/ssdocs/product3v1/product3v1_1/collaborating/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/collaborating/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/collaborating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Images, Assets, and Icons</title>
-      <link>/product3v1/product3v1_1/images/</link>
+      <link>/ssdocs/product3v1/product3v1_1/images/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/images/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbols</title>
-      <link>/product3v1/product3v1_1/symbols/</link>
+      <link>/ssdocs/product3v1/product3v1_1/symbols/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/symbols/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markup</title>
-      <link>/product3v1/product3v1_1/markup/</link>
+      <link>/ssdocs/product3v1/product3v1_1/markup/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/markup/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Wireframes Together</title>
-      <link>/product3v1/product3v1_1/linking/</link>
+      <link>/ssdocs/product3v1/product3v1_1/linking/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/linking/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>/product3v1/product3v1_1/fullscreen/</link>
+      <link>/ssdocs/product3v1/product3v1_1/fullscreen/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/fullscreen/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternates</title>
-      <link>/product3v1/product3v1_1/alternates/</link>
+      <link>/ssdocs/product3v1/product3v1_1/alternates/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/alternates/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting</title>
-      <link>/product3v1/product3v1_1/exporting/</link>
+      <link>/ssdocs/product3v1/product3v1_1/exporting/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/exporting/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing</title>
-      <link>/product3v1/product3v1_1/importing/</link>
+      <link>/ssdocs/product3v1/product3v1_1/importing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/importing/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/importing/</guid>
       <description>Importing Wireframes from Another Project Sometimes you might want to copy or move a wireframe from one project to another. Here is a simple way to do it:
  Open the two projects (each in its own browser tab or window) In the source project, select the wireframe you want to copy or move. Select all the controls from this wireframe (CTRL/CMD+A) and copy the controls (CTRL/CMD+C) In the target project, paste your controls (CTRL/CMD+V) in a newly created wireframe  That’s it!</description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>/product3v1/product3v1_1/shortcuts/</link>
+      <link>/ssdocs/product3v1/product3v1_1/shortcuts/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/product3v1/product3v1_1/shortcuts/</guid>
+      <guid>/ssdocs/product3v1/product3v1_1/shortcuts/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>/product3v3/server/mockups2/</link>
+    <link>/ssdocs/product3v3/server/mockups2/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="/product3v3/server/mockups2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ssdocs/product3v3/server/mockups2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Mockups 2 for Confluence Server</title>
-      <link>/product3v3/server/mockups2/intro/</link>
+      <link>/ssdocs/product3v3/server/mockups2/intro/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:20 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/intro/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/intro/</guid>
       <description>Welcome This page contains usage instructions for Mockups for Confluence Server.
 Using Confluence Cloud? If you are using Confluence Cloud (on atlassian.net), please see this article instead. Confluence Server Administrators: the Mockups for Confluence Server Admin Guide is for you.
 Creating a New Mockup Adding a mockup to a wiki page is very similar to adding an image.
@@ -25,10 +25,10 @@ Edit the page, position the cursor where you&amp;rsquo;d like your mockup to be,
     
     <item>
       <title>Mockups 2 for Confluence Server Admin Guide</title>
-      <link>/product3v3/server/mockups2/admin-guide/</link>
+      <link>/ssdocs/product3v3/server/mockups2/admin-guide/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:20 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/admin-guide/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/admin-guide/</guid>
       <description>Welcome The Mockups 2 for Confluence Server Admin Guide contains installation, registration, updating and uninstalling instructions for Mockups for Confluence Server when installed on your own server.
 Using Confluence Cloud? If you are using Confluence Cloud (on atlassian.net), please see this article instead. Usage instructions for the plugin are here.
 Installation Instructions Like most plugins, Balsamiq Mockups for Confluence Server is installed via Atlassian&amp;rsquo;s Universal Plugin Manager, or UPM. Make sure you are running an updated version of UPM before attempting to install the plugin.</description>
@@ -36,118 +36,118 @@ Installation Instructions Like most plugins, Balsamiq Mockups for Confluence Ser
     
     <item>
       <title>Mockups Application Overview</title>
-      <link>/product3v3/server/mockups2/overview/</link>
+      <link>/ssdocs/product3v3/server/mockups2/overview/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/overview/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>/product3v3/server/mockups2/controls/</link>
+      <link>/ssdocs/product3v3/server/mockups2/controls/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/controls/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>/product3v3/server/mockups2/inspector/</link>
+      <link>/ssdocs/product3v3/server/mockups2/inspector/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/inspector/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Skins (Sketch vs. Wireframe)</title>
-      <link>/product3v3/server/mockups2/skins/</link>
+      <link>/ssdocs/product3v3/server/mockups2/skins/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/skins/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/skins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Text</title>
-      <link>/product3v3/server/mockups2/text/</link>
+      <link>/ssdocs/product3v3/server/mockups2/text/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/text/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Data Grids / Tables</title>
-      <link>/product3v3/server/mockups2/datagrids/</link>
+      <link>/ssdocs/product3v3/server/mockups2/datagrids/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/datagrids/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/datagrids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Icons</title>
-      <link>/product3v3/server/mockups2/icons/</link>
+      <link>/ssdocs/product3v3/server/mockups2/icons/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/icons/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images</title>
-      <link>/product3v3/server/mockups2/images/</link>
+      <link>/ssdocs/product3v3/server/mockups2/images/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/images/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Markup</title>
-      <link>/product3v3/server/mockups2/markup/</link>
+      <link>/ssdocs/product3v3/server/mockups2/markup/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/markup/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Site Maps</title>
-      <link>/product3v3/server/mockups2/sitemaps/</link>
+      <link>/ssdocs/product3v3/server/mockups2/sitemaps/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/sitemaps/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/sitemaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>/product3v3/server/mockups2/linking/</link>
+      <link>/ssdocs/product3v3/server/mockups2/linking/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/linking/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presenting Your Work</title>
-      <link>/product3v3/server/mockups2/fullscreen/</link>
+      <link>/ssdocs/product3v3/server/mockups2/fullscreen/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/fullscreen/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>/product3v3/server/mockups2/shortcuts/</link>
+      <link>/ssdocs/product3v3/server/mockups2/shortcuts/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/product3v3/server/mockups2/shortcuts/</guid>
+      <guid>/ssdocs/product3v3/server/mockups2/shortcuts/</guid>
       <description></description>
     </item>
     
