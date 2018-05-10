@@ -1,0 +1,47 @@
+{{ block "header" .}}
+{{ end }}
+
+  {{ $featuredRows := 2 }} <!-- number of rows to feature in Getting Started section -->
+
+      <div class="row">
+        <div class="col-xs-12 text-center">
+        <h2 class="mt1 mb1-5">Getting Started</h2>
+</div></div>
+      <div class="row">
+        {{ range first 3 .Data.Pages.ByWeight }}
+        <div class="col-xs-12 col-md-4">
+<div class="list-group">
+            <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://media.balsamiq.com/img/support/docs/cloud/toc-button-{{ .File.BaseFileName }}.svg"><br>{{ .Title }}</a></h4>
+<!--             <p>{{ .Summary }}</p> -->
+</div>
+        </div>
+        {{ end }}
+      </div>
+      <div class="row">
+        {{ range first 3 (after 3 .Data.Pages.ByWeight) }}
+        <div class="col-xs-12 col-md-4">
+<div class="list-group">
+            <h4><a href="{{ .Permalink }}" class="list-group-item text-center pb1-5 pt1-5"><img src="http://media.balsamiq.com/img/support/docs/cloud/toc-button-{{ .File.BaseFileName }}.svg"><br>{{ .Title }}</a></h4>
+<!--             <p>{{ .Summary }}</p> -->
+</div>
+        </div>
+        {{ end }}
+      </div>
+
+      <div class="row">
+        <div class="col-xs-12">
+        <h2 class="mt1 mb2">Everything Else...</h2>
+</div></div>
+<div class="row">
+    <div class="col-xs-12">
+      <ul class="mt0 pt0" id="list">
+      {{ range after 6 .Data.Pages }}
+        {{ .Render "li"}}
+      {{ end }}
+      </ul>
+  </div>
+</div>
+
+
+{{ block "footer" . }}
+{{ end }}

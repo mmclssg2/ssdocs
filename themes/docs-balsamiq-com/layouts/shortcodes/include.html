@@ -1,0 +1,8 @@
+{{ $menu := .Get 0 }} <!-- include the name of the menu parameter -->
+{{ $data := .Get 1 }} <!-- include the name of the file (without the extention) -->
+{{ range where .Site.Pages "Params.menu" $menu }}
+{{ $file := substr .File.LogicalName 0 -3}}
+{{ if eq $file $data }}
+   {{ .Content }}
+{{ end }}
+{{ end }}

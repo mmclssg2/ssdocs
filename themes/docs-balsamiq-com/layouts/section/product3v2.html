@@ -1,0 +1,28 @@
+{{ block "header" .}}
+{{ end }}
+
+{{ if .Sections }}
+
+{{ block "atlassian-product-list" . }}
+{{ end }}
+
+{{ block "faqs" .}}
+{{ end }}
+
+{{ end }}
+
+{{ if not .Sections }}
+
+{{ block "list" .}}
+{{ end }}
+
+<div class="row">
+  <div class="col-xs-12">
+    <h4 class="mb2 mt1-5"><a href="/confluence/">View all Balsamiq for Confluence Documentation</a></h4>
+  </div>
+</div>
+
+{{ end }}
+
+{{ block "footer" . }}
+{{ end }}

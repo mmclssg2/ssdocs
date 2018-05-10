@@ -1,0 +1,89 @@
+{{/* MAIN PAGE TEMPLATE */}}
+{{ partial "header.html" . }}
+
+{{/* ======================================== */}}
+{{/* BODY MAIN */}}
+<div id="body-main" class="home">
+{{/* ======================================== */}}
+
+{{/* ======================================== */}}
+{{/* SEARCH FORM */}}
+<div class="container" >
+  <div class="row">
+    <div class="col-xs-12 col-sm-12">
+      <h1 class="center b0">:( Help Us Help You!</h1>
+      <p class="center"><strong>Sorry!</strong> We couldn't find the page you were looking for.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-xs-12 col-sm-12">
+      <div class="relative">
+        <div id="searchHomeDiv">
+          <input class="form-control" type="text" placeholder="Search all Balsamiq Websites" autocomplete="off">
+        </div>
+        <div id='searchingInBody' style='visibility:hidden'>Searching...</div>
+        <div id='resultsHeading'><h3>Results</h3></div>
+        <div id='resultsInBody' style='visibility:hidden'></div>
+      </div>
+      <p class="center mt1">Try <strong>searching our site</strong>, choosing one of the <strong>links below</strong>, or you can <a href="https://balsamiq.com/company/#contact">contact us</a>.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-xs-12 col-sm-6">
+      <h3>Documentation</h3>
+        <ul>
+          <li><a href="/desktop/">Mockups 3 for Desktop</a></li>
+          <li><a href="/cloud/">Balsamiq Cloud</a></li>
+          <li><a href="/google-drive/">Balsamiq for Google Drive</a></li>
+          <li><a href="/confluence/">Balsamiq for Confluence</a></li>
+          <li><a href="/jira/">Balsamiq for Jira</a></li>
+          <li><a href="/mybalsamiq/">myBalsamiq</a></li>
+        </ul>
+      </div>
+    <div class="col-xs-12 col-sm-6">
+      <h3>Help and Support</h3>
+        <ul>
+          <li><a href="https://support.balsamiq.com/sales/">Licensing &amp; Purchasing</a></li>
+          <li><a href="https://support.balsamiq.com/installation/">Installation &amp; Updating</a></li>
+          <li><a href="https://support.balsamiq.com/tutorials/">Tutorials</a></li>
+          <li><a href="https://support.balsamiq.com/#support-faqs">Product FAQs</a></li>
+        </ul>
+      </div>
+  </div>
+</div><!-- /.container -->
+{{/* ======================================== */}}
+
+<script type="text/javascript">
+  BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("searchHomeDiv");
+
+  function getUrlVars() {
+    var vars = {};
+    var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi,
+            function(m,key,value) {
+              vars[key] = decodeURIComponent(value);
+            });
+    return vars;
+  }
+
+  var query = getUrlVars()["q"];
+  if (query != null) {
+    $("#searchHomeDiv input").val(query);
+    $("#resultsHeading").show();
+    BalsamiqSearchAutoComplete.initWithSearch(query, $("#searchingInBody"), $("#resultsInBody"));
+  } else {
+    $("#resultsHeading").hide();
+  }
+
+  // START - GTM / GA 404 Code
+  window.dataLayer = window.dataLayer || [];
+  window.dataLayer.push({'event': '404_error'});
+  // END - GTM / GA 404 Code
+</script>
+
+{{/* ======================================== */}}
+</div>
+{{/* /BODY MAIN */}}
+{{/* ======================================== */}}
+
+{{ partial "footer.html" . }}

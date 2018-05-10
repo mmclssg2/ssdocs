@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+{{ $isHomePage := eq .Title .Site.Title }}
+
+<!-- Set a ranking priority based on product for Swiftype meta tag -->
+{{ $.Scratch.Add "priority" 1 }}
+{{ if eq .Section "desktop" }}
+  {{ $.Scratch.Set "priority" 10 }}
+{{ else if eq .Section "cloud" }}
+  {{ $.Scratch.Set "priority" 9 }}
+{{ else if eq .Section "mybalsamiq" }}
+  {{ $.Scratch.Set "priority" 6 }}
+{{ else if eq .Section "confluence" }}
+  {{ $.Scratch.Set "priority" 5 }}
+{{ else if eq .Section "jira" }}
+  {{ $.Scratch.Set "priority" 4 }}
+{{ else if eq .Section "google-drive" }}
+  {{ $.Scratch.Set "priority" 3 }}
+{{ else }}
+{{ end }}
+
+<html lang="en">
+<head>
+  <!-- B.COM metadata -->
+  <!--link rel="apple-touch-icon" sizes="180x180" href="//media.balsamiq.com/favicon/apple-touch-icon.png?v=oLaq3OObPg">
+  <link rel="icon" type="image/png" href="//media.balsamiq.com/favicon/favicon-32x32.png?v=oLaq3OObPg" sizes="32x32">
+  <link rel="icon" type="image/png" href="//media.balsamiq.com/favicon/favicon-16x16.png?v=oLaq3OObPg" sizes="16x16">
+  <link rel="manifest" href="//media.balsamiq.com/favicon/manifest.json?v=oLaq3OObPg">
+  <link rel="mask-icon" href="//media.balsamiq.com/favicon/safari-pinned-tab.svg?v=oLaq3OObPg" color="#000000">
+  <link rel="shortcut icon" href="//media.balsamiq.com/favicon/favicon.ico?v=oLaq3OObPg">
+  <meta name="msapplication-config" content="//media.balsamiq.com/favicon/browserconfig.xml?v=oLaq3OObPg">
+  <meta name="theme-color" content="#eeeeee"-->
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name=viewport content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge">
+  <!--meta name="google-site-verification" content="6X9l9L4v9PC9rvtxS_wwUkvIWz-bDDo94IW_EQLhCCc">
+  <meta class="swiftype" name="product-priority" data-type="integer" content="{{ $.Scratch.Get "priority" }}"-->
+
+  <!-- B.COM CSS -->
+  <link rel="stylesheet" href="/css/docstyles.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
+  <!--[if lte IE 9]>
+  <link rel="stylesheet" href="/assets/css/ie.css" type="text/css" media="all"/>
+  <![endif]-->
+
+  <!-- B.COM JS -->
+  <!--script type="text/javascript" src="/js/lunr.min.js"></script>
+  <script type="text/javascript" src="/js/auto-complete.js"></script>
+  <script type="text/javascript" src="/js/search.js"></script-->
+  <script type="text/javascript" src="/js/lunr.js"></script>
+  <script src="/js/jquery.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
+  <script>
+    !window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.min.js"%3E%3C/script%3E'))
+  </script>
+  <script type="text/javascript" src="/js/balsamiq-complete.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
+  <!-- TK -->
+  <!--script type="text/javascript" src="https://use.typekit.com/gri5zun.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script-->
+
+  <!-- DBC -->
+  <link rel="stylesheet" href="/css/dbc.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
+  <script src="{{ .Site.Params.balsamiqcomurl }}/js/dbc.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
+  <!--script src="/js/balsamiq_search_autocomplete.js"></script-->
+<link rel="alternate" href="/index.xml" type="application/rss+xml" title="{{ .Site.Title }}">
+<title>
+{{/* show a different type of title depending on what kind of page it is */}}
+{{ if eq $isHomePage false }}
+  {{ if .IsNode }}
+    {{title .Params.product }} -
+  {{ else }}
+    {{ replace .Title "-" " " | title }} [{{title .Params.product }}] -
+  {{ end }}
+{{ else }}
+{{ end }}
+{{ .Site.Title }}
+</title>
+</head>
+<body class="company-support-portal dbc">
+  <!-- GA - Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TMQ8XW"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-TMQ8XW');</script>
+  <!-- END Google Tag Manager - balsamiq.com -->
+{{ partial "header_nav.html" . }}
