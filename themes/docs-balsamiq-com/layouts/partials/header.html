@@ -37,7 +37,7 @@
   <meta class="swiftype" name="product-priority" data-type="integer" content="{{ $.Scratch.Get "priority" }}"-->
 
   <!-- B.COM CSS -->
-  <link rel="stylesheet" href="{{ .Site.Params.ssdocsurl }}/css/docstyles.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
+  <link rel="stylesheet" href="{{ .Site.Params.balsamiqcomurl }}/css/docstyles.css?v={{ now.Format "2006-01-02-1504" }}" type="text/css" media="all">
   <!--[if lte IE 9]>
   <link rel="stylesheet" href="/assets/css/ie.css" type="text/css" media="all"/>
   <![endif]-->
@@ -47,11 +47,11 @@
   <script type="text/javascript" src="/js/auto-complete.js"></script>
   <script type="text/javascript" src="/js/search.js"></script-->
   <script type="text/javascript" src="/js/lunr.js"></script>
-  <script src="{{ .Site.Params.ssdocsurl }}/js/jquery.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
+  <script src="{{ .Site.Params.balsamiqcomurl }}/js/jquery.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
   <script>
-    !window.jQuery && document.write(unescape('%3Cscript src="/js/jquery.min.js"%3E%3C/script%3E'))
+    !window.jQuery && document.write(unescape('%3Cscript src="{{ .Site.Params.balsamiqcomurl }}/js/jquery.min.js"%3E%3C/script%3E'))
   </script>
-  <script type="text/javascript" src="/js/balsamiq-complete.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
+  <script type="text/javascript" src="{{ .Site.Params.balsamiqcomurl }}/js/balsamiq-complete.min.js?v={{ now.Format "2006-01-02-1504" }}"></script>
   <!-- TK -->
   <!--script type="text/javascript" src="https://use.typekit.com/gri5zun.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script-->
