@@ -10,9 +10,8 @@ contentdir =  "content"
 layoutdir =  "layouts"
 publishdir =  "public"
 [params]
- ssdocs1url = "https://mmclssg1.github.io/ssdocs"
- # ssdocs2url = "https://mmclssg1.github.io"
-#   ssdocs1url = "https://localhost:1313"
+ssdocs1url = "https://mmclssg1.github.io/ssdocs"
+#  ssdocs1url = "http://localhost:1313/ssdocs/"
 
 [blackfriday]
   plainIdAnchors = true
