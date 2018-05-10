@@ -16,7 +16,7 @@
             </button>
             <!--a href="{{ .Site.Params.balsamiqcomurl }}" id="balsamiq-logo">balsamiq<sup class="trademark">&reg;</sup></a>
             <span class="separator">/</span-->
-            <a href="/" id="site-id">Documentation</a>
+            <a href="{{ .Site.Params.ssdocs1url }}" id="site-id">Documentation</a>
           </div>
           <!-- GNAV -->
           <div class="collapse navbar-collapse" id="gnav">
@@ -25,7 +25,7 @@
                 <a href="{{ .Site.Params.ssdocs1url }}/product1/" class="gnava">Product 1</a>
               </li>
               <li id="gnav-desktop">
-                <a href="/product2/" class="gnava">Product 2</a>
+                <a href="{{ .Site.Params.ssdocs1url }}/product2/" class="gnava">Product 2</a>
               </li>
               <li id="gnav-plugins" class="hidden-xs">
                 <a href="#" class="gnava dropdown" class="dropdown-toggle" id="dDocs" data-toggle="dropdown" data-target="#">Product 3 <i class="ss-icon" style="font-size:7px">&#xF501;</i></a>
