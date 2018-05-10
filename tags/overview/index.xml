@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on Documentation</title>
-    <link>/tags/overview/</link>
+    <link>https://mmclssg1.github.io/ssdocs/tags/overview/</link>
     <description>Recent content in Overview on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 16:32:43 +0200</lastBuildDate>
     
-	<atom:link href="/tags/overview/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmclssg1.github.io/ssdocs/tags/overview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Balsamiq Mockups 3</title>
-      <link>/product2/intro/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/intro/</link>
       <pubDate>Sat, 09 May 2015 16:32:43 +0200</pubDate>
       
-      <guid>/product2/intro/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/intro/</guid>
       <description></description>
     </item>
     
