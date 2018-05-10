@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>https://mmclssg1.github.io/ssdocs/product3v3/cloud/</link>
+    <link>/product3v3/cloud/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/ssdocs/product3v3/cloud/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/product3v3/cloud/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
