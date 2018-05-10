@@ -1,5 +1,5 @@
 theme = "docs-balsamiq-com"
-baseurl =  ""
+baseurl =  "https://mmclssg1.github.io/ssdocs/"
 # baseurl =  "http://localhost:1313/"
 languageCode =  "en-us"
 title =  "Documentation"
