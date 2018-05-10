@@ -1,6 +1,7 @@
 theme = "docs-balsamiq-com"
- baseurl =  "https://mmclssg1.github.io/ssdocs/"
- relativeUrls = true
+ baseurl =  "/"
+ RelativeURLs = true
+ CanonifyURLs = true
 # baseurl =  "http://localhost:1313/"
 languageCode =  "en-us"
 title =  "Documentation"
@@ -13,7 +14,7 @@ layoutdir =  "layouts"
 publishdir =  "public"
 [params]
  ssdocs1url = "https://mmclssg1.github.io/ssdocs"
-#  ssdocs1url = "http://localhost:1313/ssdocs/"
+#  ssdocs1url = "http://localhost:1313/ssdocs"
 
 [blackfriday]
   plainIdAnchors = true
