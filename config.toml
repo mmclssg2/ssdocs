@@ -11,6 +11,7 @@ layoutdir =  "layouts"
 publishdir =  "public"
 [params]
  balsamiqcomurl = "https://mmclssg1.github.io/ssdocs"
+ ssdocsurl = "https://mmclssg1.github.io"
 #   balsamiqcomurl = "https://localhost:1313"
 
 [blackfriday]
