@@ -2,327 +2,327 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Documentation</title>
-    <link>/ssdocs/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 16:46:35 +0200</lastBuildDate>
     
-	<atom:link href="/ssdocs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alternates</title>
-      <link>/ssdocs/tags/alternates/</link>
+      <link>/tags/alternates/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/tags/alternates/</guid>
+      <guid>/tags/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assets</title>
-      <link>/ssdocs/tags/assets/</link>
+      <link>/tags/assets/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>/ssdocs/tags/assets/</guid>
+      <guid>/tags/assets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autosave</title>
-      <link>/ssdocs/tags/autosave/</link>
+      <link>/tags/autosave/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>/ssdocs/tags/autosave/</guid>
+      <guid>/tags/autosave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Backups</title>
-      <link>/ssdocs/tags/backups/</link>
+      <link>/tags/backups/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>/ssdocs/tags/backups/</guid>
+      <guid>/tags/backups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bmml</title>
-      <link>/ssdocs/tags/bmml/</link>
+      <link>/tags/bmml/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/tags/bmml/</guid>
+      <guid>/tags/bmml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controls</title>
-      <link>/ssdocs/tags/controls/</link>
+      <link>/tags/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>/ssdocs/tags/controls/</guid>
+      <guid>/tags/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crop</title>
-      <link>/ssdocs/tags/crop/</link>
+      <link>/tags/crop/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>/ssdocs/tags/crop/</guid>
+      <guid>/tags/crop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom</title>
-      <link>/ssdocs/tags/custom/</link>
+      <link>/tags/custom/</link>
       <pubDate>Sat, 09 May 2015 16:48:21 +0200</pubDate>
       
-      <guid>/ssdocs/tags/custom/</guid>
+      <guid>/tags/custom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Grid</title>
-      <link>/ssdocs/tags/data-grid/</link>
+      <link>/tags/data-grid/</link>
       <pubDate>Sat, 09 May 2015 16:48:09 +0200</pubDate>
       
-      <guid>/ssdocs/tags/data-grid/</guid>
+      <guid>/tags/data-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elements</title>
-      <link>/ssdocs/tags/elements/</link>
+      <link>/tags/elements/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>/ssdocs/tags/elements/</guid>
+      <guid>/tags/elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting</title>
-      <link>/ssdocs/tags/exporting/</link>
+      <link>/tags/exporting/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>/ssdocs/tags/exporting/</guid>
+      <guid>/tags/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen</title>
-      <link>/ssdocs/tags/full-screen/</link>
+      <link>/tags/full-screen/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>/ssdocs/tags/full-screen/</guid>
+      <guid>/tags/full-screen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Group</title>
-      <link>/ssdocs/tags/group/</link>
+      <link>/tags/group/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>/ssdocs/tags/group/</guid>
+      <guid>/tags/group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>/ssdocs/tags/icons/</link>
+      <link>/tags/icons/</link>
       <pubDate>Sat, 09 May 2015 16:48:21 +0200</pubDate>
       
-      <guid>/ssdocs/tags/icons/</guid>
+      <guid>/tags/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>/ssdocs/tags/image/</link>
+      <link>/tags/image/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>/ssdocs/tags/image/</guid>
+      <guid>/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>/ssdocs/tags/images/</link>
+      <link>/tags/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>/ssdocs/tags/images/</guid>
+      <guid>/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing</title>
-      <link>/ssdocs/tags/importing/</link>
+      <link>/tags/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/tags/importing/</guid>
+      <guid>/tags/importing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Index</title>
-      <link>/ssdocs/tags/index/</link>
+      <link>/tags/index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ssdocs/tags/index/</guid>
+      <guid>/tags/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>/ssdocs/tags/introduction/</link>
+      <link>/tags/introduction/</link>
       <pubDate>Sat, 09 May 2015 16:32:43 +0200</pubDate>
       
-      <guid>/ssdocs/tags/introduction/</guid>
+      <guid>/tags/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking</title>
-      <link>/ssdocs/tags/linking/</link>
+      <link>/tags/linking/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>/ssdocs/tags/linking/</guid>
+      <guid>/tags/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manual Save</title>
-      <link>/ssdocs/tags/manual-save/</link>
+      <link>/tags/manual-save/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>/ssdocs/tags/manual-save/</guid>
+      <guid>/tags/manual-save/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes</title>
-      <link>/ssdocs/tags/notes/</link>
+      <link>/tags/notes/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>/ssdocs/tags/notes/</guid>
+      <guid>/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview</title>
-      <link>/ssdocs/tags/overview/</link>
+      <link>/tags/overview/</link>
       <pubDate>Sat, 09 May 2015 16:32:43 +0200</pubDate>
       
-      <guid>/ssdocs/tags/overview/</guid>
+      <guid>/tags/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pdf</title>
-      <link>/ssdocs/tags/pdf/</link>
+      <link>/tags/pdf/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>/ssdocs/tags/pdf/</guid>
+      <guid>/tags/pdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Png</title>
-      <link>/ssdocs/tags/png/</link>
+      <link>/tags/png/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>/ssdocs/tags/png/</guid>
+      <guid>/tags/png/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation Mode</title>
-      <link>/ssdocs/tags/presentation-mode/</link>
+      <link>/tags/presentation-mode/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>/ssdocs/tags/presentation-mode/</guid>
+      <guid>/tags/presentation-mode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printing</title>
-      <link>/ssdocs/tags/printing/</link>
+      <link>/tags/printing/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>/ssdocs/tags/printing/</guid>
+      <guid>/tags/printing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Property Inspector</title>
-      <link>/ssdocs/tags/property-inspector/</link>
+      <link>/tags/property-inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>/ssdocs/tags/property-inspector/</guid>
+      <guid>/tags/property-inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements</title>
-      <link>/ssdocs/tags/requirements/</link>
+      <link>/tags/requirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ssdocs/tags/requirements/</guid>
+      <guid>/tags/requirements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing</title>
-      <link>/ssdocs/tags/sharing/</link>
+      <link>/tags/sharing/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>/ssdocs/tags/sharing/</guid>
+      <guid>/tags/sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcuts</title>
-      <link>/ssdocs/tags/shortcuts/</link>
+      <link>/tags/shortcuts/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>/ssdocs/tags/shortcuts/</guid>
+      <guid>/tags/shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbols</title>
-      <link>/ssdocs/tags/symbols/</link>
+      <link>/tags/symbols/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/tags/symbols/</guid>
+      <guid>/tags/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Table</title>
-      <link>/ssdocs/tags/table/</link>
+      <link>/tags/table/</link>
       <pubDate>Sat, 09 May 2015 16:48:09 +0200</pubDate>
       
-      <guid>/ssdocs/tags/table/</guid>
+      <guid>/tags/table/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updating</title>
-      <link>/ssdocs/tags/updating/</link>
+      <link>/tags/updating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/ssdocs/tags/updating/</guid>
+      <guid>/tags/updating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version 2</title>
-      <link>/ssdocs/tags/version-2/</link>
+      <link>/tags/version-2/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/tags/version-2/</guid>
+      <guid>/tags/version-2/</guid>
       <description></description>
     </item>
     

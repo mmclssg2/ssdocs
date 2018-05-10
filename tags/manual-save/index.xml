@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Manual Save on Documentation</title>
-    <link>/ssdocs/tags/manual-save/</link>
+    <link>/tags/manual-save/</link>
     <description>Recent content in Manual Save on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2015 10:33:54 +0200</lastBuildDate>
     
-	<atom:link href="/ssdocs/tags/manual-save/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/manual-save/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Autosaving</title>
-      <link>/ssdocs/product2/autosave/</link>
+      <link>/product2/autosave/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>/ssdocs/product2/autosave/</guid>
+      <guid>/product2/autosave/</guid>
       <description>By default, Mockups 3 for Desktop will automatically save any changes you make. This ensures that you will never lose any work.
 Mockups 3 for Desktop automatically saves in two places. First, it commits all changes in real time to the internal backup file. Then after a short period of inactivity, Mockups 3 for Desktop will commit the changes to your original project file. This delay should help when you&amp;rsquo;re saving to a networked drive or folder.</description>
     </item>

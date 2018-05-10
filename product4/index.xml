@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>/ssdocs/product4/</link>
+    <link>/product4/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="/ssdocs/product4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/product4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>myBalsamiq Terms of Use and Privacy Policy</title>
-      <link>/ssdocs/product4/tos/</link>
+      <link>/product4/tos/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product4/tos/</guid>
+      <guid>/product4/tos/</guid>
       <description>Please read this document carefully before accessing or using myBalsamiq.
 Introduction English, Not Legalese Most Terms of Service and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 Because we believe in establishing long-term relationships with our customers, we decided to use plain English instead, to make our terms as clear as possible.
@@ -25,10 +25,10 @@ Please don&amp;rsquo;t forget that we are real people: take a look at our compan
     
     <item>
       <title>myBalsamiq Application Overview</title>
-      <link>/ssdocs/product4/intro/</link>
+      <link>/product4/intro/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/intro/</guid>
+      <guid>/product4/intro/</guid>
       <description>myBalsamiq lets you organize your work by project, create mockups collaboratively, review and iterate designs, and even deploy click-through prototypes for testing. See the myBalsamiq documentation index page for all the myBalsamiq documentation.
 Application Overview This short video should give you an idea of what you can do with myBalsamiq.
  You can also watch this video on our YouTube channel.
@@ -37,30 +37,30 @@ A Note about Roles and Access Many features of myBalsamiq are role-specific.</de
     
     <item>
       <title>myBalsamiq Home Page (All Projects)</title>
-      <link>/ssdocs/product4/home/</link>
+      <link>/product4/home/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/home/</guid>
+      <guid>/product4/home/</guid>
       <description>Your home page is where Staff Members create and navigate to all the projects your team is working on.
 Projects are like folders to keep all of your wireframes together based on whatever organization makes sense to you. For example, you could create a single project for a web site design you’re working on, or you could create multiple projects for the web site design to keep parts of your design separate.</description>
     </item>
     
     <item>
       <title>myBalsamiq Project Page</title>
-      <link>/ssdocs/product4/project/</link>
+      <link>/product4/project/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/project/</guid>
+      <guid>/product4/project/</guid>
       <description>An individual project page holds all the Mockups for a project.
 Projects are like folders to keep all of your wireframes together based on whatever organization makes sense to you. For example, you could create a single project for a web site design you’re working on, or you could create multiple projects for the web site design to keep parts of your design separate. How you organize is up to you.</description>
     </item>
     
     <item>
       <title>myBalsamiq Access Control Matrix</title>
-      <link>/ssdocs/product4/accesscontrolmatrix/</link>
+      <link>/product4/accesscontrolmatrix/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/accesscontrolmatrix/</guid>
+      <guid>/product4/accesscontrolmatrix/</guid>
       <description>The table below shows the full access control rules matrix for a myBalsamiq site.
 This can be helpful to understand &amp;ldquo;who can do what&amp;rdquo; depending on their role.
 View the full matrix in a new window.
@@ -69,10 +69,10 @@ View the full matrix in a new window.
     
     <item>
       <title>myBalsamiq Single Mockup Page</title>
-      <link>/ssdocs/product4/mockup/</link>
+      <link>/product4/mockup/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/mockup/</guid>
+      <guid>/product4/mockup/</guid>
       <description>The image below is a marked up screenshot showing all the parts and functions on a single Mockup page.
 
 View full size image in a new window &amp;rarr;
@@ -82,10 +82,10 @@ Creating Mockups To Create a mockup, select the New Mockup button in the upper r
     
     <item>
       <title>myBalsamiq Mockups Editor</title>
-      <link>/ssdocs/product4/editor/</link>
+      <link>/product4/editor/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/editor/</guid>
+      <guid>/product4/editor/</guid>
       <description>The Mockups editor in myBalsamiq is similar to the editor in other versions. See the Mockups Application Overview and Working with UI Controls for more details.
 UI Overview The myBalsamiq editor is made up of four main parts, as shown below: The Menu Bar, the UI Library, the Mockups editor canvas, and the Project Browser.
 The Menu Bar The Menu Bar is where you will find menus and icons for performing common actions, as well as the Quick Add box.</description>
@@ -93,82 +93,82 @@ The Menu Bar The Menu Bar is where you will find menus and icons for performing 
     
     <item>
       <title>Mockups Application Overview</title>
-      <link>/ssdocs/product4/overview/</link>
+      <link>/product4/overview/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/overview/</guid>
+      <guid>/product4/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>/ssdocs/product4/controls/</link>
+      <link>/product4/controls/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/controls/</guid>
+      <guid>/product4/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>/ssdocs/product4/inspector/</link>
+      <link>/product4/inspector/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/inspector/</guid>
+      <guid>/product4/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Text</title>
-      <link>/ssdocs/product4/text/</link>
+      <link>/product4/text/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/text/</guid>
+      <guid>/product4/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Data Grids / Tables</title>
-      <link>/ssdocs/product4/datagrids/</link>
+      <link>/product4/datagrids/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/datagrids/</guid>
+      <guid>/product4/datagrids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Icons</title>
-      <link>/ssdocs/product4/icons/</link>
+      <link>/product4/icons/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/icons/</guid>
+      <guid>/product4/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images</title>
-      <link>/ssdocs/product4/images/</link>
+      <link>/product4/images/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/images/</guid>
+      <guid>/product4/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Markup</title>
-      <link>/ssdocs/product4/markup/</link>
+      <link>/product4/markup/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/markup/</guid>
+      <guid>/product4/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Symbols</title>
-      <link>/ssdocs/product4/symbols/</link>
+      <link>/product4/symbols/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/symbols/</guid>
+      <guid>/product4/symbols/</guid>
       <description>Note: myBalsamiq is the only version 2 web application that supports Symbols. Symbols allow you create reusable common elements across different mockups. Other software often refers to this same feature as templates, master pages, custom components, or widgets.
 Creating Symbols Symbols in Mockups are simply named groups which have been &amp;ldquo;converted&amp;rdquo; to symbols.
 Symbols can be made from existing groups, or from ones you create fresh. The following steps assume you are creating a new group.</description>
@@ -176,55 +176,55 @@ Symbols can be made from existing groups, or from ones you create fresh. The fol
     
     <item>
       <title>Working with Site Maps</title>
-      <link>/ssdocs/product4/sitemaps/</link>
+      <link>/product4/sitemaps/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/sitemaps/</guid>
+      <guid>/product4/sitemaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>/ssdocs/product4/shortcuts/</link>
+      <link>/product4/shortcuts/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/shortcuts/</guid>
+      <guid>/product4/shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>/ssdocs/product4/linking/</link>
+      <link>/product4/linking/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/linking/</guid>
+      <guid>/product4/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Skins (Sketch vs. Wireframe)</title>
-      <link>/ssdocs/product4/skins/</link>
+      <link>/product4/skins/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/skins/</guid>
+      <guid>/product4/skins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presenting Your Work</title>
-      <link>/ssdocs/product4/fullscreen/</link>
+      <link>/product4/fullscreen/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/fullscreen/</guid>
+      <guid>/product4/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Assets in myBalsamiq</title>
-      <link>/ssdocs/product4/assets/</link>
+      <link>/product4/assets/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/assets/</guid>
+      <guid>/product4/assets/</guid>
       <description>myBalsamiq sites provide an assets manager for Site Assets and Project Assets. You can use this as a place to store re-usable images, Mockups, or other files you want to share with your team.
 To access the Assets Manager, click the Assets link in the top right of the page. The screenshot below shows what to look for.
 1. Site Assets Site Assets are files which will be available for use across all of your projects.</description>
@@ -232,10 +232,10 @@ To access the Assets Manager, click the Assets link in the top right of the page
     
     <item>
       <title>Exporting to PDF or PNG in myBalsamiq</title>
-      <link>/ssdocs/product4/exporting/</link>
+      <link>/product4/exporting/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/exporting/</guid>
+      <guid>/product4/exporting/</guid>
       <description>Exporting to PDF Unlike the Desktop version, exporting to PDF from myBalsamiq is done outside of the Editor.
 To export to PDF in myBalsamiq, go to the Project page for the mockups you want to export and click the arrow next to the Edit button as shown below.
 You will see an option listed there to export to PDF. When you select it you will be presented with some options and when you click the &amp;ldquo;Export to PDF&amp;rdquo; button the file will be created for you to download.</description>
@@ -243,20 +243,20 @@ You will see an option listed there to export to PDF. When you select it you wil
     
     <item>
       <title>Site, Project and Mockup History in myBalsamiq</title>
-      <link>/ssdocs/product4/history/</link>
+      <link>/product4/history/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/history/</guid>
+      <guid>/product4/history/</guid>
       <description>The history functions allow you to view recent activity on the site, on a project, or on a mockup. You’ll notice below the project or mockup name that there’s a single line of text showing you the last update and who made it. The “View History…” text at the end of this line is a link to view the entire history of updates.
 The type of events that will be recorded in the history are shown below.</description>
     </item>
     
     <item>
       <title>Team Communication in myBalsamiq</title>
-      <link>/ssdocs/product4/communication/</link>
+      <link>/product4/communication/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/communication/</guid>
+      <guid>/product4/communication/</guid>
       <description>myBalsamiq offers 3 different ways of communicating via the Project Team menu displayed within a project: Skype Chat, Skype Voice Call, and Email.
 Group Communication Skype Chat
 Launches Skype and starts a chat session with all project members. For Skype integration (chat and voice call), users will have to add their Skype screen name to their user settings.
@@ -266,30 +266,30 @@ Starts Skype video chat with your team (Skype multi-person conference works with
     
     <item>
       <title>myBalsamiq Prototype View</title>
-      <link>/ssdocs/product4/prototypeview/</link>
+      <link>/product4/prototypeview/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/prototypeview/</guid>
+      <guid>/product4/prototypeview/</guid>
       <description>The myBalsamiq Prototype View is one of the sharing options available for your project. To generate and access the Prototype View for your project, click on the arrow in the upper right-hand corner of your Project Page.
 After clicking the arrow, your browser will be sent to the Prototype View for your project. You&amp;rsquo;ll notice that the address of the Prototype View contains your myBalsamiq URL and a long string of randomized characters.</description>
     </item>
     
     <item>
       <title>myBalsamiq Email Notifications</title>
-      <link>/ssdocs/product4/notifications/</link>
+      <link>/product4/notifications/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/notifications/</guid>
+      <guid>/product4/notifications/</guid>
       <description>myBalsamiq uses email notifications to keep team members updated on changes to a site. Only people that belong to a project who have also confirmed their account after being added to a site will email get the notification. Read on to learn more.
 Users Decide When We Should Send an Email Notifications Email notifications are an easy way to make sure your team stays up to date on the project&amp;rsquo;s progress.</description>
     </item>
     
     <item>
       <title>Sharing Your Work with outside Clients in myBalsamiq</title>
-      <link>/ssdocs/product4/sharing/</link>
+      <link>/product4/sharing/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/sharing/</guid>
+      <guid>/product4/sharing/</guid>
       <description>Since myBalsamiq is all about collaboration, we offer many ways for you to get feedback on your designs.
 This document outlines a few different ways, so that you can pick the right one to fit each situation.
 For sharing with colleagues: just have your site owner invite them as staff members. Once they&amp;rsquo;re set up as staff members on your myBalsamiq site you can quickly add them to projects via the Project Members menu.</description>
@@ -297,10 +297,10 @@ For sharing with colleagues: just have your site owner invite them as staff memb
     
     <item>
       <title>User Testing Your myBalsamiq Prototypes</title>
-      <link>/ssdocs/product4/usertesting/</link>
+      <link>/product4/usertesting/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product4/usertesting/</guid>
+      <guid>/product4/usertesting/</guid>
       <description>The prototype view of myBalsamiq projects allows you to show your Mockup without all of the surrounding interface of myBalsamiq.
 If you&amp;rsquo;ve linked your Mockups together, this can be useful as a click-through prototype, or even for doing usability testing.
 The prototype view follows a project&amp;rsquo;s permissions settings, but allows you to share a private URL using a private key. This is useful for testing with remote usability testing services or for giving to people who aren&amp;rsquo;t project members.</description>
@@ -308,10 +308,10 @@ The prototype view follows a project&amp;rsquo;s permissions settings, but allow
     
     <item>
       <title>myBalsamiq User Settings</title>
-      <link>/ssdocs/product4/usersettings/</link>
+      <link>/product4/usersettings/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product4/usersettings/</guid>
+      <guid>/product4/usersettings/</guid>
       <description>Users can access their user settings by clicking your username in the header bar at the top of the page.
 The User Settings page allows individuals to do edit information about themselves. This information is used by the system, as described below.
 Your full name
@@ -322,10 +322,10 @@ Used to address you in the header and email notifications, and usually is your f
     
     <item>
       <title>myBalsamiq Site Settings</title>
-      <link>/ssdocs/product4/sitesettings/</link>
+      <link>/product4/sitesettings/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>/ssdocs/product4/sitesettings/</guid>
+      <guid>/product4/sitesettings/</guid>
       <description>Note: the actions described below are available to site owners only. You can access your site settings by clicking the “Settings” link in the header at the top of the page.
 The Site Settings page allows the site owner to change information about your company, add and manage staff, manage your payments, and change some administrative settings. Settings for individual projects, such as who can access a project, are available on the Project page.</description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>/ssdocs/product3v2/server/wireframes/</link>
+    <link>/product3v2/server/wireframes/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="/ssdocs/product3v2/server/wireframes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/product3v2/server/wireframes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Balsamiq Wireframes for Jira Server</title>
-      <link>/ssdocs/product3v2/server/wireframes/intro/</link>
+      <link>/product3v2/server/wireframes/intro/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/intro/</guid>
+      <guid>/product3v2/server/wireframes/intro/</guid>
       <description>This page contains usage instructions for Balsamiq Wireframes for Jira Server.
 Using Jira Cloud? Please see this article instead. Jira Server Administrators: the Balsamiq Wireframes for Jira Server Admin Guide is for you.
 Note: Balsamiq Wireframes for Jira Server was released on September, 2017. See our transition guide if you have the older pre-installed version of wireframes for Jira. Balsamiq Wireframes for Jira Server provides very similar functionality to Balsamiq Mockups 3 for Desktop.</description>
@@ -24,10 +24,10 @@ Note: Balsamiq Wireframes for Jira Server was released on September, 2017. See o
     
     <item>
       <title>Balsamiq Wireframes for Jira Server Admin Guide</title>
-      <link>/ssdocs/product3v2/server/wireframes/admin-guide/</link>
+      <link>/product3v2/server/wireframes/admin-guide/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/admin-guide/</guid>
+      <guid>/product3v2/server/wireframes/admin-guide/</guid>
       <description>This page contains installation, registration, updating and uninstalling instructions for Balsamiq Wireframes for Jira Server when installed on your own server.
 Note: If you are using Jira Cloud (on atlassian.net), please see this article instead. Usage instructions for the plugin are in the Balsamiq Wireframes for Jira Server Introduction.
 Installation Instructions Like most Atlassian add-ons, Balsamiq Wireframes for Jira is installed via Atlassian’s Universal Plugin Manager, or UPM.
@@ -36,10 +36,10 @@ To install the plugin, go to the Jira Administration page, select &amp;ldquo;Fin
     
     <item>
       <title>Balsamiq Wireframes for Jira Server Transition Guide</title>
-      <link>/ssdocs/product3v2/server/wireframes/transition-guide/</link>
+      <link>/product3v2/server/wireframes/transition-guide/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/transition-guide/</guid>
+      <guid>/product3v2/server/wireframes/transition-guide/</guid>
       <description>Balsamiq Wireframes for Jira Server was released was released on September, 2017. The new version has projects, symbols, comments, chat, real time collaboration and lots of other improvements.
 Here&amp;rsquo;s a quick, 5-minute video walkthrough for some of the highlights of Balsamiq Wireframes for Jira Server.
  A New File Format In the old version of Balsamiq Mockups for Jira Server, we stored each mockup in its own BMML attachment, and only linked to images.</description>
@@ -47,10 +47,10 @@ Here&amp;rsquo;s a quick, 5-minute video walkthrough for some of the highlights 
     
     <item>
       <title>Real-Time Collaboration Service Troubleshooting</title>
-      <link>/ssdocs/product3v2/server/wireframes/rtc-troubleshooting/</link>
+      <link>/product3v2/server/wireframes/rtc-troubleshooting/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/rtc-troubleshooting/</guid>
+      <guid>/product3v2/server/wireframes/rtc-troubleshooting/</guid>
       <description>Balsamiq Wireframes for Jira Server uses a &amp;ldquo;behind the firewall&amp;rdquo; service in order to allow real time collaboration, chat and other features. To verify that the service works as intended, you can use the configuration page of the add-on.
 This should be the expected status.
 In case of problem, the config page will show an error status.
@@ -59,138 +59,138 @@ In case the status of the Real-Time Collaboration Service is DOWN, you should ve
     
     <item>
       <title>Real-Time Collaboration Service Configuration</title>
-      <link>/ssdocs/product3v2/server/wireframes/rtcconfigs/</link>
+      <link>/product3v2/server/wireframes/rtcconfigs/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/rtcconfigs/</guid>
+      <guid>/product3v2/server/wireframes/rtcconfigs/</guid>
       <description>Our Atlassian server add-ons include a built-in, behind the firewall real-time collaboration service (RTC) that allows multiple users to work on the same project, at the same time. This documentation is to help administrators understand how the service is implemented, and potentially help them solve problems with it.
 It&amp;rsquo;s a service on the main application server that needs to be configured according to the existing network layout. Except for common setups (direct connection to tomcat), you need administration access to the server console to edit reverse proxy configuration files or open the desired port.</description>
     </item>
     
     <item>
       <title>Editor Overview</title>
-      <link>/ssdocs/product3v2/server/wireframes/overview/</link>
+      <link>/product3v2/server/wireframes/overview/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/overview/</guid>
+      <guid>/product3v2/server/wireframes/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adding and Arranging UI Controls</title>
-      <link>/ssdocs/product3v2/server/wireframes/adding-controls/</link>
+      <link>/product3v2/server/wireframes/adding-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/adding-controls/</guid>
+      <guid>/product3v2/server/wireframes/adding-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Editing UI Controls</title>
-      <link>/ssdocs/product3v2/server/wireframes/editing-controls/</link>
+      <link>/product3v2/server/wireframes/editing-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/editing-controls/</guid>
+      <guid>/product3v2/server/wireframes/editing-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing and Reviewing</title>
-      <link>/ssdocs/product3v2/server/wireframes/sharing/</link>
+      <link>/product3v2/server/wireframes/sharing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/sharing/</guid>
+      <guid>/product3v2/server/wireframes/sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Collaborative Editing</title>
-      <link>/ssdocs/product3v2/server/wireframes/collaborating/</link>
+      <link>/product3v2/server/wireframes/collaborating/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/collaborating/</guid>
+      <guid>/product3v2/server/wireframes/collaborating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using Images, Assets, and Icons</title>
-      <link>/ssdocs/product3v2/server/wireframes/images/</link>
+      <link>/product3v2/server/wireframes/images/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/images/</guid>
+      <guid>/product3v2/server/wireframes/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbols</title>
-      <link>/ssdocs/product3v2/server/wireframes/symbols/</link>
+      <link>/product3v2/server/wireframes/symbols/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/symbols/</guid>
+      <guid>/product3v2/server/wireframes/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markup</title>
-      <link>/ssdocs/product3v2/server/wireframes/markup/</link>
+      <link>/product3v2/server/wireframes/markup/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/markup/</guid>
+      <guid>/product3v2/server/wireframes/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Wireframes Together</title>
-      <link>/ssdocs/product3v2/server/wireframes/linking/</link>
+      <link>/product3v2/server/wireframes/linking/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/linking/</guid>
+      <guid>/product3v2/server/wireframes/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>/ssdocs/product3v2/server/wireframes/fullscreen/</link>
+      <link>/product3v2/server/wireframes/fullscreen/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/fullscreen/</guid>
+      <guid>/product3v2/server/wireframes/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternates</title>
-      <link>/ssdocs/product3v2/server/wireframes/alternates/</link>
+      <link>/product3v2/server/wireframes/alternates/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/alternates/</guid>
+      <guid>/product3v2/server/wireframes/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting</title>
-      <link>/ssdocs/product3v2/server/wireframes/exporting/</link>
+      <link>/product3v2/server/wireframes/exporting/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/exporting/</guid>
+      <guid>/product3v2/server/wireframes/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing</title>
-      <link>/ssdocs/product3v2/server/wireframes/importing/</link>
+      <link>/product3v2/server/wireframes/importing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/importing/</guid>
+      <guid>/product3v2/server/wireframes/importing/</guid>
       <description>Importing Wireframes from Another Project Sometimes you might want to copy or move a wireframe from one project to another. Here is a simple way to do it:
  Open the two projects (each in its own browser tab or window) In the source project, select the wireframe you want to copy or move. Select all the controls from this wireframe (CTRL/CMD+A) and copy the controls (CTRL/CMD+C) In the target project, paste your controls (CTRL/CMD+V) in a newly created wireframe  That’s it!</description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>/ssdocs/product3v2/server/wireframes/shortcuts/</link>
+      <link>/product3v2/server/wireframes/shortcuts/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/server/wireframes/shortcuts/</guid>
+      <guid>/product3v2/server/wireframes/shortcuts/</guid>
       <description></description>
     </item>
     

@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Version 2 on Documentation</title>
-    <link>/ssdocs/tags/version-2/</link>
+    <link>/tags/version-2/</link>
     <description>Recent content in Version 2 on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 17:05:09 +0200</lastBuildDate>
     
-	<atom:link href="/ssdocs/tags/version-2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/version-2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Importing Mockups and Symbols</title>
-      <link>/ssdocs/product2/importing/</link>
+      <link>/product2/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/product2/importing/</guid>
+      <guid>/product2/importing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing Mockups and Symbols</title>
-      <link>/ssdocs/product3v1/b3/importing/</link>
+      <link>/product3v1/b3/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/product3v1/b3/importing/</guid>
+      <guid>/product3v1/b3/importing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing Mockups and Symbols</title>
-      <link>/ssdocs/product3v2/cloud/mockups3/importing/</link>
+      <link>/product3v2/cloud/mockups3/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/product3v2/cloud/mockups3/importing/</guid>
+      <guid>/product3v2/cloud/mockups3/importing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing Mockups and Symbols</title>
-      <link>/ssdocs/product3v3/cloud/mockups3/importing/</link>
+      <link>/product3v3/cloud/mockups3/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>/ssdocs/product3v3/cloud/mockups3/importing/</guid>
+      <guid>/product3v3/cloud/mockups3/importing/</guid>
       <description></description>
     </item>
     
