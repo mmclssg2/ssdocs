@@ -321,8 +321,8 @@ html:hover [class^=ss-] {
     content: ''}
 @font-face {
     font-family: SSStandard;
-    src: url(/fonts/ss-standard.eot);
-    src: url(/fonts/ss-standard.eot?#iefix) format('embedded-opentype'), url(/fonts/ss-standard.woff) format('woff'), url(/fonts/ss-standard.ttf) format('truetype'), url(/fonts/ss-standard.svg#SSStandard) format('svg');
+    src: url(/ssdocs/fonts/ss-standard.eot);
+    src: url(/ssdocs/fonts/ss-standard.eot?#iefix) format('embedded-opentype'), url(/ssdocs/fonts/ss-standard.woff) format('woff'), url(/ssdocs/fonts/ss-standard.ttf) format('truetype'), url(/ssdocs/fonts/ss-standard.svg#SSStandard) format('svg');
     font-weight: 400;
     font-style: normal;
 }
