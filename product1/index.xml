@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>https://mmclssg1.github.io/ssdocs/product1/</link>
+    <link>http://localhost:1313/ssdocs/product1/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/ssdocs/product1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/ssdocs/product1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Balsamiq Cloud</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/intro/</link>
+      <link>http://localhost:1313/ssdocs/product1/intro/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/intro/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/intro/</guid>
       <description>What Is Balsamiq Cloud? Balsamiq Cloud is a web-based user interface design tool for creating wireframes (sometimes called mockups or low-fidelity prototypes). You can use it to generate digital sketches of your idea or concept for an application or website, to facilitate discussion and understanding before any code is written. The completed wireframes can be used for user testing, clarifying your vision, getting feedback from stakeholders, or getting approval to start development.</description>
     </item>
     
     <item>
       <title>Managing Spaces</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/spaces/</link>
+      <link>http://localhost:1313/ssdocs/product1/spaces/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/spaces/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/spaces/</guid>
       <description>A Space on Balsamiq Cloud is where your projects live. We have three tiers of Spaces, and we think that once you find the right size, a single Space will be enough for you and your team. While there may be situations where you are invited to someone else&amp;rsquo;s Space to collaborate on a project, or you need a specific number of projects, we expect you&amp;rsquo;ll only have to manage a single Space.</description>
     </item>
     
     <item>
       <title>Managing Projects</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/projects/</link>
+      <link>http://localhost:1313/ssdocs/product1/projects/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/projects/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/projects/</guid>
       <description>In each of your Spaces, you will find a collection of projects that you and your team are working on.
 From this page you can create and upload as many projects as your subscription allows. If you have existing Balsamiq (.bmpr) files you can just drag them on to this screen to upload them.
 Note: If you were invited to join a Space, it is likely that there will be projects available to you already.</description>
@@ -42,10 +42,10 @@ Note: If you were invited to join a Space, it is likely that there will be proje
     
     <item>
       <title>People and Permissions</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/people/</link>
+      <link>http://localhost:1313/ssdocs/product1/people/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/people/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/people/</guid>
       <description>Balsamiq Cloud has four user permission levels: Space Owner, Staff Members, Project Members, and Billing Only Administrators.
 Space Owners Space Owners are the admins for the entire Balsamiq Cloud Space. They can:
  Access any project on the Space Create new projects Add Staff and Project Members to any project on the Space Manage the Space and billing information  Note: See Managing Your Space Settings to learn how to transfer Space ownership or add a second Space Owner.</description>
@@ -53,28 +53,28 @@ Space Owners Space Owners are the admins for the entire Balsamiq Cloud Space. Th
     
     <item>
       <title>Editor Overview</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/overview/</link>
+      <link>http://localhost:1313/ssdocs/product1/overview/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/overview/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adding and Arranging UI Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/adding-controls/</link>
+      <link>http://localhost:1313/ssdocs/product1/adding-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/adding-controls/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/adding-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Account Management</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/account-management/</link>
+      <link>http://localhost:1313/ssdocs/product1/account-management/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/account-management/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/account-management/</guid>
       <description>A Balsamiq Cloud account is your ticket to super-fast wireframing. You only need one account as it can belong to as many spaces as you make, or are invited to.
 Signing Up for a Balsamiq Cloud Account The first thing you need to do to start working in Balsamiq Cloud is sign up for an account. To get started, head over to https://balsamiq.cloud.
 We offer two sign up methods. You can complete our sign up form:</description>
@@ -82,139 +82,139 @@ We offer two sign up methods. You can complete our sign up form:</description>
     
     <item>
       <title>Editing Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/editing-controls/</link>
+      <link>http://localhost:1313/ssdocs/product1/editing-controls/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/editing-controls/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/editing-controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing and Reviewing</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/sharing/</link>
+      <link>http://localhost:1313/ssdocs/product1/sharing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/sharing/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/sharing/</guid>
       <description>Balsamiq Cloud is designed for collaboration and offers many ways for you to get feedback on your designs. This document outlines a few different ways so that you can pick the right one to fit each situation.
 For sharing with collaborators, just have your Space Owner invite them as staff members. Once they’re set up as staff members on your Balsamiq Cloud Space, you can quickly invite them to projects.</description>
     </item>
     
     <item>
       <title>Collaborative Editing</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/collaborating/</link>
+      <link>http://localhost:1313/ssdocs/product1/collaborating/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/collaborating/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/collaborating/</guid>
       <description>Balsamiq Cloud is optimized for collaborative work. This document outlines the different ways to interact with your team, while editing a project.
 Note: The following features require Edit permissions, see People and Permissions for more details. Collaborating in Real-Time Balsamiq Cloud supports real-time collaboration between users. Once two or more users join the same project, every change will be reflected in real-time with everyone. The toolbar will show users who have joined the project, and the permission level they have.</description>
     </item>
     
     <item>
       <title>Using Images and Assets</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/images/</link>
+      <link>http://localhost:1313/ssdocs/product1/images/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/images/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbols</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/symbols/</link>
+      <link>http://localhost:1313/ssdocs/product1/symbols/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/symbols/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Markup</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/markup/</link>
+      <link>http://localhost:1313/ssdocs/product1/markup/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/markup/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Wireframes Together</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/linking/</link>
+      <link>http://localhost:1313/ssdocs/product1/linking/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/linking/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/fullscreen/</link>
+      <link>http://localhost:1313/ssdocs/product1/fullscreen/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/fullscreen/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Alternates</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/alternates/</link>
+      <link>http://localhost:1313/ssdocs/product1/alternates/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/alternates/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/exporting/</link>
+      <link>http://localhost:1313/ssdocs/product1/exporting/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/exporting/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/importing/</link>
+      <link>http://localhost:1313/ssdocs/product1/importing/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/importing/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/importing/</guid>
       <description>Importing Wireframes from Another Cloud Project Sometimes you might want to copy or move a wireframe from one project to another. Here is a simple way to do it:
  Open the two projects (each in its own browser tab or window) In the source project, select the wireframe you want to copy or move. Select all the controls from this wireframe (CTRL/CMD+A) and copy the controls (CTRL/CMD+C) In the target project, paste your controls (CTRL/CMD+V) in a newly created wireframe  That’s it!</description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/shortcuts/</link>
+      <link>http://localhost:1313/ssdocs/product1/shortcuts/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/shortcuts/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/shortcuts/</guid>
       <description>Working with Controls  Might not work with...   Selection   Edit the selected control&amp;#39;s text ENTER or F2  &amp;#xF8FF; &amp;#x2691;  --    Add to selection SHIFT+CLICK    Toggle selection CTRL+CLICK Chrome Chrome   Select All CTRL+A Chrome    Deselect All CTRL+SHIFT+A     Ignore control(s) under cursor Hold ALT     Treat/do not treat selection as markup CTRL+SHIFT+K     Size/Position     Resize maintaining aspect ratio Hold SHIFT while resizing with mouse     Move selection along horizontal or vertical axis Hold SHIFT while dragging   Disable snapping during move or resize Hold CTRL     Grow/Increase text or icon size CTRL+]     Shrink/Decrease text or icon size CTRL+[     Nudge selection 1px &amp;uarr;&amp;darr;&amp;larr;&amp;rarr;     Nudge selection 10px SHIFT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;     Nudge-Resize selection 1px CTRL+ALT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;     Nudge-Resize selection 10px CTRL+ALT+SHIFT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;     Auto-Size selection CTRL+ALT+0     Pan the canvas (Hand tool) SPACE BAR+Click and Drag     Bring to front CTRL+SHIFT+&amp;uarr;     Send to back CTRL+SHIFT+&amp;darr;     Bring forward CTRL+&amp;uarr;     Send backward CTRL+&amp;darr;     Duplicate selection ALT+drag     Edit/History     Undo last command CTRL+Z     Redo last command CTRL+Y or CTRL+SHIFT+Z     Cut the selected controls CTRL+X or SHIFT+DELETE     Copy the selected controls CTRL+C or CTRL+INSERT     Paste CTRL+V or SHIFT+INSERT     Paste In Place CTRL+SHIFT+V     Delete the selected controls DELETE or BACKSPACE     Duplicate the selected controls CTRL+D     Lock the selected controls CTRL+2     Unlock all locked controls CTRL+3     Transform the selected controls CTRL+T     Group     Group the selected controls CTRL+G     Ungroup the selected groups CTRL+SHIFT+G     Align     Align selected controls left CTRL+ALT+1     Align selected controls center CTRL+ALT+2     Align selected controls right CTRL+ALT+3     Align selected controls top CTRL+ALT+4     Align selected controls middle CTRL+ALT+5     Align selected controls bottom CTRL+ALT+6     Working with Icons      Navigating the Suggestion List &amp;uarr;&amp;darr;&amp;larr;&amp;rarr;     Using the selected icon ENTER     Closing the Icons Library ESC     Closing the Suggestion List ESC   Grow/Increase icon size CTRL+]     Shrink/Decrease icon size CTRL+[     Working with Text      Start Editing text of the selected control ENTER or F2     Committing the current text ENTER (single-line controls), CTRL+ENTER (multi-line controls) or click anywhere     Ignoring the current edit ESC     Grow/Increase Text Size CTRL+]     Shrink/Decrease Text Size CTRL+[     Text Formatting      italic _text in underscores_     link [text in brackets]     link with a target [text in brackets](mockup_name) or</description>
     </item>
     
     <item>
       <title>Test for SS site</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/test_ss/</link>
+      <link>http://localhost:1313/ssdocs/product1/test_ss/</link>
       <pubDate>Sun, 06 May 2018 15:06:03 +0100</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/test_ss/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/test_ss/</guid>
       <description>HI! This is a Test This is some random content</description>
     </item>
     
     <item>
       <title>Test 2</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/test_ss2/</link>
+      <link>http://localhost:1313/ssdocs/product1/test_ss2/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/test_ss2/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/test_ss2/</guid>
       <description>This is test 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed commodo, justo vel posuere fringilla, nulla augue eleifend leo, a interdum quam nibh quis orci. Mauris vitae augue vel ipsum faucibus accumsan non sed tellus. Aliquam arcu orci, scelerisque vitae augue vitae, fermentum interdum felis. Suspendisse facilisis diam nisl, nec imperdiet erat dictum a. Aliquam sit amet sollicitudin est. Morbi quis purus a sapien pharetra tempus non id lacus.</description>
     </item>
     
     <item>
       <title>Balsamiq Cloud Terms of Use and Privacy Policy</title>
-      <link>https://mmclssg1.github.io/ssdocs/product1/tos/</link>
+      <link>http://localhost:1313/ssdocs/product1/tos/</link>
       <pubDate>Thu, 19 Jan 2017 13:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product1/tos/</guid>
+      <guid>http://localhost:1313/ssdocs/product1/tos/</guid>
       <description>Please read this document carefully before accessing or using Balsamiq Cloud.
 Introduction English, Not Legalese Most Terms of Use and Privacy Policy documents are unreadable. They are written by lawyers and for lawyers, and in our opinion are not very effective.
 Because we believe in establishing long-term relationships with our customers, we decided to use plain English instead as much as possible, to make our terms as clear as possible.</description>

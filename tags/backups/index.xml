@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Backups on Documentation</title>
-    <link>https://mmclssg1.github.io/ssdocs/tags/backups/</link>
+    <link>http://localhost:1313/ssdocs/tags/backups/</link>
     <description>Recent content in Backups on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2015 10:33:54 +0200</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/ssdocs/tags/backups/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/ssdocs/tags/backups/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Local Storage Folder and Backups</title>
-      <link>https://mmclssg1.github.io/ssdocs/product2/localstore/</link>
+      <link>http://localhost:1313/ssdocs/product2/localstore/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product2/localstore/</guid>
+      <guid>http://localhost:1313/ssdocs/product2/localstore/</guid>
       <description>The Local Store Folder Balsamiq Mockups 3 for Desktop creates a folder on your hard drive for storing some local data and preferences. It looks something like this:
 The easiest way to find it is by opening the &amp;ldquo;About&amp;rdquo; dialog and clicking on the &amp;ldquo;Open Local Store Folder&amp;rdquo; link.
 ​

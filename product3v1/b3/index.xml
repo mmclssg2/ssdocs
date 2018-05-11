@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/</link>
+    <link>http://localhost:1313/ssdocs/product3v1/b3/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/ssdocs/product3v1/b3/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/ssdocs/product3v1/b3/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Balsamiq Mockups 3 for Google Drive Overview</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/intro/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/intro/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:12 -0700</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/intro/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/intro/</guid>
       <description>Overview Balsamiq Mockups 3 for Google Drive provides the same functionality as other Balsamiq Mockups products. The difference is that the files are stored and managed by Google Drive. If you use other Google Drive apps (Google Docs, for example), the file management features should be very familiar to you.
 You can easily share your mockups using the built-in features of Google Drive, even if other people don&amp;rsquo;t have the Balsamiq app installed.</description>
     </item>
     
     <item>
       <title>Installing Balsamiq Mockups 3 for Google Drive</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/installing/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/installing/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:12 -0700</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/installing/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/installing/</guid>
       <description>Installation Installing Balsamiq Mockups 3 for Google Drive is the same as installing other Google Drive apps. It can be installed from the Chrome Web Store.
 Note: Balsamiq for Google Drive has been updated with our new editor, Balsamiq Wireframes. You can install the new version from this Chrome Web Store page. Once installed, Balsamiq Mockups 3 for Google Drive will be available in your Google Drive &amp;ldquo;New&amp;rdquo; menu.If you are using the Chrome browser, you can also access Balsamiq Mockups 3 for Google Drive from the Chrome Apps tab (open a new tab and type &amp;ldquo;chrome://apps/&amp;ldquo;).</description>
     </item>
     
     <item>
       <title>Working with Files in Google Drive</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/drive-files/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/drive-files/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:12 -0700</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/drive-files/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/drive-files/</guid>
       <description>A variety of actions are available from the Google Drive file viewer. These actions are available by selecting a file and clicking one of the icons at the top of the file viewer or by right-clicking on the file. The actions available on Balsamiq Mockups files in Google Drive are common across all types of files in Google Drive, so not all of them are described here. For general help on getting around in Google Drive, check out the Google Drive Help Center.</description>
     </item>
     
     <item>
       <title>Collaborating with Other Users in Real Time</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/collaborating/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/collaborating/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:12 -0700</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/collaborating/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/collaborating/</guid>
       <description>Balsamiq Mockups 3 for Google Drive supports real-time collaboration between users. Just share the Mockups file with your collaborators, then have everyone launch the application on the same file. Everyone&amp;rsquo;s changes will be shared in real-time with all collaborators.
 The other connected users will be shown in the top right of the screen. Hovering over their picture shows their email address.</description>
     </item>
     
     <item>
       <title>Balsamiq Mockups 3 Application Overview</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/overview/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/overview/</link>
       <pubDate>Sat, 09 May 2015 16:44:43 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/overview/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/controls/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/controls/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/inspector/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/inspector/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Alternates</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/alternates/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/alternates/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/alternates/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Project Info Panel</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/projectinfo/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/projectinfo/</link>
       <pubDate>Sat, 09 May 2015 16:46:50 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/projectinfo/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/projectinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Skins (Sketch vs. Wireframe)</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/skins/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/skins/</link>
       <pubDate>Sat, 09 May 2015 17:03:44 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/skins/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/skins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Text</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/text/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/text/</link>
       <pubDate>Sat, 09 May 2015 16:47:53 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/text/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Data Grids / Tables</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/datagrids/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/datagrids/</link>
       <pubDate>Sat, 09 May 2015 16:48:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/datagrids/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/datagrids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Icons</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/icons/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/icons/</link>
       <pubDate>Sat, 09 May 2015 16:48:21 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/icons/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images and Assets</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/images/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/images/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Markup</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/markup/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/markup/</link>
       <pubDate>Sat, 09 May 2015 16:58:17 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/markup/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Symbols</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/symbols/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/symbols/</link>
       <pubDate>Sat, 09 May 2015 16:58:34 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/symbols/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Site Maps</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/sitemaps/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/sitemaps/</link>
       <pubDate>Sat, 09 May 2015 16:59:07 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/sitemaps/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/sitemaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting Your Mockups</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/exporting/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/exporting/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/exporting/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing Mockups and Symbols</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/importing/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/importing/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/importing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/linking/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/linking/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/linking/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/fullscreen/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/fullscreen/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/fullscreen/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/shortcuts/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/shortcuts/</link>
       <pubDate>Sun, 10 May 2015 10:34:01 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/shortcuts/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/shortcuts/</guid>
       <description></description>
     </item>
     
