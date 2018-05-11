@@ -60,7 +60,7 @@ initLunr();
 $( document ).ready(function() {
     var searchList = new autoComplete({
         /* selector for the search box element */
-        selector: $("#search_home").get(0),
+        selector: $("#search-by").get(0),
         /* source is the callback to perform the search */
         source: function(term, response) {
             response(search(term));
