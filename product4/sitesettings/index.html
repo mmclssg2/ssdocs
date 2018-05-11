@@ -17,23 +17,24 @@
   
 
   
-  <link rel="stylesheet" href="https://mmclssg1.github.io/ssdocs/css/docstyles.css?v=2018-05-11-1111" type="text/css" media="all">
+  <link rel="stylesheet" href="https://mmclssg1.github.io/ssdocs/css/docstyles.css?v=2018-05-11-1523" type="text/css" media="all">
   
 
   
   
   
-  <script src="https://mmclssg1.github.io/ssdocs/js/jquery.min.js?v=2018-05-11-1111"></script>
+  <link href="https://mmclssg1.github.io/ssdocs/css/auto-complete.css" rel="stylesheet">
+  <script src="https://mmclssg1.github.io/ssdocs/js/jquery.min.js?v=2018-05-11-1523"></script>
   <script>
     !window.jQuery && document.write(unescape('%3Cscript src="https:\/\/mmclssg1.github.io\/ssdocs/js/jquery.min.js"%3E%3C/script%3E'))
   </script>
-  <script type="text/javascript" src="https://mmclssg1.github.io/ssdocs/js/balsamiq-complete.min.js?v=2018-05-11-1111"></script>
+  <script type="text/javascript" src="https://mmclssg1.github.io/ssdocs/js/balsamiq-complete.min.js?v=2018-05-11-1523"></script>
   
   
 
   
-  <link rel="stylesheet" href="https://mmclssg1.github.io/ssdocs/css/dbc.css?v=2018-05-11-1111" type="text/css" media="all">
-  <script src="https://mmclssg1.github.io/ssdocs/js/dbc.min.js?v=2018-05-11-1111"></script>
+  <link rel="stylesheet" href="https://mmclssg1.github.io/ssdocs/css/dbc.css?v=2018-05-11-1523" type="text/css" media="all">
+  <script src="https://mmclssg1.github.io/ssdocs/js/dbc.min.js?v=2018-05-11-1523"></script>
   
 <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Documentation">
 <title>
@@ -101,17 +102,16 @@ Documentation
               <li id="gnav-search-form" class="hidden-xs hidden-sm last">
 
               <div id="search">
-                  <form class="search" action="search/" method="get" id="searchInNav">
+                  <form class="search" method="get" id="searchInNav">
                     <div id="navSearchDiv">
-                    <input id="s" accesskey="s" type="text" value="Search..." name="q" tabindex="1" autocomplete="off"/>
+                    <input data-search-input id="search-by" accesskey="s" type="text" value="Search..." name="q" tabindex="1" autocomplete="off"/>
                     <input id="ss" type="submit" value="Search" tabindex="2"/>
                     </div>
                   </form>
-                  <script type="text/javascript">
-                    BalsamiqSearchAutoComplete.initAutoCompleteInputDiv("navSearchDiv");
-                  </script>
+                  
 
                   
+
                 </div>
               </li>
             </ul>
@@ -398,6 +398,20 @@ anchors.options = {
 };
 anchors.add('div.article-content.content.article h2, div.article-content.content.article h3');
 </script>
+<body>
+...
+
+
+    <script type="text/javascript" src="https://mmclssg1.github.io/ssdocs/js/lunr.min.js"></script>
+    <script type="text/javascript" src="https://mmclssg1.github.io/ssdocs/js/auto-complete.js"></script>
+
+    <script type="text/javascript">
+        var baseurl = "https:\/\/mmclssg1.github.io\/ssdocs\/";
+    </script>
+    <script type="text/javascript" src="https://mmclssg1.github.io/ssdocs/js/search.js"></script>
+
+...
+ </body>
 
 </body>
 </html>
