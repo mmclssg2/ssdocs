@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Images on Documentation</title>
-    <link>http://localhost:1313/ssdocs/tags/images/</link>
+    <link>https://mmclssg1.github.io/ssdocs/tags/images/</link>
     <description>Recent content in Images on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 16:57:52 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/ssdocs/tags/images/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmclssg1.github.io/ssdocs/tags/images/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Working with Images and Assets</title>
-      <link>http://localhost:1313/ssdocs/product2/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images and Assets</title>
-      <link>http://localhost:1313/ssdocs/product3v1/b3/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v1/b3/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images and Assets</title>
-      <link>http://localhost:1313/ssdocs/product3v2/cloud/mockups3/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/cloud/mockups3/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images and Assets</title>
-      <link>http://localhost:1313/ssdocs/product3v3/cloud/mockups3/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v3/cloud/mockups3/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/images/</guid>
       <description></description>
     </item>
     

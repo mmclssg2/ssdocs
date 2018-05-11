@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/</link>
+    <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/ssdocs/product3v2/server/mockups2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Mockups 2 for Jira Server</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/intro/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/intro/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/intro/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/intro/</guid>
       <description>This page contains usage instructions for Mockups 2 for Jira Server.
 Using Jira Cloud? If you are using Jira Cloud (on atlassian.net), please see this article instead. Jira Administrators: the Mockups for Jira Server Admin Guide is for you.
 Adding a UI Mockup to a Jira Issue To add a UI Mockup to a particular Jira issue you simply click on the “Add/Edit UI Mockup to this issue” link:</description>
@@ -24,10 +24,10 @@ Adding a UI Mockup to a Jira Issue To add a UI Mockup to a particular Jira issue
     
     <item>
       <title>Mockups 2 for Jira Server Admin Guide</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/admin-guide/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/admin-guide/</link>
       <pubDate>Thu, 30 Jul 2015 15:52:28 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/admin-guide/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/admin-guide/</guid>
       <description>This page contains installation, registration, updating and uninstalling instructions for Mockups 2 for Jira Server when installed on your own server.
 Using Jira Cloud? If you are using Jira Cloud (on atlassian.net), please see this article instead. Usage instructions for the plugin are in the Mockups for Jira Server Introduction.
 Installation Instructions Like most Atlassian add-ons, Balsamiq Mockups for Jira is installed via Atlassian&amp;rsquo;s Universal Plugin Manager, or UPM. Make sure you are running an updated version of UPM before attempting to install the plugin (UPM installation instructions).</description>
@@ -35,118 +35,118 @@ Installation Instructions Like most Atlassian add-ons, Balsamiq Mockups for Jira
     
     <item>
       <title>Mockups Application Overview</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/overview/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/overview/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/overview/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/controls/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/controls/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/controls/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/inspector/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/inspector/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/inspector/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Skins (Sketch vs. Wireframe)</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/skins/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/skins/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/skins/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/skins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Text</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/text/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/text/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/text/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Data Grids / Tables</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/datagrids/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/datagrids/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/datagrids/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/datagrids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Icons</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/icons/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/icons/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/icons/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/images/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Markup</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/markup/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/markup/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/markup/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Site Maps</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/sitemaps/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/sitemaps/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/sitemaps/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/sitemaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/linking/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/linking/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/linking/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presenting Your Work</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/fullscreen/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/fullscreen/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/fullscreen/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>http://localhost:1313/ssdocs/product3v2/server/mockups2/shortcuts/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/shortcuts/</link>
       <pubDate>Wed, 23 Sep 2015 15:48:49 -0700</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product3v2/server/mockups2/shortcuts/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product3v2/server/mockups2/shortcuts/</guid>
       <description></description>
     </item>
     

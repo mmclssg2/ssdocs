@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>_editor on Documentation</title>
-    <link>http://localhost:1313/ssdocs/_editor/</link>
+    <link>https://mmclssg1.github.io/ssdocs/_editor/</link>
     <description>Recent content in _editor on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 16:58:34 +0200</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/ssdocs/_editor/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmclssg1.github.io/ssdocs/_editor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Working with Symbols</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/symbols/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/symbols/</link>
       <pubDate>Sat, 09 May 2015 16:58:34 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/symbols/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/symbols/</guid>
       <description>Balsamiq Mockups supports the concept of Symbols. A Symbol is a group of controls that represents a single piece of functionality. It is often used for parts of the user interface that show up on several screens. Other software sometimes refers to this feature as templates, master pages, custom components, or widgets.
 In essence, Symbols let you create reusable common elements that you can use across different mockups.
 Creating Symbols There are two ways to create a Symbol, described below.</description>
@@ -24,10 +24,10 @@ Creating Symbols There are two ways to create a Symbol, described below.</descri
     
     <item>
       <title>Adding and Arranging UI Controls</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/adding-controls/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/adding-controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/adding-controls/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/adding-controls/</guid>
       <description>Adding UI Controls To add UI controls to your mockup, double-click or drag a control in the UI Library or type a keyword into the Quick Add tool.
 You can also duplicate controls already on the canvas using copy and paste or the duplicate command (CTRL/CMD + D). ALT/Option + drag will also duplicate controls and allow you to place them using your mouse.
 Note: Full list of keyboard shortcuts here.</description>
@@ -35,10 +35,10 @@ Note: Full list of keyboard shortcuts here.</description>
     
     <item>
       <title>Alternates</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/alternates/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/alternates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/alternates/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/alternates/</guid>
       <description>Alternates (also sometimes referred to as versions or branches) allow you to create variations on a single wireframe design without adding more wireframes to your project.
 Creating alternates can be useful during the early design phase when exploring concepts and in later stages for reviewers to add their feedback and propose changes.
 Some possible reasons for using alternates:
@@ -47,30 +47,30 @@ Some possible reasons for using alternates:
     
     <item>
       <title>Balsamiq Mockups 3 Application Overview</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/overview/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/overview/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/overview/</guid>
       <description>Balsamiq Mockups is a user interface design tool for creating wireframes (also called mockups or low-fidelity prototypes). You can use it to generate digital sketches of your product ideas to facilitate discussion and understanding before any code is written.
 Each Balsamiq Mockups file (with a .bmpr file extension) represents one project and can contain many mockups and images, which are stored together in a single .bmpr file. Mockups for different projects should be created in separate Balsamiq Mockups files.</description>
     </item>
     
     <item>
       <title>Balsamiq Mockups 3 Transition Guide</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/transition/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/transition/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/transition/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/transition/</guid>
       <description>Thank you for trying out our latest version of Balsamiq Mockups! We think that you&amp;rsquo;ll really like all of the improvements and find it easier to use. To learn more about the new features you can read the Introduction to Balsamiq Mockups 3 or dive into our complete documentation.
 This article is intended to answer some questions you might have about switching to Balsamiq Mockups 3 from a previous version.</description>
     </item>
     
     <item>
       <title>Collaborative Editing</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/collaborating/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/collaborating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/collaborating/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/collaborating/</guid>
       <description>Balsamiq Wireframes is optimized for collaborative work. This document outlines the different ways to interact with your team, while editing a project.
 Collaborating in Real-Time Balsamiq Wireframes supports real-time collaboration between users. Once two or more users join the same project, every change will be reflected in real-time with everyone. The toolbar will show users who have joined the project.
 The navigator panel indicates which wireframes your co-workers are working on by displaying their profile picture there.</description>
@@ -78,20 +78,20 @@ The navigator panel indicates which wireframes your co-workers are working on by
     
     <item>
       <title>Editing Controls</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/editing-controls/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/editing-controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/editing-controls/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/editing-controls/</guid>
       <description>Once you&amp;rsquo;ve added controls to the editor canvas you can edit them by typing directly into them and by changing their properties in the properties panel on the right. Both will be described below.
 Editing Properties via the Property Inspector The Property Inspector is a panel on the right side of the application that allows you to set some common properties such as alignment, position and size as well as settings specific to certain controls (selection state, text properties, color, etc.</description>
     </item>
     
     <item>
       <title>Editor Overview</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/overview/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/overview/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/overview/</guid>
       <description>The Balsamiq Wireframes editor interface is made up of five primary areas: the toolbar, the UI Library, the canvas, the navigator panel and the properties panel. Each is described below.
 The Toolbar The toolbar contains a series of icons for performing actions on other areas of the user interface.
 The first set of icons is described below.
@@ -100,10 +100,10 @@ The first set of icons is described below.
     
     <item>
       <title>Exporting</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/exporting/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/exporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/exporting/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/exporting/</guid>
       <description>The Export menu contains the following export options:
 Read on for descriptions of all of the options or skip ahead using the links below.
  Export to PDF Current or All Wireframes to PNG Wireframe to JSON Download Project BMPR  Exporting to PDF You can export the wireframes in your project as a PDF, which can be useful for printing, sending by email, presenting to clients, or posting online.</description>
@@ -111,10 +111,10 @@ Read on for descriptions of all of the options or skip ahead using the links bel
     
     <item>
       <title>Exporting Your Mockups</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/exporting/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/exporting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/exporting/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/exporting/</guid>
       <description>The Export menu contains the following export options:
 Read on for descriptions of all of the options or skip ahead using the links below.
  Export to PDF&amp;hellip; Current or All Mockups to PNG Mockup to Clipboard Mockup to JSON Project to BMMLs ZIP&amp;hellip;  Exporting to PDF You can export the mockups in your project as a PDF, which can be useful for printing, sending by email, presenting to clients, or posting online.</description>
@@ -122,10 +122,10 @@ Read on for descriptions of all of the options or skip ahead using the links bel
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/fullscreen/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/fullscreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/fullscreen/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/fullscreen/</guid>
       <description>Mockups includes a full screen presentation mode for presenting your wireframes to stakeholders or usability testing.
 To enter Full Screen Presentation mode, just click on the full-screen icon in the top-right corner of Mockups, or select &amp;ldquo;Full Screen Presentation&amp;rdquo; from the View menu, or simply hit CTRL/CMD+F.
 Balsamiq Mockups will expand to take up your whole screen, with your mockup centered on it.
@@ -134,10 +134,10 @@ The far left icon toggles the top bar on and off.</description>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/fullscreen/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/fullscreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/fullscreen/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/fullscreen/</guid>
       <description>The Full Screen Presentation Mode is great for presenting your wireframes to stakeholders or usability testing.
 To enter it, just click on the full-screen icon in the top-right corner of your toolbar, select &amp;ldquo;Full Screen Presentation&amp;rdquo; from the View menu or simply hit CTRL/CMD+F.
 The application will expand to take up your whole screen, with your wireframe centered on it.
@@ -146,29 +146,29 @@ The far left icon toggles the top bar on and off.</description>
     
     <item>
       <title>Importing</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/importing/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/importing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/importing/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/importing/</guid>
       <description>Do this one later, see if we can adapt it for all versions</description>
     </item>
     
     <item>
       <title>Importing Mockups and Symbols</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/importing/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/importing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/importing/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/importing/</guid>
       <description>Importing Mockups from a Previous Version (BMML Files) Balsamiq Mockups 3 uses a different file format from previous versions. You can import your old mockups in one of three formats:
  Individual BMML files A folder containing BMML files (with images and Symbols in an assets sub-folder) A ZIP file containing BMML files (with or without images and Symbols in an assets sub-folder)  To convert your existing project folders or ZIP files into BMPR files, open the Project &amp;gt; Import menu.</description>
     </item>
     
     <item>
       <title>Introduction to Balsamiq Mockups 3</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/intro/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/intro/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/intro/</guid>
       <description>Balsamiq Mockups 3 is the result of nearly a year of heads-down coding to create the product that our customers have been asking for and the product we wanted for ourselves.
 The most noticeable changes are the two &amp;ldquo;biggies&amp;rdquo; that people have asked for since the very beginning: Support for projects (bundled files, multiple windows) and getting rid of that &amp;ldquo;floating property thingy&amp;rdquo; (the property inspector).
 But just as important was the work that was done under the hood to make it faster and smarter and the little tweaks across every part of the experience that we hope will make using it even better.</description>
@@ -176,10 +176,10 @@ But just as important was the work that was done under the hood to make it faste
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/shortcuts/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/shortcuts/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/shortcuts/</guid>
       <description>Note: Some of these shortcuts do not work in our web versions, depending on which browser and operating system you are using.  Download: PDF | PNG  
 Below is a list of all the keyboard shortcuts and modifiers which you can use in Balsamiq Mockups.
 Choose one of the links to the right to download a cheat sheet.
@@ -188,10 +188,10 @@ Choose one of the links to the right to download a cheat sheet.
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/shortcuts/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/shortcuts/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/shortcuts/</guid>
       <description>Below is a list of all the keyboard shortcuts and modifiers available in Balsamiq Mockups 3. While all of the shortcuts will work in the Desktop version, some might not work in our web versions.
 The shortcuts below apply to Mockups 3 and higher.
   Working with Controls    Selection   Edit the selected control&amp;#39;s text ENTER or F2   Add to selection SHIFT+CLICK   Toggle selection CTRL+CLICK   Select All CTRL+A   Deselect All CTRL+SHIFT+A   Ignore control(s) under cursor Hold ALT   Treat/do not treat selection as markup CTRL+SHIFT+K   Size/Position   Resize maintaining aspect ratio Hold SHIFT while resizing with mouse   Move selection along horizontal or vertical axis Hold SHIFT while dragging   Disable snapping during move or resize Hold CTRL   Grow/Increase text or icon size CTRL+]   Shrink/Decrease text or icon size CTRL+[   Nudge selection 1px &amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Nudge selection 10px SHIFT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Nudge-Resize selection 1px CTRL+ALT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Nudge-Resize selection 10px CTRL+ALT+SHIFT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Auto-Size selection CTRL+ALT+0   Pan the canvas (Hand tool) SPACE BAR+Click and Drag   Bring to front CTRL+SHIFT+&amp;uarr;   Send to back CTRL+SHIFT+&amp;darr;   Bring forward CTRL+&amp;uarr;   Send backward CTRL+&amp;darr;   Duplicate selection ALT+drag   Edit/History   Undo last command CTRL+Z   Redo last command CTRL+Y or CTRL+SHIFT+Z   Cut the selected controls CTRL+X or SHIFT+DELETE   Copy the selected controls CTRL+C or CTRL+INSERT   Paste CTRL+V or SHIFT+INSERT   Paste In Place CTRL+SHIFT+V   Delete the selected controls DELETE or BACKSPACE   Duplicate the selected controls CTRL+D   Lock the selected controls CTRL+2   Unlock all locked controls CTRL+3   Transform the selected controls CTRL+T   Group   Group the selected controls CTRL+G   Ungroup the selected groups CTRL+SHIFT+G   Align   Align selected controls left CTRL+ALT+1   Align selected controls center CTRL+ALT+2   Align selected controls right CTRL+ALT+3   Align selected controls top CTRL+ALT+4   Align selected controls middle CTRL+ALT+5   Align selected controls bottom CTRL+ALT+6   Working with Icons    Navigating the Suggestion List &amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Using the selected icon ENTER   Closing the Icons Library ESC   Closing the Suggestion List ESC   Grow/Increase icon size CTRL+]   Shrink/Decrease icon size CTRL+[   Working with Text    Start Editing text of the selected control ENTER or F2   Committing the current text ENTER (single-line controls), CTRL+ENTER (multi-line controls) or click anywhere   Ignoring the current edit ESC   Grow/Increase Text Size CTRL+]   Shrink/Decrease Text Size CTRL+[   Text Formatting    italic _text in underscores_   link [text in brackets]   link with a target [text in brackets](mockup_name) or</description>
@@ -199,50 +199,50 @@ The shortcuts below apply to Mockups 3 and higher.
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/shortcuts/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/shortcuts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/shortcuts/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/shortcuts/</guid>
       <description>Below is a list of all the keyboard shortcuts and modifiers available in Balsamiq Wireframes.
 Note: Some of these shortcuts do not work in our web versions, depending on which browser and operating system you are using.   Working with Controls    Selection   Edit the selected control&amp;#39;s text ENTER or F2   Add to selection SHIFT+Click   Toggle selection CTRL+Click   Select All CTRL+A   Deselect All CTRL+SHIFT+A   Ignore control(s) under cursor Hold ALT   Treat/do not treat selection as markup CTRL+SHIFT+K   Size/Position   Resize maintaining aspect ratio Hold SHIFT while resizing with mouse   Move selection along horizontal or vertical axis Hold SHIFT while dragging   Disable snapping during move or resize Hold CTRL   Grow/Increase text or icon size CTRL+]   Shrink/Decrease text or icon size CTRL+[   Nudge selection 1px &amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Nudge selection 10px SHIFT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Nudge-Resize selection 1px CTRL+ALT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Nudge-Resize selection 10px CTRL+ALT+SHIFT+&amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Auto-Size selection CTRL+ALT+0   Pan the canvas (Hand tool) SPACE BAR+Click and drag   Bring to front CTRL+SHIFT+&amp;uarr;   Send to back CTRL+SHIFT+&amp;darr;   Bring forward CTRL+&amp;uarr;   Send backward CTRL+&amp;darr;   Duplicate selection ALT+drag   Edit/History   Undo last command CTRL+Z   Redo last command CTRL+Y or CTRL+SHIFT+Z   Cut the selected controls CTRL+X or SHIFT+DELETE   Copy the selected controls CTRL+C or CTRL+INSERT   Paste CTRL+V or SHIFT+INSERT   Paste In Place CTRL+SHIFT+V   Delete the selected controls DELETE or BACKSPACE   Duplicate the selected controls CTRL+D   Lock the selected controls CTRL+2   Unlock all locked controls CTRL+3   Transform the selected controls CTRL+ALT+T   Group   Group the selected controls CTRL+G   Ungroup the selected groups CTRL+SHIFT+G   Align   Align selected controls left CTRL+ALT+1   Align selected controls center CTRL+ALT+2   Align selected controls right CTRL+ALT+3   Align selected controls top CTRL+ALT+4   Align selected controls middle CTRL+ALT+5   Align selected controls bottom CTRL+ALT+6   Working with Icons    Navigating the Suggestion List &amp;uarr;&amp;darr;&amp;larr;&amp;rarr;   Using the selected icon ENTER   Closing the Icons Library ESC   Closing the Suggestion List ESC   Grow/Increase icon size CTRL+]   Shrink/Decrease icon size CTRL+[   Working with Text    Start Editing text of the selected control ENTER or F2   Committing the current text ENTER (single-line controls), CTRL+ENTER (multi-line controls) or click anywhere   Ignoring the current edit ESC   Grow/Increase Text Size CTRL+]   Shrink/Decrease Text Size CTRL+[   Text Formatting    italic _text in underscores_   link [text in brackets]   link with a target [text in brackets](mockup_name) or</description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/linking/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/linking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/linking/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/linking/</guid>
       <description>You can link mockups together to create a simple prototype for your site or software application. This can be useful for demonstrating click-through prototypes or for usability testing when you&amp;rsquo;re displaying your project in Full Screen Presentation mode or as an exported PDF.
 Linking mockups together is as easy as choosing a mockup name from a drop-down menu. Simply click on a control that supports linking (most do, and here&amp;rsquo;s a workaround for those that don&amp;rsquo;t), and you&amp;rsquo;ll see a &amp;ldquo;Link&amp;rdquo; drop-down in the Property Inspector (click the &amp;ldquo;Show Link Inspector&amp;rdquo; link if you don&amp;rsquo;t see it).</description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/linking/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/linking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/linking/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/linking/</guid>
       <description>You can link mockups together to create a simple prototype for your site or software application. This can be useful for demonstrating click-through prototypes or for usability testing when you&amp;rsquo;re displaying your project in Full Screen Presentation mode or as an exported PDF.
 Linking mockups together is as easy as choosing a mockup name from a drop-down menu. Simply click on a control that supports linking (most do, and here&amp;rsquo;s a workaround for those that don&amp;rsquo;t), and you&amp;rsquo;ll see a &amp;ldquo;Link&amp;rdquo; drop-down in the Property Inspector (click the &amp;ldquo;Show Link Inspector&amp;rdquo; link if you don&amp;rsquo;t see it).</description>
     </item>
     
     <item>
       <title>Linking Wireframes Together</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/linking/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/linking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/linking/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/linking/</guid>
       <description>You can link wireframes together to create a simple prototype for your site or software application. This can be useful for demonstrating click-through prototypes or for usability testing when you&amp;rsquo;re displaying your project in Full Screen Presentation mode or as an exported PDF.
 Linking wireframes together is as easy as choosing a wireframe name from a drop-down menu. Simply click on a control that supports linking (most do, and here&amp;rsquo;s a workaround for those that don&amp;rsquo;t), and you&amp;rsquo;ll see a &amp;ldquo;Link&amp;rdquo; drop-down in the Property Inspector (click the &amp;ldquo;Show Link Inspector&amp;rdquo; link if you don&amp;rsquo;t see it).</description>
     </item>
     
     <item>
       <title>Markup</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/markup/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/markup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/markup/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/markup/</guid>
       <description>Markup is a special kind of component type in the UI Library that is used for adding annotations, comments, and explanatory notes.
 Commonly used Markup items include: Arrow / Line, Callout, Sticky Note, Red X, and Curly Braces. The screenshot below shows the Markup button panel selected in the UI Library, and markup items on the page.
 Toggling Markup on and Off When you&amp;rsquo;re editing your wireframes, you will sometimes want to see what the wireframe looks like with Markup off.</description>
@@ -250,10 +250,10 @@ Toggling Markup on and Off When you&amp;rsquo;re editing your wireframes, you wi
     
     <item>
       <title>Mockups Application Overview</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/overview/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/overview/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/overview/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/overview/</guid>
       <description>Balsamiq Mockups is made up of three major blocks. From top to bottom: the Application Bar, the UI library, and the Mockup Canvas Each is described below.
 The Application Bar The application bar includes Menus, the Quick Add tool, and the Toolbar. Each is described below.
 The Menus The Mockups menus should be pretty self-explanatory. The only tricky bit is that the Mockup menu contains different items depending on what version of Balsamiq Mockups you are using.</description>
@@ -261,10 +261,10 @@ The Menus The Mockups menus should be pretty self-explanatory. The only tricky b
     
     <item>
       <title>Presenting Your Work</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/fullscreen/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/fullscreen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/fullscreen/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/fullscreen/</guid>
       <description>Mockups includes a &amp;ldquo;Full Screen Presentation&amp;rdquo; mode for those times when you need to present your wireframes to other stakeholders.
 To enter Full Screen Presentation mode, just click on the full-screen icon in the top-right corner of Mockups, or select &amp;ldquo;Full Screen Presentation&amp;rdquo; from the View menu.
 Mockups will expand to take up your whole screen (to eliminate distractions), and your mockup will be centered on the screen.
@@ -273,10 +273,10 @@ You will also see three little buttons in the lower-right corner of your screen.
     
     <item>
       <title>Sharing and Reviewing</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/sharing/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/sharing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/sharing/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/sharing/</guid>
       <description>Balsamiq Wireframes is designed for collaboration and offers many ways for you to get feedback on your designs. This document outlines a few different ways so that you can pick the right one to fit each situation.
 To learn how to work on the same wireframes together, see our article on Collaborative Editing.
 Reviewing and Commenting The &amp;ldquo;Review and Comment&amp;rdquo; mode is a great option for anyone who does not need to edit the wireframes.</description>
@@ -284,10 +284,10 @@ Reviewing and Commenting The &amp;ldquo;Review and Comment&amp;rdquo; mode is a 
     
     <item>
       <title>Symbols</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/symbols/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/symbols/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/symbols/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/symbols/</guid>
       <description>Balsamiq Wireframes supports the concept of Symbols. A Symbol is a group of controls that represents a single piece of functionality. It is often used for parts of the user interface that show up on several screens. Other software sometimes refers to this feature as templates, master pages, custom components, or widgets.
 In essence, Symbols let you create reusable common elements that you can use across different wireframes.
 Creating Symbols There are two ways to create a Symbol, described below.</description>
@@ -295,50 +295,50 @@ Creating Symbols There are two ways to create a Symbol, described below.</descri
     
     <item>
       <title>The Project Info Panel</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/projectinfo/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/projectinfo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/projectinfo/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/projectinfo/</guid>
       <description>New in Balsamiq Mockups 3 is the ability to define project-wide settings for skin, font, and link and selection color. The Project Info panel contains these settings as well as an area to add notes about the project. Click the icon next to the Property Inspector icon to toggle the Project Info panel (keyboard shortcut: CTRL/CMD + ,).
 These settings will be applied to all mockups in the project and will be saved with the project (i.</description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/inspector/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/inspector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/inspector/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/inspector/</guid>
       <description>The Property Inspector (also called the toolbox, palette, property dialog, properties window, toolbar, floating window, floating tool bar, properties box and control dialog) is the little floating rectangle that appears once you select one or more UI controls. It allows you to perform some common functions such as copying/pasting, layering, and aligning controls, as well as some control-specific customizations.
 The Property Inspector is displayed when you select an object on the canvas.</description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/inspector/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/inspector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/inspector/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/inspector/</guid>
       <description>The Property Inspector is a panel on the right side of the application that allows you to set some common properties such as alignment, position and size as well as settings specific to certain controls (selection state, text properties, color, etc.). It is available when viewing mockups, assets, and Symbols.
 You can show and hide the Property Inspector by clicking the toggle icon above it (keyboard shortcut CTRL/CMD + ; or ALT/Option + Enter).</description>
     </item>
     
     <item>
       <title>Using Images, Assets, and Icons</title>
-      <link>http://localhost:1313/ssdocs/_editor/_wireframes/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_wireframes/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/images/</guid>
       <description>There are multiple ways to add images and icons to your wireframes. The easiest way is to simply drag and drop an image file from your computer on to the wireframes canvas. Read on to learn more about adding and using images, icons, and other assets to your projects.
 Adding Images in Wireframes View As mentioned above, dragging an image from your computer to the editor will add it to the canvas.</description>
     </item>
     
     <item>
       <title>Working with Alternates</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/alternates/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/alternates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/alternates/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/alternates/</guid>
       <description>Alternates (also sometimes referred to as versions or branches) allow you to create variations on a single mockup design without adding more mockups to your project.
 Creating alternates can be useful during the early design phase when exploring concepts and in later stages for reviewers to add their feedback and propose changes.
 Some possible reasons for using alternates:
@@ -347,30 +347,30 @@ Some possible reasons for using alternates:
     
     <item>
       <title>Working with Data Grids / Tables</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/datagrids/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/datagrids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/datagrids/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/datagrids/</guid>
       <description>The Data Grid control functions like many other text-based controls. It uses commas as column separators and new lines as rows. A basic table with three columns and two rows would look like this:
 First Name, Last Name, Email Address firstname, lastname, email@email.com  You can choose whether to show the first row as a header row in the Property Inspector, as well as specifying the row height, row colors, and grid lines.</description>
     </item>
     
     <item>
       <title>Working with Data Grids / Tables</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/datagrids/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/datagrids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/datagrids/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/datagrids/</guid>
       <description>The Data Grid control functions like many other text-based controls. It uses commas as column separators and new lines as rows. A basic table with three columns and two rows would look like this:
 First Name, Last Name, Email Address firstname, lastname, email@email.com  You can choose whether to show the first row as a header row in the Property Inspector, as well as specifying the row height, row colors, and grid lines.</description>
     </item>
     
     <item>
       <title>Working with Icons</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/icons/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/icons/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/icons/</guid>
       <description>Balsamiq Mockups and myBalsamiq come packed with over 600 icons courtesy of the Font Awesome Icon Library.
 There are two ways to select an icon to use: the icon search and the icon library.
 Icon Search If the controls you selected support icons, you will see the icon search box in the property inspector. This works much like the Quick Add tool: just type a few letters from the name of the icon you are looking for and a list of suggestions will pop up.</description>
@@ -378,40 +378,40 @@ Icon Search If the controls you selected support icons, you will see the icon se
     
     <item>
       <title>Working with Icons</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/icons/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/icons/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/icons/</guid>
       <description>Balsamiq Mockups 3 includes the amazing Font Awesome icon set. It contains over 500 icons in a wide range of categories that can be sized from very small to very large. It is also updated frequently and we plan to keep up with the updates whenever we release a new version of our product (more about why we switched here).
 It should meet all your icon needs, but if not, you can add your own icons or request new ones from Font Awesome.</description>
     </item>
     
     <item>
       <title>Working with Images</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/images/</guid>
       <description>Adding Images To use images in Mockups, add an Image control from the UI Library and place it on the canvas. The Image drop-down in the Property Inspector will allow you to select images that have already been imported/used in your mockup or import a new one.
 The Project Assets panel shows all images in your assets. If you have Site/Account assets, a tab will appear for them. If you use web images or images using relative paths that are not project assets, those will show in the Other Assets tab.</description>
     </item>
     
     <item>
       <title>Working with Images and Assets</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/images/</guid>
       <description>There are multiple ways to add images to your mockups. The easiest way is to simply drag and drop an image file from your computer on to the Mockups canvas. Read on to learn more about adding and using images and other assets in your projects.
 Adding Images in Mockups View As mentioned above, dragging an image from your computer to Balsamiq Mockups will add it to the canvas. Doing this will place the image into the selected mockup and copy the image file to your Assets so that you can easily reuse it in other mockups.</description>
     </item>
     
     <item>
       <title>Working with Markup</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/markup/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/markup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/markup/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/markup/</guid>
       <description>Markup is a special kind of component in the UI Library that is used for adding annotations, comments, and explanatory notes.
 Commonly used Markup items include: Arrow / Line, Callout, Sticky Note, Red X, and Curly Braces. The screenshot below shows the Markup button panel selected in the UI Library, and markup items on the page.
 Toggling Markup on and Off When you&amp;rsquo;re editing your mockups, you will sometimes want to see what the mockup looks like with Markup off.</description>
@@ -419,10 +419,10 @@ Toggling Markup on and Off When you&amp;rsquo;re editing your mockups, you will 
     
     <item>
       <title>Working with Markup</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/markup/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/markup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/markup/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/markup/</guid>
       <description>Markup is a special kind of component in the UI Library that is used for adding annotations, comments, and explanatory notes.
 Commonly used Markup items include: Arrow / Line, Callout, Sticky Note, Red X, and Curly Braces. The screenshot below shows the Markup button panel selected in the UI Library, and markup items on the page.
 Toggling Markup on and Off When you&amp;rsquo;re editing your mockups, you will sometimes want to see what the mockup looks like with Markup off.</description>
@@ -430,10 +430,10 @@ Toggling Markup on and Off When you&amp;rsquo;re editing your mockups, you will 
     
     <item>
       <title>Working with Site Maps</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/sitemaps/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/sitemaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/sitemaps/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/sitemaps/</guid>
       <description>You can create simple site maps from a text outline using the Site Map control.
 Create a Site Map Add a &amp;ldquo;Site Map&amp;rdquo; control from the UI Library to the canvas.
 Edit the control by double-clicking or selecting it and pressing the Enter key. Edit the outline to create parent-child relationships. Each line represents a box (or page/node) in your sitemap. Use hyphens to indent child boxes beneath a parent.</description>
@@ -441,10 +441,10 @@ Edit the control by double-clicking or selecting it and pressing the Enter key. 
     
     <item>
       <title>Working with Site Maps</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/sitemaps/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/sitemaps/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/sitemaps/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/sitemaps/</guid>
       <description>You can create simple site maps from a text outline using the Site Map control.
 Create a Site Map Add a &amp;ldquo;Site Map&amp;rdquo; control from the UI Library to the canvas.
 Edit the control by double-clicking or selecting it and pressing the Enter key. Edit the outline to create parent-child relationships. Each line represents a box (or page/node) in your sitemap. Use hyphens to indent child boxes beneath a parent.</description>
@@ -452,48 +452,48 @@ Edit the control by double-clicking or selecting it and pressing the Enter key. 
     
     <item>
       <title>Working with Skins (Sketch vs. Wireframe)</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/skins/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/skins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/skins/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/skins/</guid>
       <description>We know that some people need to shift from idea generation with internal teams to presentation with clients or stakeholders, and in those situations the default &amp;ldquo;sketch&amp;rdquo; skin may present challenges with certain audiences. To address this need, we created a &amp;ldquo;wireframe&amp;rdquo; skin that allows you to switch from a sketchy, hand-drawn style to a crisper, cleaner wireframe elements.
 Switching from Sketch to Wireframe Skin To switch skins go to the View menu, select the Skin from the dropdown, and set the Skin setting to &amp;ldquo;Wireframe&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Working with Skins (Sketch vs. Wireframe)</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/skins/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/skins/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/skins/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/skins/</guid>
       <description>We know that some people need to shift from idea generation with internal teams to presentation with clients or stakeholders, and in those situations the default &amp;ldquo;sketch&amp;rdquo; skin may present challenges with certain audiences. To address this need, we created a &amp;ldquo;wireframe&amp;rdquo; skin that allows you to switch from a sketchy, hand-drawn style to a crisper, cleaner wireframe elements.
 Switching from Sketch to Wireframe Skin To switch skins go to the Project Info panel and set the Skin setting to &amp;ldquo;Wireframe&amp;rdquo;.</description>
     </item>
     
     <item>
       <title>Working with Text</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/text/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/text/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/text/</guid>
       <description>Many Mockups UI controls, such as Button, Label or DataGrid, have text in them. To edit the text, double-click on the control and start typing. Or, if you have the control selected, simply hit Enter or F2 to start editing. To commit the text you typed, simply click anywhere other than the text field you typed in or hit Enter or CTRL+Enter. If you want to discard the text changes you just made, hit the ESC key.</description>
     </item>
     
     <item>
       <title>Working with Text</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/text/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/text/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/text/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/text/</guid>
       <description>Many Mockups UI controls, such as Button, Label or DataGrid, have text in them. To edit the text, double-click on the control and start typing. Or, if you have the control selected, simply hit Enter or F2 to start editing. To commit the text you typed, simply click anywhere other than the text field you typed in or hit Enter or CTRL+Enter. If you want to discard the text changes you just made, hit the ESC key.</description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b2/controls/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b2/controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b2/controls/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b2/controls/</guid>
       <description>Adding UI Controls To add new UI controls to your mockup, you can use the UI Library or type a keyword into the Quick Add tool.
 You can also duplicate controls already on the canvas using copy and paste or the duplicate command (CTRL/CMD + D).
 Note: Full list of keyboard shortcuts here. Selecting UI Controls There are a few different ways to select UI controls. If you are familiar with graphics software, these should be of no surprise.</description>
@@ -501,10 +501,10 @@ Note: Full list of keyboard shortcuts here. Selecting UI Controls There are a fe
     
     <item>
       <title>Working with UI Controls</title>
-      <link>http://localhost:1313/ssdocs/_editor/_b3/controls/</link>
+      <link>https://mmclssg1.github.io/ssdocs/_editor/_b3/controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/_editor/_b3/controls/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/_editor/_b3/controls/</guid>
       <description>Adding UI Controls To add UI controls to your mockup, double-click or drag a control in the UI Library or type a keyword into the Quick Add tool.
 You can also duplicate controls already on the canvas using copy and paste or the duplicate command (CTRL/CMD + D). ALT/Option + drag will also duplicate controls and allow you to place them using your mouse.
 Note: Full list of keyboard shortcuts here.</description>
