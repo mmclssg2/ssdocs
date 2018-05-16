@@ -2,193 +2,192 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Table of Contents on Documentation</title>
-    <link>http://localhost:1313/ssdocs/product2/</link>
+    <link>https://mmclssg1.github.io/ssdocs/product2/</link>
     <description>Recent content in Table of Contents on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Thu, 30 Jul 2015 15:52:28 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/ssdocs/product2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mmclssg1.github.io/ssdocs/product2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Introduction to Balsamiq Mockups 3</title>
-      <link>http://localhost:1313/ssdocs/product2/intro/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/intro/</link>
       <pubDate>Sat, 09 May 2015 16:32:43 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/intro/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/intro/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balsamiq Mockups 3 Application Overview</title>
-      <link>http://localhost:1313/ssdocs/product2/overview/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/overview/</link>
       <pubDate>Sat, 09 May 2015 16:44:43 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/overview/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with UI Controls</title>
-      <link>http://localhost:1313/ssdocs/product2/controls/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/controls/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Property Inspector</title>
-      <link>http://localhost:1313/ssdocs/product2/inspector/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/inspector/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Alternates</title>
-      <link>http://localhost:1313/ssdocs/product2/alternates/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/alternates/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/alternates/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Project Info Panel</title>
-      <link>http://localhost:1313/ssdocs/product2/projectinfo/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/projectinfo/</link>
       <pubDate>Sat, 09 May 2015 16:46:50 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/projectinfo/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/projectinfo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Skins (Sketch vs. Wireframe)</title>
-      <link>http://localhost:1313/ssdocs/product2/skins/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/skins/</link>
       <pubDate>Sat, 09 May 2015 17:03:44 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/skins/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/skins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Text</title>
-      <link>http://localhost:1313/ssdocs/product2/text/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/text/</link>
       <pubDate>Sat, 09 May 2015 16:47:53 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/text/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Data Grids / Tables</title>
-      <link>http://localhost:1313/ssdocs/product2/datagrids/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/datagrids/</link>
       <pubDate>Sat, 09 May 2015 16:48:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/datagrids/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/datagrids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Icons</title>
-      <link>http://localhost:1313/ssdocs/product2/icons/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/icons/</link>
       <pubDate>Sat, 09 May 2015 16:48:21 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/icons/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Images and Assets</title>
-      <link>http://localhost:1313/ssdocs/product2/images/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/images/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Markup</title>
-      <link>http://localhost:1313/ssdocs/product2/markup/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/markup/</link>
       <pubDate>Sat, 09 May 2015 16:58:17 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/markup/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/markup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Symbols</title>
-      <link>http://localhost:1313/ssdocs/product2/symbols/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/symbols/</link>
       <pubDate>Sat, 09 May 2015 16:58:34 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/symbols/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Working with Site Maps</title>
-      <link>http://localhost:1313/ssdocs/product2/sitemaps/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/sitemaps/</link>
       <pubDate>Sat, 09 May 2015 16:59:07 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/sitemaps/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/sitemaps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting Your Mockups</title>
-      <link>http://localhost:1313/ssdocs/product2/exporting/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/exporting/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/exporting/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing Mockups and Symbols</title>
-      <link>http://localhost:1313/ssdocs/product2/importing/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/importing/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/importing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>http://localhost:1313/ssdocs/product2/linking/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/linking/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/linking/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>http://localhost:1313/ssdocs/product2/fullscreen/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/fullscreen/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/fullscreen/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autosaving</title>
-      <link>http://localhost:1313/ssdocs/product2/autosave/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/autosave/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/autosave/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/autosave/</guid>
       <description>By default, Mockups 3 for Desktop will automatically save any changes you make. This ensures that you will never lose any work.
 Mockups 3 for Desktop automatically saves in two places. First, it commits all changes in real time to the internal backup file. Then after a short period of inactivity, Mockups 3 for Desktop will commit the changes to your original project file. This delay should help when you&amp;rsquo;re saving to a networked drive or folder.</description>
     </item>
     
     <item>
       <title>The Local Storage Folder and Backups</title>
-      <link>http://localhost:1313/ssdocs/product2/localstore/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/localstore/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/localstore/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/localstore/</guid>
       <description>The Local Store Folder Balsamiq Mockups 3 for Desktop creates a folder on your hard drive for storing some local data and preferences. It looks something like this:
 The easiest way to find it is by opening the &amp;ldquo;About&amp;rdquo; dialog and clicking on the &amp;ldquo;Open Local Store Folder&amp;rdquo; link.
 ​
@@ -197,38 +196,38 @@ For reference, here is the location of this folder on the various operating syst
     
     <item>
       <title>Sharing in Balsamiq Mockups 3 for Desktop</title>
-      <link>http://localhost:1313/ssdocs/product2/sharing/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/sharing/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/sharing/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/sharing/</guid>
       <description>Collaboration is the foundation of Mockups. From working with your clients and customers, to collaborating with your designers and programmers, Mockups was built with collaboration at its core. Here are the ways you can share your projects.
 Share Mockups Project Files A great way to share your work is to send your Mockups project files (files with a .bmpr extension) directly to your clients and collaborators. Just be sure to include a link to download Balsamiq Mockups - https://balsamiq.</description>
     </item>
     
     <item>
       <title>Balsamiq Mockups 3 Transition Guide</title>
-      <link>http://localhost:1313/ssdocs/product2/transition/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/transition/</link>
       <pubDate>Sat, 09 May 2015 16:41:36 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/transition/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/transition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Keyboard Shortcuts</title>
-      <link>http://localhost:1313/ssdocs/product2/shortcuts/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/shortcuts/</link>
       <pubDate>Sun, 10 May 2015 10:34:01 +0200</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/shortcuts/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Balsamiq Mockups 3 for Desktop System Requirements and Updating</title>
-      <link>http://localhost:1313/ssdocs/product2/systemrequirements/</link>
+      <link>https://mmclssg1.github.io/ssdocs/product2/systemrequirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/ssdocs/product2/systemrequirements/</guid>
+      <guid>https://mmclssg1.github.io/ssdocs/product2/systemrequirements/</guid>
       <description>Balsamiq Mockups 3 for Desktop requires Adobe Air 2.6 to run, which works fine on most computers and Operating Systems. You can find the most recent system requirements for Adobe Air here.
 The last time we checked, they were:
 Windows  2.33GHz or faster x86-compatible processor, or Intel Atom™ 1.6GHz or faster processor for netbook class devices Microsoft® Windows Server 2008, Windows 7, Windows 8 Classic or Windows 10 512MB of RAM (1GB recommended) AIR SDK Development Supports Microsoft® Windows 7 and above, 64-bit only  Mac  Intel® Core™ Duo 1.</description>
