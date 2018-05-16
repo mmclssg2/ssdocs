@@ -2792,19 +2792,6 @@ You will also see three little buttons in the lower-right corner of your screen.
     </item>
     
     <item>
-      <title>Search Results</title>
-      <link>https://mmclssg1.github.io/ssdocs/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mmclssg1.github.io/ssdocs/search/</guid>
-      <description>This file exists solely to respond to /search URL with the related search layout template.
-No content shown here is rendered, all content is based in the template layouts/page/search.html
-Setting a very low sitemap priority will tell search engines this is not important content.
-This implementation uses Fusejs, jquery and mark.js
-Initial setup Search depends on additional output content type of JSON in config.toml ` [outputs] home = [&amp;quot;HTML&amp;quot;, &amp;quot;JSON&amp;quot;] \`</description>
-    </item>
-    
-    <item>
       <title>Sharing and Reviewing</title>
       <link>https://mmclssg1.github.io/ssdocs/_editor/_wireframes/sharing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
