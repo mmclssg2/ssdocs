@@ -2,84 +2,84 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Presentation Mode on Documentation</title>
-    <link>https://mmclssg1.github.io/ssdocs/tags/presentation-mode/</link>
+    <link>http://localhost:1313/ssdocs/tags/presentation-mode/</link>
     <description>Recent content in Presentation Mode on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 10 May 2015 10:33:47 +0200</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/ssdocs/tags/presentation-mode/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/ssdocs/tags/presentation-mode/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>https://mmclssg1.github.io/ssdocs/product2/linking/</link>
+      <link>http://localhost:1313/ssdocs/product2/linking/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product2/linking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linking Mockups Together</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/linking/</link>
-      <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
-      
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/linking/</guid>
+      <guid>http://localhost:1313/ssdocs/product2/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/linking/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/linking/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/linking/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking Mockups Together</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/linking/</link>
+      <link>http://localhost:1313/ssdocs/product3v2/cloud/mockups3/linking/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/linking/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v2/cloud/mockups3/linking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linking Mockups Together</title>
+      <link>http://localhost:1313/ssdocs/product3v3/cloud/mockups3/linking/</link>
+      <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
+      
+      <guid>http://localhost:1313/ssdocs/product3v3/cloud/mockups3/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>https://mmclssg1.github.io/ssdocs/product2/fullscreen/</link>
+      <link>http://localhost:1313/ssdocs/product2/fullscreen/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product2/fullscreen/</guid>
+      <guid>http://localhost:1313/ssdocs/product2/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v1/b3/fullscreen/</link>
+      <link>http://localhost:1313/ssdocs/product3v1/b3/fullscreen/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v1/b3/fullscreen/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v1/b3/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/fullscreen/</link>
+      <link>http://localhost:1313/ssdocs/product3v2/cloud/mockups3/fullscreen/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v2/cloud/mockups3/fullscreen/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v2/cloud/mockups3/fullscreen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen Presentation Mode</title>
-      <link>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/fullscreen/</link>
+      <link>http://localhost:1313/ssdocs/product3v3/cloud/mockups3/fullscreen/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/product3v3/cloud/mockups3/fullscreen/</guid>
+      <guid>http://localhost:1313/ssdocs/product3v3/cloud/mockups3/fullscreen/</guid>
       <description></description>
     </item>
     

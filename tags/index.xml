@@ -2,318 +2,327 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Documentation</title>
-    <link>https://mmclssg1.github.io/ssdocs/tags/</link>
+    <link>http://localhost:1313/ssdocs/tags/</link>
     <description>Recent content in Tags on Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 May 2015 16:46:35 +0200</lastBuildDate>
     
-	<atom:link href="https://mmclssg1.github.io/ssdocs/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/ssdocs/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Alternates</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/alternates/</link>
+      <link>http://localhost:1313/ssdocs/tags/alternates/</link>
       <pubDate>Sat, 09 May 2015 16:46:35 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/alternates/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/alternates/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Assets</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/assets/</link>
+      <link>http://localhost:1313/ssdocs/tags/assets/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/assets/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/assets/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Autosave</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/autosave/</link>
+      <link>http://localhost:1313/ssdocs/tags/autosave/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/autosave/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/autosave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Backups</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/backups/</link>
+      <link>http://localhost:1313/ssdocs/tags/backups/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/backups/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/backups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bmml</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/bmml/</link>
+      <link>http://localhost:1313/ssdocs/tags/bmml/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/bmml/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/bmml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Controls</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/controls/</link>
+      <link>http://localhost:1313/ssdocs/tags/controls/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/controls/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/controls/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Crop</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/crop/</link>
+      <link>http://localhost:1313/ssdocs/tags/crop/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/crop/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/crop/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Custom</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/custom/</link>
+      <link>http://localhost:1313/ssdocs/tags/custom/</link>
       <pubDate>Sat, 09 May 2015 16:48:21 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/custom/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/custom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Grid</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/data-grid/</link>
+      <link>http://localhost:1313/ssdocs/tags/data-grid/</link>
       <pubDate>Sat, 09 May 2015 16:48:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/data-grid/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/data-grid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Elements</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/elements/</link>
+      <link>http://localhost:1313/ssdocs/tags/elements/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/elements/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/elements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exporting</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/exporting/</link>
+      <link>http://localhost:1313/ssdocs/tags/exporting/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/exporting/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/exporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Full Screen</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/full-screen/</link>
+      <link>http://localhost:1313/ssdocs/tags/full-screen/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/full-screen/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/full-screen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Group</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/group/</link>
+      <link>http://localhost:1313/ssdocs/tags/group/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/group/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/group/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Icons</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/icons/</link>
+      <link>http://localhost:1313/ssdocs/tags/icons/</link>
       <pubDate>Sat, 09 May 2015 16:48:21 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/icons/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/icons/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Image</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/image/</link>
+      <link>http://localhost:1313/ssdocs/tags/image/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/image/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Images</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/images/</link>
+      <link>http://localhost:1313/ssdocs/tags/images/</link>
       <pubDate>Sat, 09 May 2015 16:57:52 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/images/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Importing</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/importing/</link>
+      <link>http://localhost:1313/ssdocs/tags/importing/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/importing/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/importing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Index</title>
+      <link>http://localhost:1313/ssdocs/tags/index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/ssdocs/tags/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/introduction/</link>
+      <link>http://localhost:1313/ssdocs/tags/introduction/</link>
       <pubDate>Sat, 09 May 2015 16:32:43 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/introduction/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/introduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linking</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/linking/</link>
+      <link>http://localhost:1313/ssdocs/tags/linking/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/linking/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/linking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Manual Save</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/manual-save/</link>
+      <link>http://localhost:1313/ssdocs/tags/manual-save/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/manual-save/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/manual-save/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notes</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/notes/</link>
+      <link>http://localhost:1313/ssdocs/tags/notes/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/notes/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/notes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Overview</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/overview/</link>
+      <link>http://localhost:1313/ssdocs/tags/overview/</link>
       <pubDate>Sat, 09 May 2015 16:32:43 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/overview/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/overview/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pdf</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/pdf/</link>
+      <link>http://localhost:1313/ssdocs/tags/pdf/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/pdf/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/pdf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Png</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/png/</link>
+      <link>http://localhost:1313/ssdocs/tags/png/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/png/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/png/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presentation Mode</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/presentation-mode/</link>
+      <link>http://localhost:1313/ssdocs/tags/presentation-mode/</link>
       <pubDate>Sun, 10 May 2015 10:33:47 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/presentation-mode/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/presentation-mode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Printing</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/printing/</link>
+      <link>http://localhost:1313/ssdocs/tags/printing/</link>
       <pubDate>Sat, 09 May 2015 16:59:30 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/printing/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/printing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Property Inspector</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/property-inspector/</link>
+      <link>http://localhost:1313/ssdocs/tags/property-inspector/</link>
       <pubDate>Sat, 09 May 2015 16:46:21 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/property-inspector/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/property-inspector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Requirements</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/requirements/</link>
+      <link>http://localhost:1313/ssdocs/tags/requirements/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/requirements/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/requirements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/sharing/</link>
+      <link>http://localhost:1313/ssdocs/tags/sharing/</link>
       <pubDate>Sun, 10 May 2015 10:33:54 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/sharing/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/sharing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Shortcuts</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/shortcuts/</link>
+      <link>http://localhost:1313/ssdocs/tags/shortcuts/</link>
       <pubDate>Sat, 09 May 2015 16:45:59 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/shortcuts/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/shortcuts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Symbols</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/symbols/</link>
+      <link>http://localhost:1313/ssdocs/tags/symbols/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/symbols/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/symbols/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Table</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/table/</link>
+      <link>http://localhost:1313/ssdocs/tags/table/</link>
       <pubDate>Sat, 09 May 2015 16:48:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/table/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/table/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updating</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/updating/</link>
+      <link>http://localhost:1313/ssdocs/tags/updating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/updating/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/updating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Version 2</title>
-      <link>https://mmclssg1.github.io/ssdocs/tags/version-2/</link>
+      <link>http://localhost:1313/ssdocs/tags/version-2/</link>
       <pubDate>Sat, 09 May 2015 17:05:09 +0200</pubDate>
       
-      <guid>https://mmclssg1.github.io/ssdocs/tags/version-2/</guid>
+      <guid>http://localhost:1313/ssdocs/tags/version-2/</guid>
       <description></description>
     </item>
     
